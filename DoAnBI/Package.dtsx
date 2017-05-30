@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="414"
-  DTS:VersionGUID="{0087C0E5-CAC2-43D3-AAB3-AE6BF6B6180E}">
+  DTS:VersionBuild="416"
+  DTS:VersionGUID="{AFBA08C6-4904-4228-8E5D-72B875CBAA8A}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -23,7 +23,12 @@
       DTS:ObjectName="DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa">
       <DTS:ObjectData>
         <DTS:ConnectionManager
-          DTS:ConnectionString="Data Source=DESKTOP-CS86AG5\SQLEXPRESS;User ID=sa;Initial Catalog=DDS;Provider=SQLNCLI11.1;Auto Translate=False;" />
+          DTS:ConnectionString="Data Source=DESKTOP-CS86AG5\SQLEXPRESS;User ID=sa;Initial Catalog=DDS;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+          <DTS:Password
+            DTS:Name="Password"
+            Sensitive="1"
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABlyFbzs7+Oo1BmKE952/zJKLPSRpiev2lHYLSL6LDewQAAAAAOgAAAAAIAACAAAADqpXbliheTm90KRuaVrtOwxW4Z3h+khd9h1axt0X/mkCAAAADjCFueSOkDWfbYkY1EmsH/vJromjLgMcuEMgCwr7Yt9kAAAAB7FOmpkvwSCaFYoreZhvzUrje7p+k9qGhZV4gfvSLgxu9ngUtP6ZLL2Jnj7S9CyBxspaG+15TBET2I/wxD0Ne8</DTS:Password>
+        </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -33,7 +38,12 @@
       DTS:ObjectName="DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa 1">
       <DTS:ObjectData>
         <DTS:ConnectionManager
-          DTS:ConnectionString="Data Source=DESKTOP-CS86AG5\SQLEXPRESS;User ID=sa;Initial Catalog=DDS;Provider=SQLNCLI11.1;Auto Translate=False;" />
+          DTS:ConnectionString="Data Source=DESKTOP-CS86AG5\SQLEXPRESS;User ID=sa;Initial Catalog=DDS;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+          <DTS:Password
+            DTS:Name="Password"
+            Sensitive="1"
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB9cX7/6Rjtfu+xFcVneyMu08ZXyMeg+hsuDgMs/A5BmQAAAAAOgAAAAAIAACAAAACpt42JlRvrhOzAqapWoNGxeUYo/nSPqN0CD9uwNDzHOyAAAAB+FS0TuanfMdsuUd0rgt2dpoqK+ugI+3bzYpaXBeIHRkAAAAAifaqIoOIR1BJ/AhE1d6wMBziaSb93xC5gynkSS6yWYGFoR0S5kIDbZcVsrgJ9KWcdaFJFRvc7KZdZGHYp65BO</DTS:Password>
+        </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -53,7 +63,12 @@
       DTS:ObjectName="DESKTOP-CS86AG5\SQLEXPRESS.NDS_UKA.sa">
       <DTS:ObjectData>
         <DTS:ConnectionManager
-          DTS:ConnectionString="Data Source=DESKTOP-CS86AG5\SQLEXPRESS;User ID=sa;Initial Catalog=NDS_UKA;Provider=SQLNCLI11.1;Auto Translate=False;" />
+          DTS:ConnectionString="Data Source=DESKTOP-CS86AG5\SQLEXPRESS;User ID=sa;Initial Catalog=NDS_UKA;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+          <DTS:Password
+            DTS:Name="Password"
+            Sensitive="1"
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAZLXc/QT2AWGTITvaliVyHQkhL1xphHK6LstvpAXegtwAAAAAOgAAAAAIAACAAAABQESaP3ZBuvBsxXQn2xf9TKRYg36vYlBBOrcjZ1gIQaSAAAADygUNd7r/iuUrNNrhhpgorBOOGjh4dwdAv8HDWQIGCUUAAAAC8N5/SpWFOhAdNXLPB4qfetJnkCoR4q8iMhJyt+8onnxcPpLAw4dFqfTVVovMYFq7FwHVc8RWfByxV2n6wdfX3</DTS:Password>
+        </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -63,7 +78,12 @@
       DTS:ObjectName="DESKTOP-CS86AG5\SQLEXPRESS.NDS_UKA.sa 1">
       <DTS:ObjectData>
         <DTS:ConnectionManager
-          DTS:ConnectionString="Data Source=DESKTOP-CS86AG5\SQLEXPRESS;User ID=sa;Initial Catalog=NDS_UKA;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;" />
+          DTS:ConnectionString="Data Source=DESKTOP-CS86AG5\SQLEXPRESS;User ID=sa;Initial Catalog=NDS_UKA;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+          <DTS:Password
+            DTS:Name="Password"
+            Sensitive="1"
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAChCmGOaMBTzoA+wQE9VgxpFD2W5DvXaAEOS6YPENP6lQAAAAAOgAAAAAIAACAAAACRVxHFRVhrYEZiYQwQkJSSnmcmC+qxXYfOXBd8FbYNHSAAAAAAyKVKQZb2v4aBJdIadTgBprOZNL1Fxj/xALNs0SFcB0AAAACrmsow13/V5RT4ilNzrd6/padSzuTnU7tCopBSa/i0aP8dcVp33ZE0/6GRLkE1cguUYVNNEPkFD4iXAUac5v2R</DTS:Password>
+        </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -93,7 +113,12 @@
       DTS:ObjectName="DESKTOP-CS86AG5\SQLEXPRESS.UKAccidents0515Part1.sa">
       <DTS:ObjectData>
         <DTS:ConnectionManager
-          DTS:ConnectionString="Data Source=DESKTOP-CS86AG5\SQLEXPRESS;User ID=sa;Initial Catalog=UKAccidents0515Part1;Provider=SQLNCLI11.1;Auto Translate=False;" />
+          DTS:ConnectionString="Data Source=DESKTOP-CS86AG5\SQLEXPRESS;User ID=sa;Initial Catalog=UKAccidents0515Part1;Provider=SQLNCLI11.1;Auto Translate=False;">
+          <DTS:Password
+            DTS:Name="Password"
+            Sensitive="1"
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAC79nO2uPFog5XWel7/HT/bqrb8KYBLpPJRXboSTu/oqQAAAAAOgAAAAAIAACAAAABB8eZTM7itVBM/xs/aeaA15dCOIM1Mo6rOtk2gPxF7XSAAAAA7a2NA8bLvbQzSlJi/Tvl/jN9A7jkSWPSu1iMCks1MHkAAAAClae1OtOdgRV1nre8qWtEm/h1iU9BwGVIsEisVnTT6L8VTL9zqgqHx41wCKrbuIzT1jIMPrzCK1oxEQQ+2Oqne</DTS:Password>
+        </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -113,7 +138,12 @@
       DTS:ObjectName="DESKTOP-CS86AG5\SQLEXPRESS.UKAccidents0515Part2.sa">
       <DTS:ObjectData>
         <DTS:ConnectionManager
-          DTS:ConnectionString="Data Source=DESKTOP-CS86AG5\SQLEXPRESS;User ID=sa;Initial Catalog=UKAccidents0515Part2;Provider=SQLNCLI11.1;Auto Translate=False;" />
+          DTS:ConnectionString="Data Source=DESKTOP-CS86AG5\SQLEXPRESS;User ID=sa;Initial Catalog=UKAccidents0515Part2;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+          <DTS:Password
+            DTS:Name="Password"
+            Sensitive="1"
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADFihZ5ggPy0H6zGdd+pynleLntvBd80v9a7UUBbqgZLwAAAAAOgAAAAAIAACAAAABMcg4S9MVu1jWaNS4jWTr0psvPNNzFE09H46sfNOX0ySAAAABU7srYUEZ2XNEfzG1nFSiZinlVveL1SGfmpDQ+Ut9rxkAAAAACUWy96s8fPryRZVE4UHKmDK7k0a6BhH293Y15i02Ff9ZKjYQ8Uc3RtI6zn5D5tSpSS2043zfa/dIMfNsm4Q2T</DTS:Password>
+        </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -8183,24 +8213,24 @@ where [refTable].[Name] = ? and [refTable].[DataSource] = ? and [refTable].[Stat
               startId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Derived Column.Outputs[Derived Column Output]" />
             <path
               refId="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output3]"
-              endId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Derived Column 1.Inputs[Derived Column Input]"
+              endId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Derived Column 3.Inputs[Derived Column Input]"
               name="Lookup Error Output"
-              startId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Nếu đã tồn tại RoadClass này rồi thì bỏ qua.Outputs[Lookup Error Output]" />
+              startId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Nếu đã tồn tại Severty này rồi thì bỏ qua.Outputs[Lookup Error Output]" />
             <path
               refId="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output2]"
-              endId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Derived Column.Inputs[Derived Column Input]"
-              name="Lookup Error Output"
-              startId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Nếu đã tồn tại Location này rồi thì bỏ qua.Outputs[Lookup Error Output]" />
-            <path
-              refId="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output]"
               endId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Derived Column 2.Inputs[Derived Column Input]"
               name="Lookup Error Output"
               startId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Nếu đã tồn tại Area này rồi thì bỏ qua.Outputs[Lookup Error Output]" />
             <path
-              refId="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output1]"
-              endId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Derived Column 3.Inputs[Derived Column Input]"
+              refId="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output]"
+              endId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Derived Column 1.Inputs[Derived Column Input]"
               name="Lookup Error Output"
-              startId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Nếu đã tồn tại Severty này rồi thì bỏ qua.Outputs[Lookup Error Output]" />
+              startId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Nếu đã tồn tại RoadClass này rồi thì bỏ qua.Outputs[Lookup Error Output]" />
+            <path
+              refId="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output1]"
+              endId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Derived Column.Inputs[Derived Column Input]"
+              name="Lookup Error Output"
+              startId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Nếu đã tồn tại Location này rồi thì bỏ qua.Outputs[Lookup Error Output]" />
             <path
               refId="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Multicast Output 1]"
               endId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Aggregate.Inputs[Aggregate Input 1]"
@@ -26590,6 +26620,381 @@ where [refTable].[YearName] = ?</property>
           version="1">
           <components>
             <component
+              refId="Package\Fact 1\Aggregate"
+              componentClassID="Microsoft.Aggregate"
+              contactInfo="Aggregate;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;3"
+              description="Aggregates data with functions such as Average, Sum, Count, Max, and Min. For example, group data to compute the sum of sales per product or the average visits per day."
+              name="Aggregate"
+              version="3">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the approximate number of group by keys that the aggregation produces. Low indicates 500,000 key values, Medium indicates 5 million key values, and High indicates more than 25 million key values. Unspecified indicates no KeyScale value is used."
+                  name="KeyScale"
+                  typeConverter="KeyScaleType">0</property>
+                <property
+                  dataType="System.Null"
+                  description="Specifies the exact number of group by keys that the aggregation produces. If a KeyScale value is specified, the value in Keys takes precedence."
+                  name="Keys" />
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the approximate number of distinct values in a column that the aggregation counts distinctly. Low indicates 500,000 key values, Medium indicates 5 million key values, and High indicates more than 25 million key values. Unspecified indicates no CountDistinctScale value is used."
+                  name="CountDistinctScale"
+                  typeConverter="KeyScaleType">0</property>
+                <property
+                  dataType="System.Null"
+                  description="Specifies the exact number of distinct values in a column that the aggregation counts distinctly. If a CountDistinctScale value is specified, the value in CountDistinctKeys takes precedence."
+                  name="CountDistinctKeys" />
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the percentage by which memory can be extended during the aggregation. Valid values are between 1 and 100."
+                  name="AutoExtendFactor">25</property>
+              </properties>
+              <inputs>
+                <input
+                  refId="Package\Fact 1\Aggregate.Inputs[Aggregate Input 1]"
+                  name="Aggregate Input 1">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Fact 1\Aggregate.Inputs[Aggregate Input 1].Columns[SevertyID]"
+                      cachedDataType="i4"
+                      cachedName="SevertyID"
+                      lineageId="Package\Fact 1\Severlty ID?.Outputs[Lookup Match Output].Columns[SevertyID]" />
+                    <inputColumn
+                      refId="Package\Fact 1\Aggregate.Inputs[Aggregate Input 1].Columns[LocationID]"
+                      cachedDataType="i4"
+                      cachedName="LocationID"
+                      lineageId="Package\Fact 1\Location ID?.Outputs[Lookup Match Output].Columns[LocationID]" />
+                    <inputColumn
+                      refId="Package\Fact 1\Aggregate.Inputs[Aggregate Input 1].Columns[ThoiDiemID]"
+                      cachedDataType="i4"
+                      cachedName="ThoiDiemID"
+                      lineageId="Package\Fact 1\Thoi diem tai nan.Outputs[Lookup Match Output].Columns[ThoiDiemID]" />
+                    <inputColumn
+                      refId="Package\Fact 1\Aggregate.Inputs[Aggregate Input 1].Columns[DateID]"
+                      cachedDataType="i4"
+                      cachedName="DateID"
+                      lineageId="Package\Fact 1\Date.Outputs[Lookup Match Output].Columns[DateID]" />
+                    <inputColumn
+                      refId="Package\Fact 1\Aggregate.Inputs[Aggregate Input 1].Columns[SoNanNhan]"
+                      cachedDataType="i4"
+                      cachedName="SoNanNhan"
+                      lineageId="Package\Fact 1\NDS.Outputs[OLE DB Source Output].Columns[SoNanNhan]" />
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Fact 1\Aggregate.Outputs[Aggregate Output 1]"
+                  name="Aggregate Output 1">
+                  <properties>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the approximate number of group by keys that the aggregation produces. Low indicates 500,000 key values, Medium indicates 5 million key values, and High indicates more than 25 million key values. Unspecified indicates no KeyScale value is used."
+                      name="KeyScale"
+                      typeConverter="KeyScaleType">0</property>
+                    <property
+                      dataType="System.Null"
+                      description="Specifies the exact number of group by keys that the aggregation produces. If a KeyScale value is specified, the value in Keys takes precedence."
+                      name="Keys" />
+                  </properties>
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Fact 1\Aggregate.Outputs[Aggregate Output 1].Columns[SevertyID]"
+                      dataType="i4"
+                      lineageId="Package\Fact 1\Aggregate.Outputs[Aggregate Output 1].Columns[SevertyID]"
+                      name="SevertyID">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the ID of the input column used in the aggregation."
+                          name="AggregationColumnId">#{Package\Fact 1\Severlty ID?.Outputs[Lookup Match Output].Columns[SevertyID]}</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the type of aggregation."
+                          name="AggregationType"
+                          typeConverter="AggregationType">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Indicates whether the column requires special handling because it may contain oversized data or it requires precision beyond a float data type."
+                          name="IsBig">1</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the string comparison options."
+                          name="AggregationComparisonFlags">0</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Fact 1\Aggregate.Outputs[Aggregate Output 1].Columns[LocationID]"
+                      dataType="i4"
+                      lineageId="Package\Fact 1\Aggregate.Outputs[Aggregate Output 1].Columns[LocationID]"
+                      name="LocationID">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the ID of the input column used in the aggregation."
+                          name="AggregationColumnId">#{Package\Fact 1\Location ID?.Outputs[Lookup Match Output].Columns[LocationID]}</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the type of aggregation."
+                          name="AggregationType"
+                          typeConverter="AggregationType">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Indicates whether the column requires special handling because it may contain oversized data or it requires precision beyond a float data type."
+                          name="IsBig">1</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the string comparison options."
+                          name="AggregationComparisonFlags">0</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Fact 1\Aggregate.Outputs[Aggregate Output 1].Columns[ThoiDiemID]"
+                      dataType="i4"
+                      lineageId="Package\Fact 1\Aggregate.Outputs[Aggregate Output 1].Columns[ThoiDiemID]"
+                      name="ThoiDiemID">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the ID of the input column used in the aggregation."
+                          name="AggregationColumnId">#{Package\Fact 1\Thoi diem tai nan.Outputs[Lookup Match Output].Columns[ThoiDiemID]}</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the type of aggregation."
+                          name="AggregationType"
+                          typeConverter="AggregationType">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Indicates whether the column requires special handling because it may contain oversized data or it requires precision beyond a float data type."
+                          name="IsBig">1</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the string comparison options."
+                          name="AggregationComparisonFlags">0</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Fact 1\Aggregate.Outputs[Aggregate Output 1].Columns[DateID]"
+                      dataType="i4"
+                      lineageId="Package\Fact 1\Aggregate.Outputs[Aggregate Output 1].Columns[DateID]"
+                      name="DateID">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the ID of the input column used in the aggregation."
+                          name="AggregationColumnId">#{Package\Fact 1\Date.Outputs[Lookup Match Output].Columns[DateID]}</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the type of aggregation."
+                          name="AggregationType"
+                          typeConverter="AggregationType">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Indicates whether the column requires special handling because it may contain oversized data or it requires precision beyond a float data type."
+                          name="IsBig">1</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the string comparison options."
+                          name="AggregationComparisonFlags">0</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Fact 1\Aggregate.Outputs[Aggregate Output 1].Columns[SoNanNhan]"
+                      dataType="i8"
+                      lineageId="Package\Fact 1\Aggregate.Outputs[Aggregate Output 1].Columns[SoNanNhan]"
+                      name="SoNanNhan">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the ID of the input column used in the aggregation."
+                          name="AggregationColumnId">#{Package\Fact 1\NDS.Outputs[OLE DB Source Output].Columns[SoNanNhan]}</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the type of aggregation."
+                          name="AggregationType"
+                          typeConverter="AggregationType">4</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Indicates whether the column requires special handling because it may contain oversized data or it requires precision beyond a float data type."
+                          name="IsBig">1</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the string comparison options."
+                          name="AggregationComparisonFlags">0</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Fact 1\Date"
+              componentClassID="Microsoft.Lookup"
+              contactInfo="Lookup;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;6"
+              description="Joins additional columns to the data flow by looking up values in a table. For example, join to the 'employee id' column the employees table to get 'hire date' and 'employee name'. We recommend this transformation when the lookup table can fit into memory."
+              name="Date"
+              usesDispositions="true"
+              version="6">
+              <properties>
+                <property
+                  dataType="System.String"
+                  description="Specifies the SQL statement that generates the lookup table."
+                  expressionType="Notify"
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select * from [dbo].[Date]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies a SQL statement that uses parameters to generate the lookup table."
+                  expressionType="Notify"
+                  name="SqlCommandParam"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select * from (select * from [dbo].[Date]) [refTable]
+where [refTable].[FullDate] = ?</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the type of connection used to access the reference dataset."
+                  name="ConnectionType"
+                  typeConverter="LookupConnectionType">0</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the cache type of the lookup table."
+                  name="CacheType"
+                  typeConverter="CacheType">0</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies how the Lookup transformation handles rows without matching entries in the reference data set."
+                  name="NoMatchBehavior"
+                  typeConverter="LookupNoMatchBehavior">0</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the percentage of the cache that is allocated for rows with no matching entries in the reference dataset."
+                  name="NoMatchCachePercentage">0</property>
+                <property
+                  dataType="System.Int32"
+                  description="Maximum Memory Usage for Reference Cache on a 32 bit platform."
+                  name="MaxMemoryUsage">25</property>
+                <property
+                  dataType="System.Int64"
+                  description="Maximum Memory Usage for Reference Cache on a 64 bit platform."
+                  name="MaxMemoryUsage64">25</property>
+                <property
+                  dataType="System.String"
+                  description="Indicates whether to reference metadata in an XML format."
+                  name="ReferenceMetadataXml">&lt;referenceMetadata&gt;&lt;referenceColumns&gt;&lt;referenceColumn name="DateID" dataType="DT_I4" length="0" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="FullDate" dataType="DT_WSTR" length="20" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="DayID" dataType="DT_I4" length="0" precision="0" scale="0" codePage="0"/&gt;&lt;/referenceColumns&gt;&lt;/referenceMetadata&gt;</property>
+                <property
+                  containsID="true"
+                  dataType="System.String"
+                  description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
+                  name="ParameterMap">#{Package\Fact 1\NDS.Outputs[OLE DB Source Output].Columns[Date]};</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1252</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Determines whether duplicate keys in the reference data should be treated as errors when full cache mode is used."
+                  name="TreatDuplicateKeysAsError">false</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Fact 1\Date.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa 1]"
+                  connectionManagerRefId="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa 1]"
+                  description="Connection manager used to access lookup data."
+                  name="OleDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\Fact 1\Date.Inputs[Lookup Input]"
+                  name="Lookup Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Fact 1\Date.Inputs[Lookup Input].Columns[Date]"
+                      cachedDataType="wstr"
+                      cachedLength="20"
+                      cachedName="Date"
+                      lineageId="Package\Fact 1\NDS.Outputs[OLE DB Source Output].Columns[Date]">
+                      <properties>
+                        <property
+                          dataType="System.String"
+                          description="Specifies the column in the reference table that a column joins."
+                          name="JoinToReferenceColumn">FullDate</property>
+                        <property
+                          dataType="System.Null"
+                          description="Specifies the column in the reference table from which a column is copied."
+                          name="CopyFromReferenceColumn" />
+                      </properties>
+                    </inputColumn>
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Fact 1\Date.Outputs[Lookup Match Output]"
+                  errorOrTruncationOperation="Lookup"
+                  errorRowDisposition="RedirectRow"
+                  exclusionGroup="1"
+                  name="Lookup Match Output"
+                  synchronousInputId="Package\Fact 1\Date.Inputs[Lookup Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Fact 1\Date.Outputs[Lookup Match Output].Columns[DateID]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Copy Column"
+                      lineageId="Package\Fact 1\Date.Outputs[Lookup Match Output].Columns[DateID]"
+                      name="DateID"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.String"
+                          description="Specifies the column in the reference table from which a column is copied."
+                          name="CopyFromReferenceColumn">DateID</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\Fact 1\Date.Outputs[Lookup No Match Output]"
+                  description="The Lookup output that handles rows with no matching entries in the reference dataset. Use this output when the NoMatchBehavior property is set to &quot;Send rows with no matching entries to the no match output.&quot;"
+                  exclusionGroup="1"
+                  name="Lookup No Match Output"
+                  synchronousInputId="Package\Fact 1\Date.Inputs[Lookup Input]">
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\Fact 1\Date.Outputs[Lookup Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="Lookup Error Output"
+                  synchronousInputId="Package\Fact 1\Date.Inputs[Lookup Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Fact 1\Date.Outputs[Lookup Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Fact 1\Date.Outputs[Lookup Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Fact 1\Date.Outputs[Lookup Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Fact 1\Date.Outputs[Lookup Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
               refId="Package\Fact 1\Fact 1"
               componentClassID="Microsoft.OLEDBDestination"
               contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
@@ -26627,7 +27032,7 @@ where [refTable].[YearName] = ?</property>
                   dataType="System.Int32"
                   description="Specifies the mode used to access the database."
                   name="AccessMode"
-                  typeConverter="AccessMode">3</property>
+                  typeConverter="AccessMode">0</property>
                 <property
                   dataType="System.Boolean"
                   description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
@@ -26648,8 +27053,8 @@ where [refTable].[YearName] = ?</property>
               <connections>
                 <connection
                   refId="Package\Fact 1\Fact 1.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[SEAGATE\TTKD.DDS]"
-                  connectionManagerRefId="Package.ConnectionManagers[SEAGATE\TTKD.DDS]"
+                  connectionManagerID="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa 1]"
+                  connectionManagerRefId="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa 1]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -26666,25 +27071,31 @@ where [refTable].[YearName] = ?</property>
                       cachedDataType="i4"
                       cachedName="ThoiDiemID"
                       externalMetadataColumnId="Package\Fact 1\Fact 1.Inputs[OLE DB Destination Input].ExternalColumns[ThoiDiemID]"
-                      lineageId="Package\Fact 1\Thoi diem tai nan.Outputs[Lookup Match Output].Columns[ThoiDiemID]" />
+                      lineageId="Package\Fact 1\Aggregate.Outputs[Aggregate Output 1].Columns[ThoiDiemID]" />
                     <inputColumn
                       refId="Package\Fact 1\Fact 1.Inputs[OLE DB Destination Input].Columns[LocationID]"
                       cachedDataType="i4"
                       cachedName="LocationID"
                       externalMetadataColumnId="Package\Fact 1\Fact 1.Inputs[OLE DB Destination Input].ExternalColumns[LocationID]"
-                      lineageId="Package\Fact 1\Location ID?.Outputs[Lookup Match Output].Columns[LocationID]" />
+                      lineageId="Package\Fact 1\Aggregate.Outputs[Aggregate Output 1].Columns[LocationID]" />
                     <inputColumn
                       refId="Package\Fact 1\Fact 1.Inputs[OLE DB Destination Input].Columns[SevertyID]"
                       cachedDataType="i4"
                       cachedName="SevertyID"
                       externalMetadataColumnId="Package\Fact 1\Fact 1.Inputs[OLE DB Destination Input].ExternalColumns[SevertyID]"
-                      lineageId="Package\Fact 1\Severlty ID?.Outputs[Lookup Match Output].Columns[SevertyID]" />
+                      lineageId="Package\Fact 1\Aggregate.Outputs[Aggregate Output 1].Columns[SevertyID]" />
                     <inputColumn
                       refId="Package\Fact 1\Fact 1.Inputs[OLE DB Destination Input].Columns[SoNanNhan]"
-                      cachedDataType="i4"
+                      cachedDataType="i8"
                       cachedName="SoNanNhan"
                       externalMetadataColumnId="Package\Fact 1\Fact 1.Inputs[OLE DB Destination Input].ExternalColumns[SoTNGT]"
-                      lineageId="Package\Fact 1\NDS.Outputs[OLE DB Source Output].Columns[SoNanNhan]" />
+                      lineageId="Package\Fact 1\Aggregate.Outputs[Aggregate Output 1].Columns[SoNanNhan]" />
+                    <inputColumn
+                      refId="Package\Fact 1\Fact 1.Inputs[OLE DB Destination Input].Columns[DateID]"
+                      cachedDataType="i4"
+                      cachedName="DateID"
+                      externalMetadataColumnId="Package\Fact 1\Fact 1.Inputs[OLE DB Destination Input].ExternalColumns[DateID]"
+                      lineageId="Package\Fact 1\Aggregate.Outputs[Aggregate Output 1].Columns[DateID]" />
                   </inputColumns>
                   <externalMetadataColumns
                     isUsed="True">
@@ -26806,8 +27217,8 @@ where [refTable].[NameLocation] = ?</property>
               <connections>
                 <connection
                   refId="Package\Fact 1\Location ID?.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[SEAGATE\TTKD.DDS]"
-                  connectionManagerRefId="Package.ConnectionManagers[SEAGATE\TTKD.DDS]"
+                  connectionManagerID="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa 1]"
+                  connectionManagerRefId="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa 1]"
                   description="Connection manager used to access lookup data."
                   name="OleDbConnection" />
               </connections>
@@ -26841,7 +27252,7 @@ where [refTable].[NameLocation] = ?</property>
                 <output
                   refId="Package\Fact 1\Location ID?.Outputs[Lookup Match Output]"
                   errorOrTruncationOperation="Lookup"
-                  errorRowDisposition="FailComponent"
+                  errorRowDisposition="RedirectRow"
                   exclusionGroup="1"
                   name="Lookup Match Output"
                   synchronousInputId="Package\Fact 1\Location ID?.Inputs[Lookup Input]">
@@ -26920,12 +27331,12 @@ where [refTable].[NameLocation] = ?</property>
                   dataType="System.String"
                   description="The SQL command to be executed."
                   name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select Severty.Name as Severty, Accidents.Date, accidents.Time, Location.Name as Location, count(*) as SoNanNhan
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select Severty.Name as Severty, Accidents.Date, Accidents.Time, Location.Name as Location, count(*) as SoNanNhan
 from 
-casualties left join Severty on Casualties.SeverityDT = Severty.Ma 
-left join Accidents on Casualties.Ma_AccidentIndex = Accidents.Ma
-left join Location on Accidents.LocationDT = Location.Ma
-group by Severty.Name, Accidents.Date, accidents.time, Location.Name</property>
+Casualties left join Severty on Casualties.SeverityDT = Severty.MaSeverty
+left join Accidents on Casualties.Ma_AccidentIndex = Accidents.MaAccidents
+left join Location on Accidents.LocationDT = Location.MaLocation
+group by Severty.Name, Accidents.Date, Accidents.time, Location.Name</property>
                 <property
                   dataType="System.String"
                   description="The variable that contains the SQL command to be executed."
@@ -26951,8 +27362,8 @@ group by Severty.Name, Accidents.Date, accidents.time, Location.Name</property>
               <connections>
                 <connection
                   refId="Package\Fact 1\NDS.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[seagate\ttkd.NDS_UKA]"
-                  connectionManagerRefId="Package.ConnectionManagers[seagate\ttkd.NDS_UKA]"
+                  connectionManagerID="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.NDS_UKA.sa 1]"
+                  connectionManagerRefId="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.NDS_UKA.sa 1]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -27160,8 +27571,8 @@ where [refTable].[NameSeverty] = ?</property>
               <connections>
                 <connection
                   refId="Package\Fact 1\Severlty ID?.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[SEAGATE\TTKD.DDS]"
-                  connectionManagerRefId="Package.ConnectionManagers[SEAGATE\TTKD.DDS]"
+                  connectionManagerID="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa 1]"
+                  connectionManagerRefId="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa 1]"
                   description="Connection manager used to access lookup data."
                   name="OleDbConnection" />
               </connections>
@@ -27195,7 +27606,7 @@ where [refTable].[NameSeverty] = ?</property>
                 <output
                   refId="Package\Fact 1\Severlty ID?.Outputs[Lookup Match Output]"
                   errorOrTruncationOperation="Lookup"
-                  errorRowDisposition="FailComponent"
+                  errorRowDisposition="RedirectRow"
                   exclusionGroup="1"
                   name="Lookup Match Output"
                   synchronousInputId="Package\Fact 1\Severlty ID?.Inputs[Lookup Input]">
@@ -27320,8 +27731,8 @@ where timestart &lt;= ? and ? &lt; timeend</property>
               <connections>
                 <connection
                   refId="Package\Fact 1\Thoi diem tai nan.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[SEAGATE\TTKD.DDS]"
-                  connectionManagerRefId="Package.ConnectionManagers[SEAGATE\TTKD.DDS]"
+                  connectionManagerID="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa 1]"
+                  connectionManagerRefId="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa 1]"
                   description="Connection manager used to access lookup data."
                   name="OleDbConnection" />
               </connections>
@@ -27355,7 +27766,7 @@ where timestart &lt;= ? and ? &lt; timeend</property>
                 <output
                   refId="Package\Fact 1\Thoi diem tai nan.Outputs[Lookup Match Output]"
                   errorOrTruncationOperation="Lookup"
-                  errorRowDisposition="FailComponent"
+                  errorRowDisposition="RedirectRow"
                   exclusionGroup="1"
                   name="Lookup Match Output"
                   synchronousInputId="Package\Fact 1\Thoi diem tai nan.Inputs[Lookup Input]">
@@ -27412,6 +27823,11 @@ where timestart &lt;= ? and ? &lt; timeend</property>
           </components>
           <paths>
             <path
+              refId="Package\Fact 1.Paths[Aggregate Output 1]"
+              endId="Package\Fact 1\Fact 1.Inputs[OLE DB Destination Input]"
+              name="Aggregate Output 1"
+              startId="Package\Fact 1\Aggregate.Outputs[Aggregate Output 1]" />
+            <path
               refId="Package\Fact 1.Paths[Lookup Match Output]"
               endId="Package\Fact 1\Location ID?.Inputs[Lookup Input]"
               name="Lookup Match Output"
@@ -27423,12 +27839,17 @@ where timestart &lt;= ? and ? &lt; timeend</property>
               startId="Package\Fact 1\Location ID?.Outputs[Lookup Match Output]" />
             <path
               refId="Package\Fact 1.Paths[Lookup Match Output2]"
-              endId="Package\Fact 1\Fact 1.Inputs[OLE DB Destination Input]"
+              endId="Package\Fact 1\Thoi diem tai nan.Inputs[Lookup Input]"
+              name="Lookup Match Output"
+              startId="Package\Fact 1\Date.Outputs[Lookup Match Output]" />
+            <path
+              refId="Package\Fact 1.Paths[Lookup Match Output3]"
+              endId="Package\Fact 1\Aggregate.Inputs[Aggregate Input 1]"
               name="Lookup Match Output"
               startId="Package\Fact 1\Severlty ID?.Outputs[Lookup Match Output]" />
             <path
               refId="Package\Fact 1.Paths[OLE DB Source Output]"
-              endId="Package\Fact 1\Thoi diem tai nan.Inputs[Lookup Input]"
+              endId="Package\Fact 1\Date.Inputs[Lookup Input]"
               name="OLE DB Source Output"
               startId="Package\Fact 1\NDS.Outputs[OLE DB Source Output]" />
           </paths>
@@ -28088,6 +28509,253 @@ where [refTable].[NameVehicleType] = ?</property>
           version="1">
           <components>
             <component
+              refId="Package\Fact3\Aggregate"
+              componentClassID="Microsoft.Aggregate"
+              contactInfo="Aggregate;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;3"
+              description="Aggregates data with functions such as Average, Sum, Count, Max, and Min. For example, group data to compute the sum of sales per product or the average visits per day."
+              name="Aggregate"
+              version="3">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the approximate number of group by keys that the aggregation produces. Low indicates 500,000 key values, Medium indicates 5 million key values, and High indicates more than 25 million key values. Unspecified indicates no KeyScale value is used."
+                  name="KeyScale"
+                  typeConverter="KeyScaleType">0</property>
+                <property
+                  dataType="System.Null"
+                  description="Specifies the exact number of group by keys that the aggregation produces. If a KeyScale value is specified, the value in Keys takes precedence."
+                  name="Keys" />
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the approximate number of distinct values in a column that the aggregation counts distinctly. Low indicates 500,000 key values, Medium indicates 5 million key values, and High indicates more than 25 million key values. Unspecified indicates no CountDistinctScale value is used."
+                  name="CountDistinctScale"
+                  typeConverter="KeyScaleType">0</property>
+                <property
+                  dataType="System.Null"
+                  description="Specifies the exact number of distinct values in a column that the aggregation counts distinctly. If a CountDistinctScale value is specified, the value in CountDistinctKeys takes precedence."
+                  name="CountDistinctKeys" />
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the percentage by which memory can be extended during the aggregation. Valid values are between 1 and 100."
+                  name="AutoExtendFactor">25</property>
+              </properties>
+              <inputs>
+                <input
+                  refId="Package\Fact3\Aggregate.Inputs[Aggregate Input 1]"
+                  name="Aggregate Input 1">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Fact3\Aggregate.Inputs[Aggregate Input 1].Columns[SevertyID]"
+                      cachedDataType="i4"
+                      cachedName="SevertyID"
+                      lineageId="Package\Fact3\Severty.Outputs[Lookup Match Output].Columns[SevertyID]" />
+                    <inputColumn
+                      refId="Package\Fact3\Aggregate.Inputs[Aggregate Input 1].Columns[DateID]"
+                      cachedDataType="i4"
+                      cachedName="DateID"
+                      lineageId="Package\Fact3\Date.Outputs[Lookup Match Output].Columns[DateID]" />
+                    <inputColumn
+                      refId="Package\Fact3\Aggregate.Inputs[Aggregate Input 1].Columns[AreaID]"
+                      cachedDataType="i4"
+                      cachedName="AreaID"
+                      lineageId="Package\Fact3\Area.Outputs[Lookup Match Output].Columns[AreaID]" />
+                    <inputColumn
+                      refId="Package\Fact3\Aggregate.Inputs[Aggregate Input 1].Columns[RoadClassID]"
+                      cachedDataType="i4"
+                      cachedName="RoadClassID"
+                      lineageId="Package\Fact3\RoadClass.Outputs[Lookup Match Output].Columns[RoadClassID]" />
+                    <inputColumn
+                      refId="Package\Fact3\Aggregate.Inputs[Aggregate Input 1].Columns[SoTNGT]"
+                      cachedDataType="i4"
+                      cachedName="SoTNGT"
+                      lineageId="Package\Fact3\OLE DB Source 1.Outputs[OLE DB Source Output].Columns[SoTNGT]" />
+                    <inputColumn
+                      refId="Package\Fact3\Aggregate.Inputs[Aggregate Input 1].Columns[SpeedMaxID]"
+                      cachedDataType="i4"
+                      cachedName="SpeedMaxID"
+                      lineageId="Package\Fact3\SpeedMax.Outputs[Lookup Match Output].Columns[SpeedMaxID]" />
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Fact3\Aggregate.Outputs[Aggregate Output 1]"
+                  name="Aggregate Output 1">
+                  <properties>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the approximate number of group by keys that the aggregation produces. Low indicates 500,000 key values, Medium indicates 5 million key values, and High indicates more than 25 million key values. Unspecified indicates no KeyScale value is used."
+                      name="KeyScale"
+                      typeConverter="KeyScaleType">0</property>
+                    <property
+                      dataType="System.Null"
+                      description="Specifies the exact number of group by keys that the aggregation produces. If a KeyScale value is specified, the value in Keys takes precedence."
+                      name="Keys" />
+                  </properties>
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Fact3\Aggregate.Outputs[Aggregate Output 1].Columns[SevertyID]"
+                      dataType="i4"
+                      lineageId="Package\Fact3\Aggregate.Outputs[Aggregate Output 1].Columns[SevertyID]"
+                      name="SevertyID">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the ID of the input column used in the aggregation."
+                          name="AggregationColumnId">#{Package\Fact3\Severty.Outputs[Lookup Match Output].Columns[SevertyID]}</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the type of aggregation."
+                          name="AggregationType"
+                          typeConverter="AggregationType">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Indicates whether the column requires special handling because it may contain oversized data or it requires precision beyond a float data type."
+                          name="IsBig">1</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the string comparison options."
+                          name="AggregationComparisonFlags">0</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Fact3\Aggregate.Outputs[Aggregate Output 1].Columns[DateID]"
+                      dataType="i4"
+                      lineageId="Package\Fact3\Aggregate.Outputs[Aggregate Output 1].Columns[DateID]"
+                      name="DateID">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the ID of the input column used in the aggregation."
+                          name="AggregationColumnId">#{Package\Fact3\Date.Outputs[Lookup Match Output].Columns[DateID]}</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the type of aggregation."
+                          name="AggregationType"
+                          typeConverter="AggregationType">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Indicates whether the column requires special handling because it may contain oversized data or it requires precision beyond a float data type."
+                          name="IsBig">1</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the string comparison options."
+                          name="AggregationComparisonFlags">0</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Fact3\Aggregate.Outputs[Aggregate Output 1].Columns[AreaID]"
+                      dataType="i4"
+                      lineageId="Package\Fact3\Aggregate.Outputs[Aggregate Output 1].Columns[AreaID]"
+                      name="AreaID">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the ID of the input column used in the aggregation."
+                          name="AggregationColumnId">#{Package\Fact3\Area.Outputs[Lookup Match Output].Columns[AreaID]}</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the type of aggregation."
+                          name="AggregationType"
+                          typeConverter="AggregationType">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Indicates whether the column requires special handling because it may contain oversized data or it requires precision beyond a float data type."
+                          name="IsBig">1</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the string comparison options."
+                          name="AggregationComparisonFlags">0</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Fact3\Aggregate.Outputs[Aggregate Output 1].Columns[RoadClassID]"
+                      dataType="i4"
+                      lineageId="Package\Fact3\Aggregate.Outputs[Aggregate Output 1].Columns[RoadClassID]"
+                      name="RoadClassID">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the ID of the input column used in the aggregation."
+                          name="AggregationColumnId">#{Package\Fact3\RoadClass.Outputs[Lookup Match Output].Columns[RoadClassID]}</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the type of aggregation."
+                          name="AggregationType"
+                          typeConverter="AggregationType">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Indicates whether the column requires special handling because it may contain oversized data or it requires precision beyond a float data type."
+                          name="IsBig">1</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the string comparison options."
+                          name="AggregationComparisonFlags">0</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Fact3\Aggregate.Outputs[Aggregate Output 1].Columns[SpeedMaxID]"
+                      dataType="i4"
+                      lineageId="Package\Fact3\Aggregate.Outputs[Aggregate Output 1].Columns[SpeedMaxID]"
+                      name="SpeedMaxID">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the ID of the input column used in the aggregation."
+                          name="AggregationColumnId">#{Package\Fact3\SpeedMax.Outputs[Lookup Match Output].Columns[SpeedMaxID]}</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the type of aggregation."
+                          name="AggregationType"
+                          typeConverter="AggregationType">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Indicates whether the column requires special handling because it may contain oversized data or it requires precision beyond a float data type."
+                          name="IsBig">1</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the string comparison options."
+                          name="AggregationComparisonFlags">0</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Fact3\Aggregate.Outputs[Aggregate Output 1].Columns[SoTNGT]"
+                      dataType="i8"
+                      lineageId="Package\Fact3\Aggregate.Outputs[Aggregate Output 1].Columns[SoTNGT]"
+                      name="SoTNGT">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the ID of the input column used in the aggregation."
+                          name="AggregationColumnId">#{Package\Fact3\OLE DB Source 1.Outputs[OLE DB Source Output].Columns[SoTNGT]}</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the type of aggregation."
+                          name="AggregationType"
+                          typeConverter="AggregationType">4</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Indicates whether the column requires special handling because it may contain oversized data or it requires precision beyond a float data type."
+                          name="IsBig">1</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the string comparison options."
+                          name="AggregationComparisonFlags">0</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
               refId="Package\Fact3\Area"
               componentClassID="Microsoft.Lookup"
               contactInfo="Lookup;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;6"
@@ -28157,8 +28825,8 @@ where [refTable].[NameArea] = ?</property>
               <connections>
                 <connection
                   refId="Package\Fact3\Area.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[TRUNG_NHAN\SQLEXPRESS.DDS]"
-                  connectionManagerRefId="Package.ConnectionManagers[TRUNG_NHAN\SQLEXPRESS.DDS]"
+                  connectionManagerID="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa 1]"
+                  connectionManagerRefId="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa 1]"
                   description="Connection manager used to access lookup data."
                   name="OleDbConnection" />
               </connections>
@@ -28192,7 +28860,7 @@ where [refTable].[NameArea] = ?</property>
                 <output
                   refId="Package\Fact3\Area.Outputs[Lookup Match Output]"
                   errorOrTruncationOperation="Lookup"
-                  errorRowDisposition="FailComponent"
+                  errorRowDisposition="RedirectRow"
                   exclusionGroup="1"
                   name="Lookup Match Output"
                   synchronousInputId="Package\Fact3\Area.Inputs[Lookup Input]">
@@ -28247,11 +28915,92 @@ where [refTable].[NameArea] = ?</property>
               </outputs>
             </component>
             <component
-              refId="Package\Fact3\Lookup 1"
+              refId="Package\Fact3\convert speedmax"
+              componentClassID="Microsoft.DerivedColumn"
+              contactInfo="Derived Column;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+              description="Creates new column values by applying expressions to transformation input columns. Create new columns or overwrite existing ones. For example, concatenate the values from the 'first name' and 'last name' column to make a 'full name' column."
+              name="convert speedmax"
+              usesDispositions="true">
+              <inputs>
+                <input
+                  refId="Package\Fact3\convert speedmax.Inputs[Derived Column Input]"
+                  description="Input to the Derived Column Transformation"
+                  name="Derived Column Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Fact3\convert speedmax.Inputs[Derived Column Input].Columns[SpeedMax]"
+                      cachedDataType="r8"
+                      cachedName="SpeedMax"
+                      lineageId="Package\Fact3\OLE DB Source 1.Outputs[OLE DB Source Output].Columns[SpeedMax]" />
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Fact3\convert speedmax.Outputs[Derived Column Output]"
+                  description="Default Output of the Derived Column Transformation"
+                  exclusionGroup="1"
+                  name="Derived Column Output"
+                  synchronousInputId="Package\Fact3\convert speedmax.Inputs[Derived Column Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Fact3\convert speedmax.Outputs[Derived Column Output].Columns[SpeedMaxConvert]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      length="50"
+                      lineageId="Package\Fact3\convert speedmax.Outputs[Derived Column Output].Columns[SpeedMaxConvert]"
+                      name="SpeedMaxConvert"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">(DT_WSTR,50)#{Package\Fact3\OLE DB Source 1.Outputs[OLE DB Source Output].Columns[SpeedMax]}</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">(DT_WSTR,50)SpeedMax</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\Fact3\convert speedmax.Outputs[Derived Column Error Output]"
+                  description="Error Output of the Derived Column Transformation"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="Derived Column Error Output"
+                  synchronousInputId="Package\Fact3\convert speedmax.Inputs[Derived Column Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Fact3\convert speedmax.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Fact3\convert speedmax.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Fact3\convert speedmax.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Fact3\convert speedmax.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Fact3\Date"
               componentClassID="Microsoft.Lookup"
               contactInfo="Lookup;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;6"
               description="Joins additional columns to the data flow by looking up values in a table. For example, join to the 'employee id' column the employees table to get 'hire date' and 'employee name'. We recommend this transformation when the lookup table can fit into memory."
-              name="Lookup 1"
+              name="Date"
               usesDispositions="true"
               version="6">
               <properties>
@@ -28315,19 +29064,19 @@ where [refTable].[FullDate] = ?</property>
               </properties>
               <connections>
                 <connection
-                  refId="Package\Fact3\Lookup 1.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[TRUNG_NHAN\SQLEXPRESS.DDS]"
-                  connectionManagerRefId="Package.ConnectionManagers[TRUNG_NHAN\SQLEXPRESS.DDS]"
+                  refId="Package\Fact3\Date.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa 1]"
+                  connectionManagerRefId="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa 1]"
                   description="Connection manager used to access lookup data."
                   name="OleDbConnection" />
               </connections>
               <inputs>
                 <input
-                  refId="Package\Fact3\Lookup 1.Inputs[Lookup Input]"
+                  refId="Package\Fact3\Date.Inputs[Lookup Input]"
                   name="Lookup Input">
                   <inputColumns>
                     <inputColumn
-                      refId="Package\Fact3\Lookup 1.Inputs[Lookup Input].Columns[Date]"
+                      refId="Package\Fact3\Date.Inputs[Lookup Input].Columns[Date]"
                       cachedDataType="wstr"
                       cachedLength="20"
                       cachedName="Date"
@@ -28349,18 +29098,18 @@ where [refTable].[FullDate] = ?</property>
               </inputs>
               <outputs>
                 <output
-                  refId="Package\Fact3\Lookup 1.Outputs[Lookup Match Output]"
+                  refId="Package\Fact3\Date.Outputs[Lookup Match Output]"
                   errorOrTruncationOperation="Lookup"
-                  errorRowDisposition="FailComponent"
+                  errorRowDisposition="RedirectRow"
                   exclusionGroup="1"
                   name="Lookup Match Output"
-                  synchronousInputId="Package\Fact3\Lookup 1.Inputs[Lookup Input]">
+                  synchronousInputId="Package\Fact3\Date.Inputs[Lookup Input]">
                   <outputColumns>
                     <outputColumn
-                      refId="Package\Fact3\Lookup 1.Outputs[Lookup Match Output].Columns[DateID]"
+                      refId="Package\Fact3\Date.Outputs[Lookup Match Output].Columns[DateID]"
                       dataType="i4"
                       errorOrTruncationOperation="Copy Column"
-                      lineageId="Package\Fact3\Lookup 1.Outputs[Lookup Match Output].Columns[DateID]"
+                      lineageId="Package\Fact3\Date.Outputs[Lookup Match Output].Columns[DateID]"
                       name="DateID"
                       truncationRowDisposition="FailComponent">
                       <properties>
@@ -28374,189 +29123,30 @@ where [refTable].[FullDate] = ?</property>
                   <externalMetadataColumns />
                 </output>
                 <output
-                  refId="Package\Fact3\Lookup 1.Outputs[Lookup No Match Output]"
+                  refId="Package\Fact3\Date.Outputs[Lookup No Match Output]"
                   description="The Lookup output that handles rows with no matching entries in the reference dataset. Use this output when the NoMatchBehavior property is set to &quot;Send rows with no matching entries to the no match output.&quot;"
                   exclusionGroup="1"
                   name="Lookup No Match Output"
-                  synchronousInputId="Package\Fact3\Lookup 1.Inputs[Lookup Input]">
+                  synchronousInputId="Package\Fact3\Date.Inputs[Lookup Input]">
                   <externalMetadataColumns />
                 </output>
                 <output
-                  refId="Package\Fact3\Lookup 1.Outputs[Lookup Error Output]"
+                  refId="Package\Fact3\Date.Outputs[Lookup Error Output]"
                   exclusionGroup="1"
                   isErrorOut="true"
                   name="Lookup Error Output"
-                  synchronousInputId="Package\Fact3\Lookup 1.Inputs[Lookup Input]">
+                  synchronousInputId="Package\Fact3\Date.Inputs[Lookup Input]">
                   <outputColumns>
                     <outputColumn
-                      refId="Package\Fact3\Lookup 1.Outputs[Lookup Error Output].Columns[ErrorCode]"
+                      refId="Package\Fact3\Date.Outputs[Lookup Error Output].Columns[ErrorCode]"
                       dataType="i4"
-                      lineageId="Package\Fact3\Lookup 1.Outputs[Lookup Error Output].Columns[ErrorCode]"
+                      lineageId="Package\Fact3\Date.Outputs[Lookup Error Output].Columns[ErrorCode]"
                       name="ErrorCode"
                       specialFlags="1" />
                     <outputColumn
-                      refId="Package\Fact3\Lookup 1.Outputs[Lookup Error Output].Columns[ErrorColumn]"
+                      refId="Package\Fact3\Date.Outputs[Lookup Error Output].Columns[ErrorColumn]"
                       dataType="i4"
-                      lineageId="Package\Fact3\Lookup 1.Outputs[Lookup Error Output].Columns[ErrorColumn]"
-                      name="ErrorColumn"
-                      specialFlags="2" />
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-              </outputs>
-            </component>
-            <component
-              refId="Package\Fact3\Lookup 2"
-              componentClassID="Microsoft.Lookup"
-              contactInfo="Lookup;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;6"
-              description="Joins additional columns to the data flow by looking up values in a table. For example, join to the 'employee id' column the employees table to get 'hire date' and 'employee name'. We recommend this transformation when the lookup table can fit into memory."
-              name="Lookup 2"
-              usesDispositions="true"
-              version="6">
-              <properties>
-                <property
-                  dataType="System.String"
-                  description="Specifies the SQL statement that generates the lookup table."
-                  expressionType="Notify"
-                  name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select * from [dbo].[Severty]</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies a SQL statement that uses parameters to generate the lookup table."
-                  expressionType="Notify"
-                  name="SqlCommandParam"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select * from (select * from [dbo].[Severty]) [refTable]
-where [refTable].[NameSeverty] = ?</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the type of connection used to access the reference dataset."
-                  name="ConnectionType"
-                  typeConverter="LookupConnectionType">0</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the cache type of the lookup table."
-                  name="CacheType"
-                  typeConverter="CacheType">0</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies how the Lookup transformation handles rows without matching entries in the reference data set."
-                  name="NoMatchBehavior"
-                  typeConverter="LookupNoMatchBehavior">0</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the percentage of the cache that is allocated for rows with no matching entries in the reference dataset."
-                  name="NoMatchCachePercentage">0</property>
-                <property
-                  dataType="System.Int32"
-                  description="Maximum Memory Usage for Reference Cache on a 32 bit platform."
-                  name="MaxMemoryUsage">25</property>
-                <property
-                  dataType="System.Int64"
-                  description="Maximum Memory Usage for Reference Cache on a 64 bit platform."
-                  name="MaxMemoryUsage64">25</property>
-                <property
-                  dataType="System.String"
-                  description="Indicates whether to reference metadata in an XML format."
-                  name="ReferenceMetadataXml">&lt;referenceMetadata&gt;&lt;referenceColumns&gt;&lt;referenceColumn name="SevertyID" dataType="DT_I4" length="0" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="NameSeverty" dataType="DT_WSTR" length="100" precision="0" scale="0" codePage="0"/&gt;&lt;/referenceColumns&gt;&lt;/referenceMetadata&gt;</property>
-                <property
-                  containsID="true"
-                  dataType="System.String"
-                  description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
-                  name="ParameterMap">#{Package\Fact3\OLE DB Source 1.Outputs[OLE DB Source Output].Columns[Severty]};</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the column code page to use when code page information is unavailable from the data source."
-                  name="DefaultCodePage">1252</property>
-                <property
-                  dataType="System.Boolean"
-                  description="Determines whether duplicate keys in the reference data should be treated as errors when full cache mode is used."
-                  name="TreatDuplicateKeysAsError">false</property>
-              </properties>
-              <connections>
-                <connection
-                  refId="Package\Fact3\Lookup 2.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[TRUNG_NHAN\SQLEXPRESS.DDS]"
-                  connectionManagerRefId="Package.ConnectionManagers[TRUNG_NHAN\SQLEXPRESS.DDS]"
-                  description="Connection manager used to access lookup data."
-                  name="OleDbConnection" />
-              </connections>
-              <inputs>
-                <input
-                  refId="Package\Fact3\Lookup 2.Inputs[Lookup Input]"
-                  name="Lookup Input">
-                  <inputColumns>
-                    <inputColumn
-                      refId="Package\Fact3\Lookup 2.Inputs[Lookup Input].Columns[Severty]"
-                      cachedDataType="wstr"
-                      cachedLength="100"
-                      cachedName="Severty"
-                      lineageId="Package\Fact3\OLE DB Source 1.Outputs[OLE DB Source Output].Columns[Severty]">
-                      <properties>
-                        <property
-                          dataType="System.String"
-                          description="Specifies the column in the reference table that a column joins."
-                          name="JoinToReferenceColumn">NameSeverty</property>
-                        <property
-                          dataType="System.Null"
-                          description="Specifies the column in the reference table from which a column is copied."
-                          name="CopyFromReferenceColumn" />
-                      </properties>
-                    </inputColumn>
-                  </inputColumns>
-                  <externalMetadataColumns />
-                </input>
-              </inputs>
-              <outputs>
-                <output
-                  refId="Package\Fact3\Lookup 2.Outputs[Lookup Match Output]"
-                  errorOrTruncationOperation="Lookup"
-                  errorRowDisposition="FailComponent"
-                  exclusionGroup="1"
-                  name="Lookup Match Output"
-                  synchronousInputId="Package\Fact3\Lookup 2.Inputs[Lookup Input]">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\Fact3\Lookup 2.Outputs[Lookup Match Output].Columns[SevertyID]"
-                      dataType="i4"
-                      errorOrTruncationOperation="Copy Column"
-                      lineageId="Package\Fact3\Lookup 2.Outputs[Lookup Match Output].Columns[SevertyID]"
-                      name="SevertyID"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          dataType="System.String"
-                          description="Specifies the column in the reference table from which a column is copied."
-                          name="CopyFromReferenceColumn">SevertyID</property>
-                      </properties>
-                    </outputColumn>
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-                <output
-                  refId="Package\Fact3\Lookup 2.Outputs[Lookup No Match Output]"
-                  description="The Lookup output that handles rows with no matching entries in the reference dataset. Use this output when the NoMatchBehavior property is set to &quot;Send rows with no matching entries to the no match output.&quot;"
-                  exclusionGroup="1"
-                  name="Lookup No Match Output"
-                  synchronousInputId="Package\Fact3\Lookup 2.Inputs[Lookup Input]">
-                  <externalMetadataColumns />
-                </output>
-                <output
-                  refId="Package\Fact3\Lookup 2.Outputs[Lookup Error Output]"
-                  exclusionGroup="1"
-                  isErrorOut="true"
-                  name="Lookup Error Output"
-                  synchronousInputId="Package\Fact3\Lookup 2.Inputs[Lookup Input]">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\Fact3\Lookup 2.Outputs[Lookup Error Output].Columns[ErrorCode]"
-                      dataType="i4"
-                      lineageId="Package\Fact3\Lookup 2.Outputs[Lookup Error Output].Columns[ErrorCode]"
-                      name="ErrorCode"
-                      specialFlags="1" />
-                    <outputColumn
-                      refId="Package\Fact3\Lookup 2.Outputs[Lookup Error Output].Columns[ErrorColumn]"
-                      dataType="i4"
-                      lineageId="Package\Fact3\Lookup 2.Outputs[Lookup Error Output].Columns[ErrorColumn]"
+                      lineageId="Package\Fact3\Date.Outputs[Lookup Error Output].Columns[ErrorColumn]"
                       name="ErrorColumn"
                       specialFlags="2" />
                   </outputColumns>
@@ -28602,7 +29192,7 @@ where [refTable].[NameSeverty] = ?</property>
                   dataType="System.Int32"
                   description="Specifies the mode used to access the database."
                   name="AccessMode"
-                  typeConverter="AccessMode">3</property>
+                  typeConverter="AccessMode">0</property>
                 <property
                   dataType="System.Boolean"
                   description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
@@ -28623,8 +29213,8 @@ where [refTable].[NameSeverty] = ?</property>
               <connections>
                 <connection
                   refId="Package\Fact3\OLE DB Destination.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[TRUNG_NHAN\SQLEXPRESS.DDS]"
-                  connectionManagerRefId="Package.ConnectionManagers[TRUNG_NHAN\SQLEXPRESS.DDS]"
+                  connectionManagerID="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa 1]"
+                  connectionManagerRefId="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa 1]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -28638,40 +29228,40 @@ where [refTable].[NameSeverty] = ?</property>
                   <inputColumns>
                     <inputColumn
                       refId="Package\Fact3\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[SoTNGT]"
-                      cachedDataType="i4"
+                      cachedDataType="i8"
                       cachedName="SoTNGT"
                       externalMetadataColumnId="Package\Fact3\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[SoTNGT]"
-                      lineageId="Package\Fact3\OLE DB Source 1.Outputs[OLE DB Source Output].Columns[SoTNGT]" />
+                      lineageId="Package\Fact3\Aggregate.Outputs[Aggregate Output 1].Columns[SoTNGT]" />
                     <inputColumn
                       refId="Package\Fact3\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[RoadClassID]"
                       cachedDataType="i4"
                       cachedName="RoadClassID"
                       externalMetadataColumnId="Package\Fact3\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[RoadClassID]"
-                      lineageId="Package\Fact3\RoadClass.Outputs[Lookup Match Output].Columns[RoadClassID]" />
+                      lineageId="Package\Fact3\Aggregate.Outputs[Aggregate Output 1].Columns[RoadClassID]" />
                     <inputColumn
                       refId="Package\Fact3\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[AreaID]"
                       cachedDataType="i4"
                       cachedName="AreaID"
                       externalMetadataColumnId="Package\Fact3\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[AreaID]"
-                      lineageId="Package\Fact3\Area.Outputs[Lookup Match Output].Columns[AreaID]" />
+                      lineageId="Package\Fact3\Aggregate.Outputs[Aggregate Output 1].Columns[AreaID]" />
                     <inputColumn
                       refId="Package\Fact3\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[DateID]"
                       cachedDataType="i4"
                       cachedName="DateID"
                       externalMetadataColumnId="Package\Fact3\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[DateID]"
-                      lineageId="Package\Fact3\Lookup 1.Outputs[Lookup Match Output].Columns[DateID]" />
+                      lineageId="Package\Fact3\Aggregate.Outputs[Aggregate Output 1].Columns[DateID]" />
                     <inputColumn
                       refId="Package\Fact3\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[SevertyID]"
                       cachedDataType="i4"
                       cachedName="SevertyID"
                       externalMetadataColumnId="Package\Fact3\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[SevertyID]"
-                      lineageId="Package\Fact3\Lookup 2.Outputs[Lookup Match Output].Columns[SevertyID]" />
+                      lineageId="Package\Fact3\Aggregate.Outputs[Aggregate Output 1].Columns[SevertyID]" />
                     <inputColumn
-                      refId="Package\Fact3\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[SpeedMax]"
-                      cachedDataType="r8"
-                      cachedName="SpeedMax"
+                      refId="Package\Fact3\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[SpeedMaxID]"
+                      cachedDataType="i4"
+                      cachedName="SpeedMaxID"
                       externalMetadataColumnId="Package\Fact3\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[SpeedMaxID]"
-                      lineageId="Package\Fact3\OLE DB Source 1.Outputs[OLE DB Source Output].Columns[SpeedMax]" />
+                      lineageId="Package\Fact3\Aggregate.Outputs[Aggregate Output 1].Columns[SpeedMaxID]" />
                   </inputColumns>
                   <externalMetadataColumns
                     isUsed="True">
@@ -28782,8 +29372,8 @@ group by Severty.Name, Accidents.Date,  Area.Name, RoadClass.Name, Accidents.Spe
               <connections>
                 <connection
                   refId="Package\Fact3\OLE DB Source 1.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[TRUNG_NHAN\SQLEXPRESS.NDS_UKA]"
-                  connectionManagerRefId="Package.ConnectionManagers[TRUNG_NHAN\SQLEXPRESS.NDS_UKA]"
+                  connectionManagerID="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.NDS_UKA.sa 1]"
+                  connectionManagerRefId="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.NDS_UKA.sa 1]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -29009,8 +29599,8 @@ where [refTable].[NameRoadClass] = ?</property>
               <connections>
                 <connection
                   refId="Package\Fact3\RoadClass.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[TRUNG_NHAN\SQLEXPRESS.DDS]"
-                  connectionManagerRefId="Package.ConnectionManagers[TRUNG_NHAN\SQLEXPRESS.DDS]"
+                  connectionManagerID="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa 1]"
+                  connectionManagerRefId="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa 1]"
                   description="Connection manager used to access lookup data."
                   name="OleDbConnection" />
               </connections>
@@ -29044,7 +29634,7 @@ where [refTable].[NameRoadClass] = ?</property>
                 <output
                   refId="Package\Fact3\RoadClass.Outputs[Lookup Match Output]"
                   errorOrTruncationOperation="Lookup"
-                  errorRowDisposition="FailComponent"
+                  errorRowDisposition="RedirectRow"
                   exclusionGroup="1"
                   name="Lookup Match Output"
                   synchronousInputId="Package\Fact3\RoadClass.Inputs[Lookup Input]">
@@ -29098,8 +29688,336 @@ where [refTable].[NameRoadClass] = ?</property>
                 </output>
               </outputs>
             </component>
+            <component
+              refId="Package\Fact3\Severty"
+              componentClassID="Microsoft.Lookup"
+              contactInfo="Lookup;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;6"
+              description="Joins additional columns to the data flow by looking up values in a table. For example, join to the 'employee id' column the employees table to get 'hire date' and 'employee name'. We recommend this transformation when the lookup table can fit into memory."
+              name="Severty"
+              usesDispositions="true"
+              version="6">
+              <properties>
+                <property
+                  dataType="System.String"
+                  description="Specifies the SQL statement that generates the lookup table."
+                  expressionType="Notify"
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select * from [dbo].[Severty]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies a SQL statement that uses parameters to generate the lookup table."
+                  expressionType="Notify"
+                  name="SqlCommandParam"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select * from (select * from [dbo].[Severty]) [refTable]
+where [refTable].[NameSeverty] = ?</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the type of connection used to access the reference dataset."
+                  name="ConnectionType"
+                  typeConverter="LookupConnectionType">0</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the cache type of the lookup table."
+                  name="CacheType"
+                  typeConverter="CacheType">0</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies how the Lookup transformation handles rows without matching entries in the reference data set."
+                  name="NoMatchBehavior"
+                  typeConverter="LookupNoMatchBehavior">0</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the percentage of the cache that is allocated for rows with no matching entries in the reference dataset."
+                  name="NoMatchCachePercentage">0</property>
+                <property
+                  dataType="System.Int32"
+                  description="Maximum Memory Usage for Reference Cache on a 32 bit platform."
+                  name="MaxMemoryUsage">25</property>
+                <property
+                  dataType="System.Int64"
+                  description="Maximum Memory Usage for Reference Cache on a 64 bit platform."
+                  name="MaxMemoryUsage64">25</property>
+                <property
+                  dataType="System.String"
+                  description="Indicates whether to reference metadata in an XML format."
+                  name="ReferenceMetadataXml">&lt;referenceMetadata&gt;&lt;referenceColumns&gt;&lt;referenceColumn name="SevertyID" dataType="DT_I4" length="0" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="NameSeverty" dataType="DT_WSTR" length="100" precision="0" scale="0" codePage="0"/&gt;&lt;/referenceColumns&gt;&lt;/referenceMetadata&gt;</property>
+                <property
+                  containsID="true"
+                  dataType="System.String"
+                  description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
+                  name="ParameterMap">#{Package\Fact3\OLE DB Source 1.Outputs[OLE DB Source Output].Columns[Severty]};</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1252</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Determines whether duplicate keys in the reference data should be treated as errors when full cache mode is used."
+                  name="TreatDuplicateKeysAsError">false</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Fact3\Severty.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa 1]"
+                  connectionManagerRefId="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa 1]"
+                  description="Connection manager used to access lookup data."
+                  name="OleDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\Fact3\Severty.Inputs[Lookup Input]"
+                  name="Lookup Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Fact3\Severty.Inputs[Lookup Input].Columns[Severty]"
+                      cachedDataType="wstr"
+                      cachedLength="100"
+                      cachedName="Severty"
+                      lineageId="Package\Fact3\OLE DB Source 1.Outputs[OLE DB Source Output].Columns[Severty]">
+                      <properties>
+                        <property
+                          dataType="System.String"
+                          description="Specifies the column in the reference table that a column joins."
+                          name="JoinToReferenceColumn">NameSeverty</property>
+                        <property
+                          dataType="System.Null"
+                          description="Specifies the column in the reference table from which a column is copied."
+                          name="CopyFromReferenceColumn" />
+                      </properties>
+                    </inputColumn>
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Fact3\Severty.Outputs[Lookup Match Output]"
+                  errorOrTruncationOperation="Lookup"
+                  errorRowDisposition="RedirectRow"
+                  exclusionGroup="1"
+                  name="Lookup Match Output"
+                  synchronousInputId="Package\Fact3\Severty.Inputs[Lookup Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Fact3\Severty.Outputs[Lookup Match Output].Columns[SevertyID]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Copy Column"
+                      lineageId="Package\Fact3\Severty.Outputs[Lookup Match Output].Columns[SevertyID]"
+                      name="SevertyID"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.String"
+                          description="Specifies the column in the reference table from which a column is copied."
+                          name="CopyFromReferenceColumn">SevertyID</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\Fact3\Severty.Outputs[Lookup No Match Output]"
+                  description="The Lookup output that handles rows with no matching entries in the reference dataset. Use this output when the NoMatchBehavior property is set to &quot;Send rows with no matching entries to the no match output.&quot;"
+                  exclusionGroup="1"
+                  name="Lookup No Match Output"
+                  synchronousInputId="Package\Fact3\Severty.Inputs[Lookup Input]">
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\Fact3\Severty.Outputs[Lookup Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="Lookup Error Output"
+                  synchronousInputId="Package\Fact3\Severty.Inputs[Lookup Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Fact3\Severty.Outputs[Lookup Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Fact3\Severty.Outputs[Lookup Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Fact3\Severty.Outputs[Lookup Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Fact3\Severty.Outputs[Lookup Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Fact3\SpeedMax"
+              componentClassID="Microsoft.Lookup"
+              contactInfo="Lookup;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;6"
+              description="Joins additional columns to the data flow by looking up values in a table. For example, join to the 'employee id' column the employees table to get 'hire date' and 'employee name'. We recommend this transformation when the lookup table can fit into memory."
+              name="SpeedMax"
+              usesDispositions="true"
+              version="6">
+              <properties>
+                <property
+                  dataType="System.String"
+                  description="Specifies the SQL statement that generates the lookup table."
+                  expressionType="Notify"
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">SELECT CAST(SpeedMaxValue AS nvarchar(50)) as 'SpeedMax',SpeedMaxID FROM SpeedMax</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies a SQL statement that uses parameters to generate the lookup table."
+                  expressionType="Notify"
+                  name="SqlCommandParam"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select * from (SELECT CAST(SpeedMaxValue AS nvarchar(50)) as 'SpeedMax',SpeedMaxID FROM SpeedMax) [refTable]
+where [refTable].[SpeedMax] = ?</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the type of connection used to access the reference dataset."
+                  name="ConnectionType"
+                  typeConverter="LookupConnectionType">0</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the cache type of the lookup table."
+                  name="CacheType"
+                  typeConverter="CacheType">0</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies how the Lookup transformation handles rows without matching entries in the reference data set."
+                  name="NoMatchBehavior"
+                  typeConverter="LookupNoMatchBehavior">0</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the percentage of the cache that is allocated for rows with no matching entries in the reference dataset."
+                  name="NoMatchCachePercentage">0</property>
+                <property
+                  dataType="System.Int32"
+                  description="Maximum Memory Usage for Reference Cache on a 32 bit platform."
+                  name="MaxMemoryUsage">25</property>
+                <property
+                  dataType="System.Int64"
+                  description="Maximum Memory Usage for Reference Cache on a 64 bit platform."
+                  name="MaxMemoryUsage64">25</property>
+                <property
+                  dataType="System.String"
+                  description="Indicates whether to reference metadata in an XML format."
+                  name="ReferenceMetadataXml">&lt;referenceMetadata&gt;&lt;referenceColumns&gt;&lt;referenceColumn name="SpeedMax" dataType="DT_WSTR" length="50" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="SpeedMaxID" dataType="DT_I4" length="0" precision="0" scale="0" codePage="0"/&gt;&lt;/referenceColumns&gt;&lt;/referenceMetadata&gt;</property>
+                <property
+                  containsID="true"
+                  dataType="System.String"
+                  description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
+                  name="ParameterMap">#{Package\Fact3\convert speedmax.Outputs[Derived Column Output].Columns[SpeedMaxConvert]};</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1252</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Determines whether duplicate keys in the reference data should be treated as errors when full cache mode is used."
+                  name="TreatDuplicateKeysAsError">false</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Fact3\SpeedMax.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa 1]"
+                  connectionManagerRefId="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa 1]"
+                  description="Connection manager used to access lookup data."
+                  name="OleDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\Fact3\SpeedMax.Inputs[Lookup Input]"
+                  name="Lookup Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Fact3\SpeedMax.Inputs[Lookup Input].Columns[SpeedMaxConvert]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="SpeedMaxConvert"
+                      lineageId="Package\Fact3\convert speedmax.Outputs[Derived Column Output].Columns[SpeedMaxConvert]">
+                      <properties>
+                        <property
+                          dataType="System.String"
+                          description="Specifies the column in the reference table that a column joins."
+                          name="JoinToReferenceColumn">SpeedMax</property>
+                        <property
+                          dataType="System.Null"
+                          description="Specifies the column in the reference table from which a column is copied."
+                          name="CopyFromReferenceColumn" />
+                      </properties>
+                    </inputColumn>
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Fact3\SpeedMax.Outputs[Lookup Match Output]"
+                  errorOrTruncationOperation="Lookup"
+                  errorRowDisposition="RedirectRow"
+                  exclusionGroup="1"
+                  name="Lookup Match Output"
+                  synchronousInputId="Package\Fact3\SpeedMax.Inputs[Lookup Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Fact3\SpeedMax.Outputs[Lookup Match Output].Columns[SpeedMaxID]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Copy Column"
+                      lineageId="Package\Fact3\SpeedMax.Outputs[Lookup Match Output].Columns[SpeedMaxID]"
+                      name="SpeedMaxID"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.String"
+                          description="Specifies the column in the reference table from which a column is copied."
+                          name="CopyFromReferenceColumn">SpeedMaxID</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\Fact3\SpeedMax.Outputs[Lookup No Match Output]"
+                  description="The Lookup output that handles rows with no matching entries in the reference dataset. Use this output when the NoMatchBehavior property is set to &quot;Send rows with no matching entries to the no match output.&quot;"
+                  exclusionGroup="1"
+                  name="Lookup No Match Output"
+                  synchronousInputId="Package\Fact3\SpeedMax.Inputs[Lookup Input]">
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\Fact3\SpeedMax.Outputs[Lookup Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="Lookup Error Output"
+                  synchronousInputId="Package\Fact3\SpeedMax.Inputs[Lookup Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Fact3\SpeedMax.Outputs[Lookup Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Fact3\SpeedMax.Outputs[Lookup Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Fact3\SpeedMax.Outputs[Lookup Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Fact3\SpeedMax.Outputs[Lookup Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
           </components>
           <paths>
+            <path
+              refId="Package\Fact3.Paths[Aggregate Output 1]"
+              endId="Package\Fact3\OLE DB Destination.Inputs[OLE DB Destination Input]"
+              name="Aggregate Output 1"
+              startId="Package\Fact3\Aggregate.Outputs[Aggregate Output 1]" />
+            <path
+              refId="Package\Fact3.Paths[Derived Column Output]"
+              endId="Package\Fact3\RoadClass.Inputs[Lookup Input]"
+              name="Derived Column Output"
+              startId="Package\Fact3\convert speedmax.Outputs[Derived Column Output]" />
             <path
               refId="Package\Fact3.Paths[Lookup Match Output]"
               endId="Package\Fact3\Area.Inputs[Lookup Input]"
@@ -29107,22 +30025,27 @@ where [refTable].[NameRoadClass] = ?</property>
               startId="Package\Fact3\RoadClass.Outputs[Lookup Match Output]" />
             <path
               refId="Package\Fact3.Paths[Lookup Match Output1]"
-              endId="Package\Fact3\Lookup 1.Inputs[Lookup Input]"
+              endId="Package\Fact3\Date.Inputs[Lookup Input]"
               name="Lookup Match Output"
               startId="Package\Fact3\Area.Outputs[Lookup Match Output]" />
             <path
               refId="Package\Fact3.Paths[Lookup Match Output2]"
-              endId="Package\Fact3\Lookup 2.Inputs[Lookup Input]"
+              endId="Package\Fact3\Severty.Inputs[Lookup Input]"
               name="Lookup Match Output"
-              startId="Package\Fact3\Lookup 1.Outputs[Lookup Match Output]" />
+              startId="Package\Fact3\Date.Outputs[Lookup Match Output]" />
             <path
               refId="Package\Fact3.Paths[Lookup Match Output3]"
-              endId="Package\Fact3\OLE DB Destination.Inputs[OLE DB Destination Input]"
+              endId="Package\Fact3\SpeedMax.Inputs[Lookup Input]"
               name="Lookup Match Output"
-              startId="Package\Fact3\Lookup 2.Outputs[Lookup Match Output]" />
+              startId="Package\Fact3\Severty.Outputs[Lookup Match Output]" />
+            <path
+              refId="Package\Fact3.Paths[Lookup Match Output4]"
+              endId="Package\Fact3\Aggregate.Inputs[Aggregate Input 1]"
+              name="Lookup Match Output"
+              startId="Package\Fact3\SpeedMax.Outputs[Lookup Match Output]" />
             <path
               refId="Package\Fact3.Paths[OLE DB Source Output]"
-              endId="Package\Fact3\RoadClass.Inputs[Lookup Input]"
+              endId="Package\Fact3\convert speedmax.Inputs[Derived Column Input]"
               name="OLE DB Source Output"
               startId="Package\Fact3\OLE DB Source 1.Outputs[OLE DB Source Output]" />
           </paths>
@@ -41016,6 +41939,30 @@ order by AccidentIndex</property>
       DTS:ObjectName="Constraint 20"
       DTS:To="Package\DDS area,roadclass, vehicle Type,speedmax" />
     <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 21]"
+      DTS:CreationName=""
+      DTS:DTSID="{166E0FFD-6CB4-47A2-8D3A-8D8EA1119159}"
+      DTS:From="Package\DDS area,roadclass, vehicle Type,speedmax"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 21"
+      DTS:To="Package\Fact3" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 22]"
+      DTS:CreationName=""
+      DTS:DTSID="{573FCF65-3320-4B67-A553-E0665CEAA561}"
+      DTS:From="Package\Fact3"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 22"
+      DTS:To="Package\Fact 1" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 23]"
+      DTS:CreationName=""
+      DTS:DTSID="{42DBED94-8C84-4015-91CF-52E37AE86F44}"
+      DTS:From="Package\Fact 1"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 23"
+      DTS:To="Package\Fact 4" />
+    <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 3]"
       DTS:CreationName=""
       DTS:DTSID="{A5842A2D-30D2-4F35-A384-FA0AEBAAD677}"
@@ -41143,7 +42090,7 @@ order by AccidentIndex</property>
         <NodeLayout
           Size="286,42"
           Id="Package\DDS area,roadclass, vehicle Type,speedmax"
-          TopLeft="30.5000000000004,2861.5" />
+          TopLeft="34.5000000000004,2837.5" />
         <NodeLayout
           Size="220,42"
           Id="Package\DDS_location,servety,casualty"
@@ -41195,11 +42142,11 @@ order by AccidentIndex</property>
         <NodeLayout
           Size="108,42"
           Id="Package\Fact 1"
-          TopLeft="557,2739" />
+          TopLeft="616,2828" />
         <NodeLayout
           Size="108,42"
           Id="Package\Fact 4"
-          TopLeft="554,2828" />
+          TopLeft="448,2882" />
         <NodeLayout
           Size="104,42"
           Id="Package\Fact3"
@@ -41556,18 +42503,18 @@ order by AccidentIndex</property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 20]"
-          TopLeft="173.5,2801.5">
+          TopLeft="175.5,2801.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,60"
+              EndConnector="0,36"
               Start="0,0"
-              End="0,52.5">
+              End="0,28.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,52.5" />
+                    End="0,28.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -41884,9 +42831,556 @@ order by AccidentIndex</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 21]"
+          TopLeft="223.833333333334,2837.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="332.166666666666,-135.5"
+              Start="0,0"
+              End="332.166666666666,-128">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,-50.6522948539638" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,-50.6522948539638"
+                    Point2="0,-54.6522948539638"
+                    Point3="4,-54.6522948539638" />
+                  <mssgle:LineSegment
+                    End="328.166666666666,-54.6522948539638" />
+                  <mssgle:CubicBezierSegment
+                    Point1="328.166666666666,-54.6522948539638"
+                    Point2="332.166666666666,-54.6522948539638"
+                    Point3="332.166666666666,-58.6522948539638" />
+                  <mssgle:LineSegment
+                    End="332.166666666666,-128" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 22]"
+          TopLeft="572,2702">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="98,126"
+              Start="0,0"
+              End="98,118.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,47.5454545454545" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,47.5454545454545"
+                    Point2="0,51.5454545454545"
+                    Point3="4,51.5454545454545" />
+                  <mssgle:LineSegment
+                    End="94,51.5454545454545" />
+                  <mssgle:CubicBezierSegment
+                    Point1="94,51.5454545454545"
+                    Point2="98,51.5454545454545"
+                    Point3="98,55.5454545454545" />
+                  <mssgle:LineSegment
+                    End="98,118.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 23]"
+          TopLeft="616,2849">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-60,54"
+              Start="0,0"
+              End="-52.5,54">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="-26,0" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-26,0"
+                    Point2="-30,0"
+                    Point3="-30,4" />
+                  <mssgle:LineSegment
+                    End="-30,50" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-30,50"
+                    Point2="-30,54"
+                    Point3="-34,54" />
+                  <mssgle:LineSegment
+                    End="-52.5,54" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </Package>
+  <TaskHost
+    design-time-name="Package\DDS area,roadclass, vehicle Type,speedmax">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="64" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="130,42"
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax\RoadCLass"
+          TopLeft="43.5,5.5" />
+        <NodeLayout
+          Size="146,42"
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax\Aggregate 2 1"
+          TopLeft="783.5,311.5" />
+        <NodeLayout
+          Size="152,42"
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax\Check in DDS 1"
+          TopLeft="32.5,209.5" />
+        <NodeLayout
+          Size="135,42"
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax\vehicle type"
+          TopLeft="308,5.5" />
+        <NodeLayout
+          Size="165,42"
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax\convert speedmax"
+          TopLeft="542,209.5" />
+        <NodeLayout
+          Size="215,42"
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax\loai bo khoang trang dau 2 1"
+          TopLeft="749,107.5" />
+        <NodeLayout
+          Size="192,42"
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax\Dua vo DDSVehicleType"
+          TopLeft="279.5,413.5" />
+        <NodeLayout
+          Size="127,42"
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax\SpeedMax"
+          TopLeft="561,107.5" />
+        <NodeLayout
+          Size="184,42"
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax\Dua vo DDSRoadClass"
+          TopLeft="16.5,413.5" />
+        <NodeLayout
+          Size="136,42"
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax\Aggregate 2"
+          TopLeft="307.5,311.5" />
+        <NodeLayout
+          Size="206,42"
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax\loai bo khoang trang dau 2"
+          TopLeft="272.5,107.5" />
+        <NodeLayout
+          Size="152,42"
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax\Check in DDS 2"
+          TopLeft="299.5,209.5" />
+        <NodeLayout
+          Size="100,42"
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax\Area"
+          TopLeft="806.5,5.49999999999989" />
+        <NodeLayout
+          Size="182,42"
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax\Check DDS SpeedMax"
+          TopLeft="533.5,311.5" />
+        <NodeLayout
+          Size="206,42"
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax\loai bo khoang trang dau 1"
+          TopLeft="5.5,107.5" />
+        <NodeLayout
+          Size="161,42"
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax\Check in DDS 2 1"
+          TopLeft="776,209.5" />
+        <NodeLayout
+          Size="184,42"
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax\Dua vo DDSSpeedMax"
+          TopLeft="532.5,413.5" />
+        <NodeLayout
+          Size="127,42"
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax\Aggregate"
+          TopLeft="45,311.5" />
+        <NodeLayout
+          Size="157,42"
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax\Dua vo DDSArea"
+          TopLeft="778,413.5" />
+        <EdgeLayout
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax.Paths[OLE DB Source Output3]"
+          TopLeft="624.5,149.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax.Paths[OLE DB Source Output2]"
+          TopLeft="108.5,47.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax.Paths[OLE DB Source Output1]"
+          TopLeft="856.5,47.4999999999999">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax.Paths[OLE DB Source Output]"
+          TopLeft="375.5,47.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax.Paths[Lookup No Match Output3]"
+          TopLeft="624.5,353.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-55.80638671875,20.4453125,111.6127734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax.Paths[Lookup No Match Output2]"
+          TopLeft="856.5,251.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-55.80638671875,20.4453125,111.6127734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax.Paths[Lookup No Match Output1]"
+          TopLeft="375.5,251.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-55.80638671875,20.4453125,111.6127734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax.Paths[Lookup No Match Output]"
+          TopLeft="108.5,251.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-55.80638671875,20.4453125,111.6127734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax.Paths[Derived Column Output3]"
+          TopLeft="624.5,251.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax.Paths[Derived Column Output2]"
+          TopLeft="108.5,149.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax.Paths[Derived Column Output1]"
+          TopLeft="856.5,149.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax.Paths[Derived Column Output]"
+          TopLeft="375.5,149.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax.Paths[Aggregate Output 12]"
+          TopLeft="856.5,353.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax.Paths[Aggregate Output 11]"
+          TopLeft="375.5,353.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DDS area,roadclass, vehicle Type,speedmax.Paths[Aggregate Output 1]"
+          TopLeft="108.5,353.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\DDS area,roadclass, vehicle Type,speedmax\Check DDS SpeedMax">
+    <Properties>
+      <Property>
+        <Name>OverwriteParamsSQLProp</Name>
+        <Value
+          type="q2:boolean">false</Value>
+      </Property>
+      <Property>
+        <Name>UsedTableName</Name>
+        <Value
+          type="q3:string"></Value>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q4:int">0</Value>
+      </Property>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
   <TaskHost
     design-time-name="Package\Fact 1">
     <LayoutInfo>
@@ -41912,52 +43406,6 @@ order by AccidentIndex</property>
           Size="108,42"
           Id="Package\Fact 1\Fact 1"
           TopLeft="77,376" />
-        <EdgeLayout
-          Id="Package\Fact 1.Paths[OLE DB Source Output]"
-          TopLeft="132,58">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,42"
-              Start="0,0"
-              End="0,34.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,34.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Fact 1.Paths[Lookup Match Output2]"
-          TopLeft="131,323">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,53"
-              Start="0,0"
-              End="0,45.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,45.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-48.19138671875,16.9453125,96.3827734375,11.609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
         <EdgeLayout
           Id="Package\Fact 1.Paths[Lookup Match Output1]"
           TopLeft="132.5,237">
@@ -42006,6 +43454,142 @@ order by AccidentIndex</property>
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <NodeLayout
+          Size="101,42"
+          Id="Package\Fact 1\Date"
+          TopLeft="353,104" />
+        <EdgeLayout
+          Id="Package\Fact 1.Paths[OLE DB Source Output]"
+          TopLeft="130.5,58">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="273,46"
+              Start="0,0"
+              End="273,38.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,19" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,19"
+                    Point2="0,23"
+                    Point3="4,23" />
+                  <mssgle:LineSegment
+                    End="269,23" />
+                  <mssgle:CubicBezierSegment
+                    Point1="269,23"
+                    Point2="273,23"
+                    Point3="273,27" />
+                  <mssgle:LineSegment
+                    End="273,38.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Fact 1.Paths[Lookup Match Output2]"
+          TopLeft="353,123">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-139,0"
+              Start="0,0"
+              End="-131.5,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="-131.5,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-113.94138671875,5,96.3827734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="127,42"
+          Id="Package\Fact 1\Aggregate"
+          TopLeft="357.5,331.5" />
+        <EdgeLayout
+          Id="Package\Fact 1.Paths[Lookup Match Output3]"
+          TopLeft="199,302">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="158.5,50.5"
+              Start="0,0"
+              End="151,50.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="75.25,0" />
+                  <mssgle:CubicBezierSegment
+                    Point1="75.25,0"
+                    Point2="79.25,0"
+                    Point3="79.25,4" />
+                  <mssgle:LineSegment
+                    End="79.25,46.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="79.25,46.5"
+                    Point2="79.25,50.5"
+                    Point3="83.25,50.5" />
+                  <mssgle:LineSegment
+                    End="151,50.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="31.05861328125,-17.609375,96.3827734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Fact 1.Paths[Aggregate Output 1]"
+          TopLeft="357.5,358.166666666667">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-172.5,38.8333333333333"
+              Start="0,0"
+              End="-165,38.8333333333333">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="-68.7981651376146,0" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-68.7981651376146,0"
+                    Point2="-72.7981651376146,0"
+                    Point3="-72.7981651376146,4" />
+                  <mssgle:LineSegment
+                    End="-72.7981651376146,34.8333333333333" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-72.7981651376146,34.8333333333333"
+                    Point2="-72.7981651376146,38.8333333333333"
+                    Point3="-76.7981651376146,38.8333333333333" />
+                  <mssgle:LineSegment
+                    End="-165,38.8333333333333" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
@@ -42015,7 +43599,7 @@ order by AccidentIndex</property>
       <Property>
         <Name>OverwriteParamsSQLProp</Name>
         <Value
-          type="q2:string">false</Value>
+          type="q2:boolean">false</Value>
       </Property>
       <Property>
         <Name>UsedTableName</Name>
@@ -42025,7 +43609,7 @@ order by AccidentIndex</property>
       <Property>
         <Name>TableInfoObjectType</Name>
         <Value
-          type="q4:string">0</Value>
+          type="q4:int">0</Value>
       </Property>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -42056,7 +43640,7 @@ order by AccidentIndex</property>
       <Property>
         <Name>TableInfoObjectType</Name>
         <Value
-          type="q4:string">0</Value>
+          type="q4:int">0</Value>
       </Property>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -42082,7 +43666,7 @@ order by AccidentIndex</property>
       <Property>
         <Name>OverwriteParamsSQLProp</Name>
         <Value
-          type="q2:string">false</Value>
+          type="q2:boolean">false</Value>
       </Property>
       <Property>
         <Name>UsedTableName</Name>
@@ -42092,7 +43676,7 @@ order by AccidentIndex</property>
       <Property>
         <Name>TableInfoObjectType</Name>
         <Value
-          type="q4:string">0</Value>
+          type="q4:int">0</Value>
       </Property>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -42264,104 +43848,34 @@ order by AccidentIndex</property>
     design-time-name="Package\Fact3">
     <LayoutInfo>
       <GraphLayout
-        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
-          Size="122,42"
-          Id="Package\Fact3\Lookup 1"
-          TopLeft="637,311" />
+          Size="101,42"
+          Id="Package\Fact3\Date"
+          TopLeft="305,324" />
         <NodeLayout
           Size="171,42"
           Id="Package\Fact3\OLE DB Destination"
-          TopLeft="585,508" />
+          TopLeft="148,633" />
         <NodeLayout
           Size="159,42"
           Id="Package\Fact3\OLE DB Source 1"
-          TopLeft="632,14" />
+          TopLeft="300,27" />
         <NodeLayout
           Size="127,42"
           Id="Package\Fact3\RoadClass"
-          TopLeft="659,108" />
+          TopLeft="327,121" />
         <NodeLayout
           Size="100,42"
           Id="Package\Fact3\Area"
-          TopLeft="660,201" />
+          TopLeft="328,214" />
         <NodeLayout
-          Size="122,42"
-          Id="Package\Fact3\Lookup 2"
-          TopLeft="635,411" />
-        <EdgeLayout
-          Id="Package\Fact3.Paths[OLE DB Source Output]"
-          TopLeft="711.5,56">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="11,52"
-              Start="0,0"
-              End="11,44.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,22" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,22"
-                    Point2="0,26"
-                    Point3="4,26" />
-                  <mssgle:LineSegment
-                    End="7,26" />
-                  <mssgle:CubicBezierSegment
-                    Point1="7,26"
-                    Point2="11,26"
-                    Point3="11,30" />
-                  <mssgle:LineSegment
-                    End="11,44.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Fact3.Paths[Lookup Match Output3]"
-          TopLeft="696,453">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-25.5,55"
-              Start="0,0"
-              End="-25.5,47.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,23.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,23.5"
-                    Point2="0,27.5"
-                    Point3="-4,27.5" />
-                  <mssgle:LineSegment
-                    End="-21.5,27.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-21.5,27.5"
-                    Point2="-25.5,27.5"
-                    Point3="-25.5,31.5" />
-                  <mssgle:LineSegment
-                    End="-25.5,47.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-60.94138671875,32.5,96.3827734375,11.609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
+          Size="114,42"
+          Id="Package\Fact3\Severty"
+          TopLeft="303,424" />
         <EdgeLayout
           Id="Package\Fact3.Paths[Lookup Match Output2]"
-          TopLeft="697,353">
+          TopLeft="357.75,366">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -42385,13 +43899,13 @@ order by AccidentIndex</property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\Fact3.Paths[Lookup Match Output1]"
-          TopLeft="710,243">
+          TopLeft="378,256">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-12,68"
+              EndConnector="-22.5,68"
               Start="0,0"
-              End="-12,60.5">
+              End="-22.5,60.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
@@ -42402,26 +43916,26 @@ order by AccidentIndex</property>
                     Point2="0,34"
                     Point3="-4,34" />
                   <mssgle:LineSegment
-                    End="-8,34" />
+                    End="-18.5,34" />
                   <mssgle:CubicBezierSegment
-                    Point1="-8,34"
-                    Point2="-12,34"
-                    Point3="-12,38" />
+                    Point1="-18.5,34"
+                    Point2="-22.5,34"
+                    Point3="-22.5,38" />
                   <mssgle:LineSegment
-                    End="-12,60.5" />
+                    End="-22.5,60.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-54.19138671875,39,96.3827734375,11.609375"
+              BoundingBox="-59.44138671875,39,96.3827734375,11.609375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\Fact3.Paths[Lookup Match Output]"
-          TopLeft="722.5,150">
+          TopLeft="390.5,163">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -42455,16 +43969,202 @@ order by AccidentIndex</property>
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <NodeLayout
+          Size="127,42"
+          Id="Package\Fact3\Aggregate"
+          TopLeft="441,518" />
+        <EdgeLayout
+          Id="Package\Fact3.Paths[Aggregate Output 1]"
+          TopLeft="504.5,560">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-271,73"
+              Start="0,0"
+              End="-271,65.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,32.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,32.5"
+                    Point2="0,36.5"
+                    Point3="-4,36.5" />
+                  <mssgle:LineSegment
+                    End="-267,36.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-267,36.5"
+                    Point2="-271,36.5"
+                    Point3="-271,40.5" />
+                  <mssgle:LineSegment
+                    End="-271,65.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="127,42"
+          Id="Package\Fact3\SpeedMax"
+          TopLeft="159,495" />
+        <EdgeLayout
+          Id="Package\Fact3.Paths[Lookup Match Output3]"
+          TopLeft="360,466">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-137.5,29"
+              Start="0,0"
+              End="-137.5,21.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,10.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,10.5"
+                    Point2="0,14.5"
+                    Point3="-4,14.5" />
+                  <mssgle:LineSegment
+                    End="-133.5,14.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-133.5,14.5"
+                    Point2="-137.5,14.5"
+                    Point3="-137.5,18.5" />
+                  <mssgle:LineSegment
+                    End="-137.5,21.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-116.94138671875,19.5,96.3827734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Fact3.Paths[Lookup Match Output4]"
+          TopLeft="286,516">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="155,23"
+              Start="0,0"
+              End="147.5,23">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="73.5,0" />
+                  <mssgle:CubicBezierSegment
+                    Point1="73.5,0"
+                    Point2="77.5,0"
+                    Point3="77.5,4" />
+                  <mssgle:LineSegment
+                    End="77.5,19" />
+                  <mssgle:CubicBezierSegment
+                    Point1="77.5,19"
+                    Point2="77.5,23"
+                    Point3="81.5,23" />
+                  <mssgle:LineSegment
+                    End="147.5,23" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="29.30861328125,-17.609375,96.3827734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="165,42"
+          Id="Package\Fact3\convert speedmax"
+          TopLeft="514,89" />
+        <EdgeLayout
+          Id="Package\Fact3.Paths[OLE DB Source Output]"
+          TopLeft="459,48">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="55,62"
+              Start="0,0"
+              End="47.5,62">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="23.5,0" />
+                  <mssgle:CubicBezierSegment
+                    Point1="23.5,0"
+                    Point2="27.5,0"
+                    Point3="27.5,4" />
+                  <mssgle:LineSegment
+                    End="27.5,58" />
+                  <mssgle:CubicBezierSegment
+                    Point1="27.5,58"
+                    Point2="27.5,62"
+                    Point3="31.5,62" />
+                  <mssgle:LineSegment
+                    End="47.5,62" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Fact3.Paths[Derived Column Output]"
+          TopLeft="514,115.666666666667">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-60,26.3333333333333"
+              Start="0,0"
+              End="-52.5,26.3333333333333">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="-21.3211009174312,0" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-21.3211009174312,0"
+                    Point2="-25.3211009174312,0"
+                    Point3="-25.3211009174312,4" />
+                  <mssgle:LineSegment
+                    End="-25.3211009174312,22.3333333333333" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-25.3211009174312,22.3333333333333"
+                    Point2="-25.3211009174312,26.3333333333333"
+                    Point3="-29.3211009174312,26.3333333333333" />
+                  <mssgle:LineSegment
+                    End="-52.5,26.3333333333333" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\Fact3\Lookup 1">
+    design-time-name="Package\Fact3\Date">
     <Properties>
       <Property>
         <Name>OverwriteParamsSQLProp</Name>
         <Value
-          type="q2:string">false</Value>
+          type="q2:boolean">false</Value>
       </Property>
       <Property>
         <Name>UsedTableName</Name>
@@ -42474,7 +44174,7 @@ order by AccidentIndex</property>
       <Property>
         <Name>TableInfoObjectType</Name>
         <Value
-          type="q4:string">0</Value>
+          type="q4:int">0</Value>
       </Property>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -42508,7 +44208,7 @@ order by AccidentIndex</property>
       <Property>
         <Name>OverwriteParamsSQLProp</Name>
         <Value
-          type="q2:string">false</Value>
+          type="q2:boolean">false</Value>
       </Property>
       <Property>
         <Name>UsedTableName</Name>
@@ -42518,7 +44218,7 @@ order by AccidentIndex</property>
       <Property>
         <Name>TableInfoObjectType</Name>
         <Value
-          type="q4:string">0</Value>
+          type="q4:int">0</Value>
       </Property>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -42531,7 +44231,7 @@ order by AccidentIndex</property>
       <Property>
         <Name>OverwriteParamsSQLProp</Name>
         <Value
-          type="q2:string">false</Value>
+          type="q2:boolean">false</Value>
       </Property>
       <Property>
         <Name>UsedTableName</Name>
@@ -42541,7 +44241,7 @@ order by AccidentIndex</property>
       <Property>
         <Name>TableInfoObjectType</Name>
         <Value
-          type="q4:string">0</Value>
+          type="q4:int">0</Value>
       </Property>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -42549,12 +44249,12 @@ order by AccidentIndex</property>
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\Fact3\Lookup 2">
+    design-time-name="Package\Fact3\Severty">
     <Properties>
       <Property>
         <Name>OverwriteParamsSQLProp</Name>
         <Value
-          type="q2:string">false</Value>
+          type="q2:boolean">false</Value>
       </Property>
       <Property>
         <Name>UsedTableName</Name>
@@ -42564,7 +44264,7 @@ order by AccidentIndex</property>
       <Property>
         <Name>TableInfoObjectType</Name>
         <Value
-          type="q4:string">0</Value>
+          type="q4:int">0</Value>
       </Property>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -42799,5 +44499,297 @@ order by AccidentIndex</property>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
+  <TaskHost
+    design-time-name="Package\Nguon vô stage_casualties">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="155,42"
+          Id="Package\Nguon vô stage_casualties\Conditional Split"
+          TopLeft="260,311.5" />
+        <NodeLayout
+          Size="184,42"
+          Id="Package\Nguon vô stage_casualties\Add coulumn source 1"
+          TopLeft="5.5,107.5" />
+        <NodeLayout
+          Size="108,42"
+          Id="Package\Nguon vô stage_casualties\Merge"
+          TopLeft="283.5,209.5" />
+        <NodeLayout
+          Size="162,42"
+          Id="Package\Nguon vô stage_casualties\Casualties__Part2"
+          TopLeft="16.5,5.5" />
+        <NodeLayout
+          Size="159,42"
+          Id="Package\Nguon vô stage_casualties\Stage_Casualties"
+          TopLeft="258,413.5" />
+        <NodeLayout
+          Size="120,42"
+          Id="Package\Nguon vô stage_casualties\Multicast"
+          TopLeft="77.5000000000001,413.5" />
+        <NodeLayout
+          Size="157,42"
+          Id="Package\Nguon vô stage_casualties\Casualties_Part1"
+          TopLeft="259,5.5" />
+        <NodeLayout
+          Size="175,42"
+          Id="Package\Nguon vô stage_casualties\Add coulumn source"
+          TopLeft="250,107.5" />
+        <EdgeLayout
+          Id="Package\Nguon vô stage_casualties.Paths[OLE DB Source Output1]"
+          TopLeft="97.5,47.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Nguon vô stage_casualties.Paths[OLE DB Source Output]"
+          TopLeft="337.5,47.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Nguon vô stage_casualties.Paths[Merge Output 1]"
+          TopLeft="337.5,251.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Nguon vô stage_casualties.Paths[Derived Column Output1]"
+          TopLeft="97.5,149.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="223.333333333333,60"
+              Start="0,0"
+              End="223.333333333333,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,31.4744525547445" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,31.4744525547445"
+                    Point2="0,35.4744525547445"
+                    Point3="4,35.4744525547445" />
+                  <mssgle:LineSegment
+                    End="219.333333333333,35.4744525547445" />
+                  <mssgle:CubicBezierSegment
+                    Point1="219.333333333333,35.4744525547445"
+                    Point2="223.333333333333,35.4744525547445"
+                    Point3="223.333333333333,39.4744525547445" />
+                  <mssgle:LineSegment
+                    End="223.333333333333,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Nguon vô stage_casualties.Paths[Derived Column Output]"
+          TopLeft="337.5,149.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="16.6666666666666,60"
+              Start="0,0"
+              End="16.6666666666666,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,31.4744525547445" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,31.4744525547445"
+                    Point2="0,35.4744525547445"
+                    Point3="4,35.4744525547445" />
+                  <mssgle:LineSegment
+                    End="12.6666666666666,35.4744525547445" />
+                  <mssgle:CubicBezierSegment
+                    Point1="12.6666666666666,35.4744525547445"
+                    Point2="16.6666666666666,35.4744525547445"
+                    Point3="16.6666666666666,39.4744525547445" />
+                  <mssgle:LineSegment
+                    End="16.6666666666666,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Nguon vô stage_casualties.Paths[Conditional Split Default Output]"
+          TopLeft="313,353.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-175.5,60"
+              Start="0,0"
+              End="-175.5,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,20.367816091954" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,20.367816091954"
+                    Point2="0,24.367816091954"
+                    Point3="-4,24.367816091954" />
+                  <mssgle:LineSegment
+                    End="-171.5,24.367816091954" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-171.5,24.367816091954"
+                    Point2="-175.5,24.367816091954"
+                    Point3="-175.5,28.367816091954" />
+                  <mssgle:LineSegment
+                    End="-175.5,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-158.36390625,29.367816091954,141.2278125,11.658203125"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Nguon vô stage_casualties.Paths[Case 1]"
+          TopLeft="362,353.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-24.5,60"
+              Start="0,0"
+              End="-24.5,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,20.367816091954" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,20.367816091954"
+                    Point2="0,24.367816091954"
+                    Point3="-4,24.367816091954" />
+                  <mssgle:LineSegment
+                    End="-20.5,24.367816091954" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-20.5,24.367816091954"
+                    Point2="-24.5,24.367816091954"
+                    Point3="-24.5,28.367816091954" />
+                  <mssgle:LineSegment
+                    End="-24.5,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-27.4680859375,29.367816091954,30.436171875,9.5537109375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Fact3\SpeedMax">
+    <Properties>
+      <Property>
+        <Name>OverwriteParamsSQLProp</Name>
+        <Value
+          type="q2:boolean">false</Value>
+      </Property>
+      <Property>
+        <Name>UsedTableName</Name>
+        <Value
+          type="q3:string"></Value>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q4:int">0</Value>
+      </Property>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Fact 1\Date">
+    <Properties>
+      <Property>
+        <Name>OverwriteParamsSQLProp</Name>
+        <Value
+          type="q2:boolean">false</Value>
+      </Property>
+      <Property>
+        <Name>UsedTableName</Name>
+        <Value
+          type="q3:string">[dbo].[Date]</Value>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q4:int">0</Value>
+      </Property>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
 </Objects>]]></DTS:DesignTimeProperties>
 </DTS:Executable>

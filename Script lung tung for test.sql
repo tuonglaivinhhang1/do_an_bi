@@ -988,3 +988,10 @@ select * from Gender
 DBCC CHECKIDENT (Severty, RESEED, 0)
 
 delete Severty
+
+select Severty.Name as Severty, Accidents.Date, Accidents.Time, Location.Name as Location, count(*) as SoNanNhan
+from 
+Casualties left join Severty on Casualties.SeverityDT = Severty.MaSeverty
+left join Accidents on Casualties.Ma_AccidentIndex = Accidents.MaAccidents
+left join Location on Accidents.LocationDT = Location.MaLocation
+group by Severty.Name, Accidents.Date, Accidents.time, Location.Name
