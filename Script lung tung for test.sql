@@ -39,6 +39,7 @@ create table Vehicles(
 	AgeOfVehicle int not null,
 	PropulsionCode nvarchar(100)--Loại động cơ
 )
+
 create table Casualties(
 	AccidentIndex nvarchar(50),
 	CasualtyClass nvarchar(50),--Driver or rider, passenger, pedestrian
@@ -106,6 +107,7 @@ create table Stage_Vehicles(
 	DataSource int,
 	Status int
 )
+
 create table Stage_Casualties(
 	ID int identity(1,1) primary key,
 	IndexID int,
@@ -122,6 +124,7 @@ create table Stage_Casualties(
 	DataSource int,
 	Status int
 )	
+
 --======================END TẠO STAGE=====================================
 select count(*) from Accidents
 select * from Accidents where AccidentIndex='201501ZT80122'
@@ -704,9 +707,8 @@ values('Morning','6:00','12:00')
 insert into ThoiDiem(NameThoiDiem,TimeStart,TimeEnd)
 values('Afternoon','12:01','17:00')
 insert into ThoiDiem(NameThoiDiem,TimeStart,TimeEnd)
-values('Evening','17:01','20:00')
-insert into ThoiDiem(NameThoiDiem,TimeStart,TimeEnd)
-values('Night','20:01','5:59')
+values('Night','17:01','05:59')
+
 
 create table Date
 (
@@ -794,7 +796,14 @@ create table CasualtyType
 	NameCasualtyType nvarchar(100),
 	Age int
 )
-create table AgeGroup
+create table AgeGroup1
+(
+	AgeGroupID int identity(1,1) primary key,
+	NameAgeGroup nvarchar(100),
+	FromAge int,
+	ToAge int
+)
+create table AgeGroup2--phân loại childeren,adult..
 (
 	AgeGroupID int identity(1,1) primary key,
 	NameAgeGroup nvarchar(100),
@@ -807,41 +816,41 @@ create table Gender
 	NameGender nvarchar(50)
 )
 
-insert into AgeGroup(NameAgeGroup,FromAge,ToAge)
+insert into AgeGroup1(NameAgeGroup,FromAge,ToAge)
 values('Group1',0,4)
-insert into AgeGroup(NameAgeGroup,FromAge,ToAge)
+insert into AgeGroup1(NameAgeGroup,FromAge,ToAge)
 values('Group2',5,7)
-insert into AgeGroup(NameAgeGroup,FromAge,ToAge)
+insert into AgeGroup1(NameAgeGroup,FromAge,ToAge)
 values('Group3',8,11)
-insert into AgeGroup(NameAgeGroup,FromAge,ToAge)
+insert into AgeGroup1(NameAgeGroup,FromAge,ToAge)
 values('Group4',12,15)
-insert into AgeGroup(NameAgeGroup,FromAge,ToAge)
+insert into AgeGroup1(NameAgeGroup,FromAge,ToAge)
 values('Group5',16,19)
-insert into AgeGroup(NameAgeGroup,FromAge,ToAge)
+insert into AgeGroup1(NameAgeGroup,FromAge,ToAge)
 values('Group6',20,24)
-insert into AgeGroup(NameAgeGroup,FromAge,ToAge)
+insert into AgeGroup1(NameAgeGroup,FromAge,ToAge)
 values('Group7',25,59)
-insert into AgeGroup(NameAgeGroup,FromAge,ToAge)
+insert into AgeGroup1(NameAgeGroup,FromAge,ToAge)
 values('Group8',60,64)
-insert into AgeGroup(NameAgeGroup,FromAge,ToAge)
+insert into AgeGroup1(NameAgeGroup,FromAge,ToAge)
 values('Group9',65,69)
-insert into AgeGroup(NameAgeGroup,FromAge,ToAge)
+insert into AgeGroup1(NameAgeGroup,FromAge,ToAge)
 values('Group10',70,74)
-insert into AgeGroup(NameAgeGroup,FromAge,ToAge)
+insert into AgeGroup1(NameAgeGroup,FromAge,ToAge)
 values('Group11',75,79)
-insert into AgeGroup(NameAgeGroup,FromAge,ToAge)
+insert into AgeGroup1(NameAgeGroup,FromAge,ToAge)
 values('Group12',80,200)
 
-insert into AgeGroup(NameAgeGroup,FromAge,ToAge)
+insert into AgeGroup2(NameAgeGroup,FromAge,ToAge)
 values('Children',0,15)
 
-insert into AgeGroup(NameAgeGroup,FromAge,ToAge)
+insert into AgeGroup2(NameAgeGroup,FromAge,ToAge)
 values('Young adult',0,17)
 
-insert into AgeGroup(NameAgeGroup,FromAge,ToAge)
+insert into AgeGroup2(NameAgeGroup,FromAge,ToAge)
 values('Adult',18,59)
 
-insert into AgeGroup(NameAgeGroup,FromAge,ToAge)
+insert into AgeGroup2(NameAgeGroup,FromAge,ToAge)
 values('60 and over',60,200)
 
 alter table Fact2
@@ -854,11 +863,12 @@ foreign key (CasualtyTypeID) references CasualtyType(CasualtyTypeID)
 
 alter table Fact2
 add constraint FK11
-foreign key (AgeGroupID) references AgeGroup(AgeGroupID)
+foreign key (AgeGroupID) references AgeGroup1(AgeGroupID)
 
 alter table Fact2
 add constraint FK12
 foreign key (GenderID) references Gender(GenderID)
+
 
 
 create table Fact3
@@ -945,8 +955,17 @@ create table RoadClassification
 (
 	
 	RoadClassificationID int identity(1,1) primary key,
-	NameRoadClassification nvarchar(200)
+	NameRoadClassification nvarchar(200),
+	StartSpeedMax float,
+	EndSpeedMax float
+
 )
+
+insert into RoadClassification(NameRoadClassification,StartSpeedMax,EndSpeedMax)
+values('Built-up road',0,50)
+insert into RoadClassification(NameRoadClassification,StartSpeedMax,EndSpeedMax)
+values('Non Built-up road',50,10000)
+
 
 alter table Fact5
 add constraint FK20
@@ -969,6 +988,29 @@ alter table Fact5
 add constraint FK24
 foreign key (VehicleTypeID) references VehicleType(VehicleTypeID)
 
+
+create table Fact6
+(
+	DateID int,
+	CasualtyTypeID int,
+	AgeGroupID int,
+	SoNguoiChet int
+)
+alter table Fact6
+add constraint FK25
+foreign key (DateID) references Date(DateID)
+
+alter table Fact6
+add constraint FK26
+foreign key (CasualtyTypeID) references CasualtyType(CasualtyTypeID)
+
+alter table Fact6
+add constraint FK27
+foreign key (AgeGroupID) references AgeGroup2(AgeGroupID)
+
+
+
+
 -------------------------END DDS----------------------------
 select Top 100 * from Accidents order by Date asc
 
@@ -985,7 +1027,7 @@ where C.CasualtyTypeDT=CT.MaCasualtyType
 
 select * from Gender
 
-DBCC CHECKIDENT (Severty, RESEED, 0)
+DBCC CHECKIDENT (Casualties, RESEED, 0)
 
 delete Severty
 
@@ -995,3 +1037,23 @@ Casualties left join Severty on Casualties.SeverityDT = Severty.MaSeverty
 left join Accidents on Casualties.Ma_AccidentIndex = Accidents.MaAccidents
 left join Location on Accidents.LocationDT = Location.MaLocation
 group by Severty.Name, Accidents.Date, Accidents.time, Location.Name
+
+select * from Fact1
+
+
+select A.Date,CT.Name as CasualtyTypeName,C.AgeOfCasualty,C.SexOfCasualty,COUNT(*) as SoNguoiChet
+from Casualties C
+left join Accidents A on C.Ma_AccidentIndex = A.MaAccidents
+left join CasualtyType CT on CT.MaCasualtyType=C.CasualtyTypeDT
+left join Severty as S on S.MaSeverty=C.SeverityDT and S.Name='Fatal'
+group by A.Date,CT.Name,C.AgeOfCasualty,C.SexOfCasualty
+
+select * from AgeGroup
+
+
+delete Casualties 
+delete CasualtyType
+delete Casualtyclass
+delete JourneyPurpose
+delete Vehicles
+delete VehicleType
