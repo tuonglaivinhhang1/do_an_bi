@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="441"
-  DTS:VersionGUID="{CB40796E-59E5-4F89-A63A-D0645D05232F}">
+  DTS:VersionBuild="442"
+  DTS:VersionGUID="{5FD03591-6347-4492-8C5A-9F14DAD89A82}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -27,7 +27,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADC4usu6tlaeGglW2I1Mko0oxBwxdX3yozo/glFUwCfHQAAAAAOgAAAAAIAACAAAACwFmLscu+rXi763h3gIOANe2YiemABEHVoMxQ7RAJdniAAAAB22ri+nUfWPUtOoaX73kJQLwm1D9TNKShoEY/8ZSpTK0AAAAB0l9uAF5GrC1SUByKIisQasPi/p9ZwHMmSfgFezLoetwqG+tGdoqVD7ph+elOqQWdHRc4DJhqw9GVKaGCrtv8I</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADpvV/fe+WzSQMssvdk1PRR9TRtDpai/w/V+ytlDRtjoQAAAAAOgAAAAAIAACAAAAChRtEDIZ0PKCq8iDjHkL5I3fGp+j4XnHt+9+iDh3B0iyAAAAAz0cdjWmWS2B5UjRthUg/6R1x10mcE3DH9C5iuDLF9JEAAAAAJz12q6lZRzh3fBdcp0cwi9K2cLmkuZZB8lcWvcGg9NHFZwQEuq6nHLsNnVZP0dB42EDp0gK5O7WoOGHx126vE</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -42,7 +42,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB3K0ujTBZ1IIml26Fi3G+kNHF69Vw2RUbMfVCu5pAZiQAAAAAOgAAAAAIAACAAAAAGaXoaNPAgMAHIG5v4CvTb9F75rD86cdZwjFNgUS4ecyAAAAB7xPwxdKIiuivk8Kf2GyKXnhCDw4RaUZ7MTZbak6uPZEAAAAAGYy8POAbjtrhNVcOXrXXEZov00JJyrYSbK0/9OgZZ5QhMg5FcPH9fD86NmAf8xDq7dwYiGoeGR5bkRP7pCFHj</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACUHhp2Dn7VIk5SnkzTLrj/kAvycjfElx4beFQ/mc9upQAAAAAOgAAAAAIAACAAAADt617SubsFdDiwN5MGtVFcF1eJopZrL66wPm79G5y/4CAAAADsTZdjbN2RVnu4jg3Q09MerPBZWkiopd67Iwi1ChyRVUAAAACrVQFbccHRTymS5hciWgwUgrS8mFcqAMQGA0RKdv/X8/yCB40grkaCaW1f2hox3aU5BEk213xMeCAnL32A9omn</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -57,7 +57,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB4iqwCiAEIGrD+j5PJt0oYfwwki8yHJXVRvwTxMhai/QAAAAAOgAAAAAIAACAAAADGrRntH4gNw4FtDetjDpmbkQHW9lHqZ8Ol8gcpOtCwVCAAAAAVHou9Rr8FDGoZd+uf3KFrYAkQQzf/th4pJIueQQV2Q0AAAADC4JF0goyCP1QFt+YCFw2A02BvpOjsQIUSP0urafb3QL34/an964j1F76Bf4JQ2HnpJfNJNo70XfjoLY3xKoLy</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADAoco2GN0+0BnRLG5zZcgSRN/BrgTZihV4dDpGJ64cQQAAAAAOgAAAAAIAACAAAACjIIRTOc3aQbMSySHffvWPZolvam+Cc2KT9JvLy/4eWiAAAACHboL5ZtNhrrdEt5NVOzwvxKgFZAYNkFEe7Cy/fjLhkEAAAAA/WIz+mrB0S34vA9gMyQpDCLYgooEGhM3FgZL7I1jGnHBI0Fp9nqSW9BIJeQpslG2DcioS2eyX3W1+QotAmsw8</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -72,7 +72,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAC22ZsFJRC+N2yfiBdu1GLz1RGWHAWV73ab1tEHDM8ABQAAAAAOgAAAAAIAACAAAABGDBbOd9FYvPjjBvViiaZbHsnw3WBq4aRl72SZpzTG5iAAAADBc11M6oFspZRboszHL0CObAqhtNZCv2iNfBMmgkVXkkAAAADqs8QZ/kEheG9ntA/AgQxRTHKDWWDFoDMyZb61a3xQAvvyRbsmqJ1JahtjBiIq0Es0+WPD8N9ATSl6A2cmDpOr</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABYNnEyfc8gtI+tva9OQF9PZ8EZS96SNROMMVTf18u34wAAAAAOgAAAAAIAACAAAACn/ZxQexSKSDBdJWfBIQNBGUfithEhvjzG6U1xjDR6oCAAAACE5RIer6oSnPeJ05a4M9Y6+mTgs8Gc3/iSMnuDKWKQhkAAAABUj8iLbhBlrws66O+paMDes/GmmZTJkhVp57A+dYAOI8dFwdWF4jnwOlL16j0/efLyedTCiG7uJterx1kR05Nz</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -87,7 +87,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADSx1aCqtXqlV+PP0dwtGu0FOP7hH6P2nRtboSWPdJVhwAAAAAOgAAAAAIAACAAAABJLemRLqFdfEfywwy1Jtq+PIigi5+LqZ1C5KKvalJ+FSAAAABSX+aq7tlwWVZyQRiFwm7MglSaFfi11Un25FTT/QdBmEAAAAA9WSRwxvcErRTTQhz2rKtEl4KW4tmDx0wyz014Sq4h6VIKIiMJ2demSphZCuLvRcFGIIT8f1+zaX239ux1NB9o</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAdHIuuhJ82ODFMp7q3O+Xelnfr5j5ZWyfH5kYLvM9ijQAAAAAOgAAAAAIAACAAAACCUdbFhLIhP8EZkXQOvp55v7Y94b4fZgab/NbO62HWtCAAAADl61dJU9ToNFulg4ojPqtgvRou+t4gWuL64S2jUDUJlkAAAADq8YGsNsY2K8vTBu11lBPNzP514rM0qCCR3355EgdVsASo2gIpdwF7GUcMHXVXYxqLoXzi588eAVZdEqaTiiRz</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -102,7 +102,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAD01jSDyTiIvU3CyIilnh7TAx+XUSMvTae1MToeoXyr2wAAAAAOgAAAAAIAACAAAACdx4vypTEeNiWXyGIvgurKVM3oYYpluX+ayWlla1I9QiAAAACmrhxxzI4spMzDf5ln3qx/hN5M9RLBJOStbTQrCjGAGUAAAAAt/VcvTROaGRvtSm9kejkKcu6WYdor4S9oFM+DuHqiajLT9pNBBfNvLNzzaeU0y7yMj/pJJ7zXO8JrCmgP7IXK</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB6h8dwqsGbRJuy8WC/a0EPWuLcotv6cSA+142n0S/1HAAAAAAOgAAAAAIAACAAAACKGzF4XjFOW18wM50L2kwBGuUkJHwuzarZrcdfX6jJjiAAAAC2WM2ekrDx/WRnUNi7zcet3BtaViBYaSenAxVpeaxNI0AAAADGUIhaOc+zLbdNEY5hM5e2Ph5DOLFQqyylBQ5MOrpCmRQQtZ90SkQMw1afqN9jumfMcLQax713UHj9HclWbJyA</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -127,7 +127,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAASsqGdx4hz2OaX+I6gBOhCLFosaj/jfkS7J7AvCCyctAAAAAAOgAAAAAIAACAAAAAmbwSMDsC5YFjnv9Ern/Mj6P1bTOhosBpXTt0ksEcg1CAAAAA50S1JNOaTweafKadr2TqlCL2+omZUfxwN1ftfGLZMNEAAAADRe9HGrab2puuWNP5NLG9FBRjhnAj7rZH0yAQt6Q0N5FchO+SXbbPr8teD3RAf5araKOzQu10Ag0pG5f+Ljnz4</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACQVmsOgJAY4FSV2xPfBmuat4QiSwcBU4Hk6ho1xSYN8gAAAAAOgAAAAAIAACAAAAApPyhmRjAkgSYv4mF5f1LR+FC6S/C3hR6G6lDHxsFmcyAAAAAdbAwitHUx+963z8KO8qO53NgvYdiHsFMaik+GV2KRS0AAAAAQyhsbjWbYndJxbak6AjvgOz4jDuQ91LQI/oPlBh2r4JgRopZBJInksA6HDWjlqfGh5yMYnI7S0a/AT949ppeg</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -142,7 +142,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAX5tFaXjzjta0ZGjLvZ37pg07333wou5OtOtj4iy2wxgAAAAAOgAAAAAIAACAAAABFb/1NQdXgHyRVZniheIIBtn+kN3zO5ht7TIeI+97F6CAAAACEFFZbLW/MGEeLo5XG3kHrqu89ry88e71cSH1DiKQlg0AAAADic0wiaAq7eFd9QSEvwHjelASzFATQ2Yo/G00Hd79oLXx5RvQ4wcVb2oBwgEpqhkF0+wOjdoNfiHJtKtXGkQQU</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADcpZT0Cc6o8GZTLQu/SZLq1nJzizhnmEKt2SQGOGVmOAAAAAAOgAAAAAIAACAAAADXN2DzbA+3QsFxOEoYW3fl6gHuhJLdaesiQGvuBjqdwCAAAABV/a21EB10aXZBXzmw8oFIpbsZ+9kyNym0D0PFo/8cekAAAAB8WbSzCKOTqGFEAyd70gZDlqxRhnnW3ZgPh2LYhh2b7/mrJme44JI5TlH+ICsIiLEANoTfUdlE5S3OivT9Tcpq</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -157,7 +157,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABQxxM1tgw6c25Bbb/tAeO2KqZqzra3kdlh5UJDaOZh8wAAAAAOgAAAAAIAACAAAAC4kdsufECN7t1OOC54qUNEznQpn6vsTvG8dPwj7wVYZSAAAABHhaWNJxNEUIhphF90+UPsYLd2u2XLKcRT+li+u70nPkAAAAAGfwXMr/o+fH889qlAoDBP+//kakj/vE6jX80fPfD5tMcjyzTK4uWASz46syiawd5W7dw1m3F403R0+Uvra091</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACo9II50//43yh7YNItsx8bRR1LR+0DHqamyUU6w9orwQAAAAAOgAAAAAIAACAAAAD6vZSTYjCN/3PZSe4LHhhmUc1FNDBy1Hzsf+2p6cyZlSAAAAA/Xp7nHIxeyZ5f7imy7BLlS03AjKRik4D+SsjlCEA/80AAAAA1Aw9w/3H5wGFzQJV/dNMOHHkcQOrSYAXPJ8IO4m0yoD7Ro1vnhP6KB0bWoukX9TZbz/OUOHNKwobgBmz/4gzn</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -7621,24 +7621,24 @@ where [refTable].[Name] = ? and [refTable].[DataSource] = ? and [refTable].[Stat
               startId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Derived Column.Outputs[Derived Column Output]" />
             <path
               refId="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output3]"
-              endId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Derived Column 3.Inputs[Derived Column Input]"
+              endId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Derived Column.Inputs[Derived Column Input]"
               name="Lookup Error Output"
-              startId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Nếu đã tồn tại Severty này rồi thì bỏ qua.Outputs[Lookup Error Output]" />
+              startId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Nếu đã tồn tại Location này rồi thì bỏ qua.Outputs[Lookup Error Output]" />
             <path
               refId="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output2]"
-              endId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Derived Column 2.Inputs[Derived Column Input]"
-              name="Lookup Error Output"
-              startId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Nếu đã tồn tại Area này rồi thì bỏ qua.Outputs[Lookup Error Output]" />
-            <path
-              refId="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output]"
               endId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Derived Column 1.Inputs[Derived Column Input]"
               name="Lookup Error Output"
               startId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Nếu đã tồn tại RoadClass này rồi thì bỏ qua.Outputs[Lookup Error Output]" />
             <path
-              refId="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output1]"
-              endId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Derived Column.Inputs[Derived Column Input]"
+              refId="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output]"
+              endId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Derived Column 3.Inputs[Derived Column Input]"
               name="Lookup Error Output"
-              startId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Nếu đã tồn tại Location này rồi thì bỏ qua.Outputs[Lookup Error Output]" />
+              startId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Nếu đã tồn tại Severty này rồi thì bỏ qua.Outputs[Lookup Error Output]" />
+            <path
+              refId="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output1]"
+              endId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Derived Column 2.Inputs[Derived Column Input]"
+              name="Lookup Error Output"
+              startId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Nếu đã tồn tại Area này rồi thì bỏ qua.Outputs[Lookup Error Output]" />
             <path
               refId="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Multicast Output 1]"
               endId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Location.Inputs[Aggregate Input 1]"
@@ -29834,9 +29834,8 @@ where [refTable].[FullDate] = ?</property>
                   name="SqlCommand"
                   UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select A.Date,S.Name as Severty,R.Name as RoadClass,VT.Name as VehicleType,A.SpeedMax,COUNT(*) as SoTNGT
 from Accidents A
-left join Casualties C on C.Ma_AccidentIndex = A.MaAccidents
+left join Severty as S on S.MaSeverty=A.SevertyDT
 left join RoadClass R on R.MaRoadClass=A.RoadClass
-left join Severty as S on S.MaSeverty=C.SeverityDT
 left join Vehicles as V on V.Ma_AccidentIndex=A.MaAccidents
 left join VehicleType as VT on VT.MaVehicleType=V.VehicleTypeDT
 group by A.Date,S.Name ,R.Name ,VT.Name ,A.SpeedMax</property>
@@ -30882,164 +30881,6 @@ where [refTable].[NameVehicleType] = ?</property>
           version="1">
           <components>
             <component
-              refId="Package\Fact 6\Age Group"
-              componentClassID="Microsoft.Lookup"
-              contactInfo="Lookup;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;6"
-              description="Joins additional columns to the data flow by looking up values in a table. For example, join to the 'employee id' column the employees table to get 'hire date' and 'employee name'. We recommend this transformation when the lookup table can fit into memory."
-              name="Age Group"
-              usesDispositions="true"
-              version="6">
-              <properties>
-                <property
-                  dataType="System.String"
-                  description="Specifies the SQL statement that generates the lookup table."
-                  expressionType="Notify"
-                  name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select * from [dbo].[AgeGroup2]</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies a SQL statement that uses parameters to generate the lookup table."
-                  expressionType="Notify"
-                  name="SqlCommandParam"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select * from AgeGroup2 
-where FromAge&lt;=? and ?&lt;=ToAge</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the type of connection used to access the reference dataset."
-                  name="ConnectionType"
-                  typeConverter="LookupConnectionType">0</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the cache type of the lookup table."
-                  name="CacheType"
-                  typeConverter="CacheType">1</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies how the Lookup transformation handles rows without matching entries in the reference data set."
-                  name="NoMatchBehavior"
-                  typeConverter="LookupNoMatchBehavior">0</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the percentage of the cache that is allocated for rows with no matching entries in the reference dataset."
-                  name="NoMatchCachePercentage">0</property>
-                <property
-                  dataType="System.Int32"
-                  description="Maximum Memory Usage for Reference Cache on a 32 bit platform."
-                  name="MaxMemoryUsage">25</property>
-                <property
-                  dataType="System.Int64"
-                  description="Maximum Memory Usage for Reference Cache on a 64 bit platform."
-                  name="MaxMemoryUsage64">25</property>
-                <property
-                  dataType="System.String"
-                  description="Indicates whether to reference metadata in an XML format."
-                  name="ReferenceMetadataXml">&lt;referenceMetadata&gt;&lt;referenceColumns&gt;&lt;referenceColumn name="AgeGroupID" dataType="DT_I4" length="0" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="NameAgeGroup" dataType="DT_WSTR" length="100" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="FromAge" dataType="DT_I4" length="0" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="ToAge" dataType="DT_I4" length="0" precision="0" scale="0" codePage="0"/&gt;&lt;/referenceColumns&gt;&lt;/referenceMetadata&gt;</property>
-                <property
-                  containsID="true"
-                  dataType="System.String"
-                  description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
-                  name="ParameterMap">#{Package\Fact 6\NDS.Outputs[OLE DB Source Output].Columns[AgeOfCasualty]};#{Package\Fact 6\NDS.Outputs[OLE DB Source Output].Columns[AgeOfCasualty]};</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the column code page to use when code page information is unavailable from the data source."
-                  name="DefaultCodePage">1252</property>
-                <property
-                  dataType="System.Boolean"
-                  description="Determines whether duplicate keys in the reference data should be treated as errors when full cache mode is used."
-                  name="TreatDuplicateKeysAsError">false</property>
-              </properties>
-              <connections>
-                <connection
-                  refId="Package\Fact 6\Age Group.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa 1]"
-                  connectionManagerRefId="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa 1]"
-                  description="Connection manager used to access lookup data."
-                  name="OleDbConnection" />
-              </connections>
-              <inputs>
-                <input
-                  refId="Package\Fact 6\Age Group.Inputs[Lookup Input]"
-                  name="Lookup Input">
-                  <inputColumns>
-                    <inputColumn
-                      refId="Package\Fact 6\Age Group.Inputs[Lookup Input].Columns[AgeOfCasualty]"
-                      cachedDataType="i4"
-                      cachedName="AgeOfCasualty"
-                      lineageId="Package\Fact 6\NDS.Outputs[OLE DB Source Output].Columns[AgeOfCasualty]">
-                      <properties>
-                        <property
-                          dataType="System.String"
-                          description="Specifies the column in the reference table that a column joins."
-                          name="JoinToReferenceColumn">FromAge</property>
-                        <property
-                          dataType="System.Null"
-                          description="Specifies the column in the reference table from which a column is copied."
-                          name="CopyFromReferenceColumn" />
-                      </properties>
-                    </inputColumn>
-                  </inputColumns>
-                  <externalMetadataColumns />
-                </input>
-              </inputs>
-              <outputs>
-                <output
-                  refId="Package\Fact 6\Age Group.Outputs[Lookup Match Output]"
-                  errorOrTruncationOperation="Lookup"
-                  errorRowDisposition="RedirectRow"
-                  exclusionGroup="1"
-                  name="Lookup Match Output"
-                  synchronousInputId="Package\Fact 6\Age Group.Inputs[Lookup Input]">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\Fact 6\Age Group.Outputs[Lookup Match Output].Columns[AgeGroupID]"
-                      dataType="i4"
-                      errorOrTruncationOperation="Copy Column"
-                      lineageId="Package\Fact 6\Age Group.Outputs[Lookup Match Output].Columns[AgeGroupID]"
-                      name="AgeGroupID"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          dataType="System.String"
-                          description="Specifies the column in the reference table from which a column is copied."
-                          name="CopyFromReferenceColumn">AgeGroupID</property>
-                      </properties>
-                    </outputColumn>
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-                <output
-                  refId="Package\Fact 6\Age Group.Outputs[Lookup No Match Output]"
-                  description="The Lookup output that handles rows with no matching entries in the reference dataset. Use this output when the NoMatchBehavior property is set to &quot;Send rows with no matching entries to the no match output.&quot;"
-                  exclusionGroup="1"
-                  name="Lookup No Match Output"
-                  synchronousInputId="Package\Fact 6\Age Group.Inputs[Lookup Input]">
-                  <externalMetadataColumns />
-                </output>
-                <output
-                  refId="Package\Fact 6\Age Group.Outputs[Lookup Error Output]"
-                  exclusionGroup="1"
-                  isErrorOut="true"
-                  name="Lookup Error Output"
-                  synchronousInputId="Package\Fact 6\Age Group.Inputs[Lookup Input]">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\Fact 6\Age Group.Outputs[Lookup Error Output].Columns[ErrorCode]"
-                      dataType="i4"
-                      lineageId="Package\Fact 6\Age Group.Outputs[Lookup Error Output].Columns[ErrorCode]"
-                      name="ErrorCode"
-                      specialFlags="1" />
-                    <outputColumn
-                      refId="Package\Fact 6\Age Group.Outputs[Lookup Error Output].Columns[ErrorColumn]"
-                      dataType="i4"
-                      lineageId="Package\Fact 6\Age Group.Outputs[Lookup Error Output].Columns[ErrorColumn]"
-                      name="ErrorColumn"
-                      specialFlags="2" />
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-              </outputs>
-            </component>
-            <component
               refId="Package\Fact 6\Aggregate"
               componentClassID="Microsoft.Aggregate"
               contactInfo="Aggregate;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;3"
@@ -31081,6 +30922,11 @@ where FromAge&lt;=? and ?&lt;=ToAge</property>
                       cachedName="DateID"
                       lineageId="Package\Fact 6\Date.Outputs[Lookup Match Output].Columns[DateID]" />
                     <inputColumn
+                      refId="Package\Fact 6\Aggregate.Inputs[Aggregate Input 1].Columns[SevertyID]"
+                      cachedDataType="i4"
+                      cachedName="SevertyID"
+                      lineageId="Package\Fact 6\Servety.Outputs[Lookup Match Output].Columns[SevertyID]" />
+                    <inputColumn
                       refId="Package\Fact 6\Aggregate.Inputs[Aggregate Input 1].Columns[CasualtyTypeID]"
                       cachedDataType="i4"
                       cachedName="CasualtyTypeID"
@@ -31089,12 +30935,12 @@ where FromAge&lt;=? and ?&lt;=ToAge</property>
                       refId="Package\Fact 6\Aggregate.Inputs[Aggregate Input 1].Columns[AgeGroupID]"
                       cachedDataType="i4"
                       cachedName="AgeGroupID"
-                      lineageId="Package\Fact 6\Age Group.Outputs[Lookup Match Output].Columns[AgeGroupID]" />
+                      lineageId="Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[AgeGroupID]" />
                     <inputColumn
-                      refId="Package\Fact 6\Aggregate.Inputs[Aggregate Input 1].Columns[SoTNGT]"
+                      refId="Package\Fact 6\Aggregate.Inputs[Aggregate Input 1].Columns[SoNguoiTaiNan]"
                       cachedDataType="i4"
-                      cachedName="SoTNGT"
-                      lineageId="Package\Fact 6\NDS.Outputs[OLE DB Source Output].Columns[SoTNGT]" />
+                      cachedName="SoNguoiTaiNan"
+                      lineageId="Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[SoNguoiTaiNan]" />
                   </inputColumns>
                   <externalMetadataColumns />
                 </input>
@@ -31126,6 +30972,32 @@ where FromAge&lt;=? and ?&lt;=ToAge</property>
                           dataType="System.Int32"
                           description="Specifies the ID of the input column used in the aggregation."
                           name="AggregationColumnId">#{Package\Fact 6\Date.Outputs[Lookup Match Output].Columns[DateID]}</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the type of aggregation."
+                          name="AggregationType"
+                          typeConverter="AggregationType">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Indicates whether the column requires special handling because it may contain oversized data or it requires precision beyond a float data type."
+                          name="IsBig">1</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the string comparison options."
+                          name="AggregationComparisonFlags">0</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Fact 6\Aggregate.Outputs[Aggregate Output 1].Columns[SevertyID]"
+                      dataType="i4"
+                      lineageId="Package\Fact 6\Aggregate.Outputs[Aggregate Output 1].Columns[SevertyID]"
+                      name="SevertyID">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the ID of the input column used in the aggregation."
+                          name="AggregationColumnId">#{Package\Fact 6\Servety.Outputs[Lookup Match Output].Columns[SevertyID]}</property>
                         <property
                           dataType="System.Int32"
                           description="Specifies the type of aggregation."
@@ -31177,7 +31049,7 @@ where FromAge&lt;=? and ?&lt;=ToAge</property>
                           containsID="true"
                           dataType="System.Int32"
                           description="Specifies the ID of the input column used in the aggregation."
-                          name="AggregationColumnId">#{Package\Fact 6\Age Group.Outputs[Lookup Match Output].Columns[AgeGroupID]}</property>
+                          name="AggregationColumnId">#{Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[AgeGroupID]}</property>
                         <property
                           dataType="System.Int32"
                           description="Specifies the type of aggregation."
@@ -31194,16 +31066,16 @@ where FromAge&lt;=? and ?&lt;=ToAge</property>
                       </properties>
                     </outputColumn>
                     <outputColumn
-                      refId="Package\Fact 6\Aggregate.Outputs[Aggregate Output 1].Columns[SoTNGT]"
+                      refId="Package\Fact 6\Aggregate.Outputs[Aggregate Output 1].Columns[SoNguoiTaiNan]"
                       dataType="i8"
-                      lineageId="Package\Fact 6\Aggregate.Outputs[Aggregate Output 1].Columns[SoTNGT]"
-                      name="SoTNGT">
+                      lineageId="Package\Fact 6\Aggregate.Outputs[Aggregate Output 1].Columns[SoNguoiTaiNan]"
+                      name="SoNguoiTaiNan">
                       <properties>
                         <property
                           containsID="true"
                           dataType="System.Int32"
                           description="Specifies the ID of the input column used in the aggregation."
-                          name="AggregationColumnId">#{Package\Fact 6\NDS.Outputs[OLE DB Source Output].Columns[SoTNGT]}</property>
+                          name="AggregationColumnId">#{Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[SoNguoiTaiNan]}</property>
                         <property
                           dataType="System.Int32"
                           description="Specifies the type of aggregation."
@@ -31281,7 +31153,7 @@ where [refTable].[NameCasualtyType] = ?</property>
                   containsID="true"
                   dataType="System.String"
                   description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
-                  name="ParameterMap">#{Package\Fact 6\NDS.Outputs[OLE DB Source Output].Columns[CasualtyTypeName]};</property>
+                  name="ParameterMap">#{Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[LoaiNguoiThamGiaGT]};</property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the column code page to use when code page information is unavailable from the data source."
@@ -31305,11 +31177,11 @@ where [refTable].[NameCasualtyType] = ?</property>
                   name="Lookup Input">
                   <inputColumns>
                     <inputColumn
-                      refId="Package\Fact 6\CasualtyType.Inputs[Lookup Input].Columns[CasualtyTypeName]"
+                      refId="Package\Fact 6\CasualtyType.Inputs[Lookup Input].Columns[LoaiNguoiThamGiaGT]"
                       cachedDataType="wstr"
                       cachedLength="100"
-                      cachedName="CasualtyTypeName"
-                      lineageId="Package\Fact 6\NDS.Outputs[OLE DB Source Output].Columns[CasualtyTypeName]">
+                      cachedName="LoaiNguoiThamGiaGT"
+                      lineageId="Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[LoaiNguoiThamGiaGT]">
                       <properties>
                         <property
                           dataType="System.String"
@@ -31384,6 +31256,105 @@ where [refTable].[NameCasualtyType] = ?</property>
               </outputs>
             </component>
             <component
+              refId="Package\Fact 6\Conditional Split"
+              componentClassID="Microsoft.ConditionalSplit"
+              contactInfo="Conditional Split;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+              description="Routes data rows to different outputs depending on the content of the data. Use conditions (SSIS expressions) to specify which rows are routed. For example, separate records that need to be cleaned from those that are ready to be loaded or route only a subset of records."
+              name="Conditional Split"
+              usesDispositions="true">
+              <inputs>
+                <input
+                  refId="Package\Fact 6\Conditional Split.Inputs[Conditional Split Input]"
+                  description="Input to the Conditional Split Transformation"
+                  name="Conditional Split Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Fact 6\Conditional Split.Inputs[Conditional Split Input].Columns[ageofcasualty]"
+                      cachedDataType="i4"
+                      cachedName="ageofcasualty"
+                      lineageId="Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[ageofcasualty]" />
+                    <inputColumn
+                      refId="Package\Fact 6\Conditional Split.Inputs[Conditional Split Input].Columns[FromAge]"
+                      cachedDataType="i4"
+                      cachedName="FromAge"
+                      lineageId="Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[FromAge]" />
+                    <inputColumn
+                      refId="Package\Fact 6\Conditional Split.Inputs[Conditional Split Input].Columns[ToAge]"
+                      cachedDataType="i4"
+                      cachedName="ToAge"
+                      lineageId="Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[ToAge]" />
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Fact 6\Conditional Split.Outputs[NamTrongNhomTuoi]"
+                  description="Output 1 of the Conditional Split Transformation"
+                  errorOrTruncationOperation="Computation"
+                  errorRowDisposition="FailComponent"
+                  exclusionGroup="1"
+                  name="NamTrongNhomTuoi"
+                  synchronousInputId="Package\Fact 6\Conditional Split.Inputs[Conditional Split Input]"
+                  truncationRowDisposition="FailComponent">
+                  <properties>
+                    <property
+                      containsID="true"
+                      dataType="System.String"
+                      description="Specifies the expression. This expression version uses lineage identifiers instead of column names."
+                      name="Expression">(#{Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[FromAge]} &lt;= #{Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[ageofcasualty]}) &amp;&amp; (#{Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[ageofcasualty]} &lt;= #{Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[ToAge]})</property>
+                    <property
+                      containsID="true"
+                      dataType="System.String"
+                      description="Specifies the friendly version of the expression. This expression version uses column names."
+                      expressionType="Notify"
+                      name="FriendlyExpression">(FromAge &lt;= ageofcasualty) &amp;&amp; (ageofcasualty &lt;= ToAge)</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the position of the condition in the list of conditions that the transformation evaluates. The evaluation order is from the lowest to the highest value."
+                      name="EvaluationOrder">0</property>
+                  </properties>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\Fact 6\Conditional Split.Outputs[Conditional Split Default Output]"
+                  description="Default Output of the Conditional Split Transformation"
+                  exclusionGroup="1"
+                  name="Conditional Split Default Output"
+                  synchronousInputId="Package\Fact 6\Conditional Split.Inputs[Conditional Split Input]">
+                  <properties>
+                    <property
+                      dataType="System.Boolean"
+                      name="IsDefaultOut">true</property>
+                  </properties>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\Fact 6\Conditional Split.Outputs[Conditional Split Error Output]"
+                  description="Error Output of the Conditional Split Transformation"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="Conditional Split Error Output"
+                  synchronousInputId="Package\Fact 6\Conditional Split.Inputs[Conditional Split Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Fact 6\Conditional Split.Outputs[Conditional Split Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Fact 6\Conditional Split.Outputs[Conditional Split Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Fact 6\Conditional Split.Outputs[Conditional Split Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Fact 6\Conditional Split.Outputs[Conditional Split Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
               refId="Package\Fact 6\Date"
               componentClassID="Microsoft.Lookup"
               contactInfo="Lookup;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;6"
@@ -31440,7 +31411,7 @@ where [refTable].[FullDate] = ?</property>
                   containsID="true"
                   dataType="System.String"
                   description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
-                  name="ParameterMap">#{Package\Fact 6\NDS.Outputs[OLE DB Source Output].Columns[Date]};</property>
+                  name="ParameterMap">#{Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[Date]};</property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the column code page to use when code page information is unavailable from the data source."
@@ -31468,7 +31439,7 @@ where [refTable].[FullDate] = ?</property>
                       cachedDataType="wstr"
                       cachedLength="20"
                       cachedName="Date"
-                      lineageId="Package\Fact 6\NDS.Outputs[OLE DB Source Output].Columns[Date]">
+                      lineageId="Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[Date]">
                       <properties>
                         <property
                           dataType="System.String"
@@ -31543,11 +31514,11 @@ where [refTable].[FullDate] = ?</property>
               </outputs>
             </component>
             <component
-              refId="Package\Fact 6\NDS"
+              refId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * )"
               componentClassID="Microsoft.OLEDBSource"
               contactInfo="OLE DB Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;7"
               description="OLE DB Source"
-              name="NDS"
+              name="Date, Type người tham gia, Mức bị thương, tuổi, count( * )"
               usesDispositions="true"
               version="7">
               <properties>
@@ -31567,11 +31538,11 @@ where [refTable].[FullDate] = ?</property>
                   dataType="System.String"
                   description="The SQL command to be executed."
                   name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select A.Date,CT.Name as CasualtyTypeName,C.AgeOfCasualty,COUNT(*) as SoTNGT
-from Casualties C
-left join Accidents A on C.Ma_AccidentIndex = A.MaAccidents
-left join CasualtyType CT on CT.MaCasualtyType=C.CasualtyTypeDT
-group by A.Date,CT.Name,C.AgeOfCasualty</property>
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select ageofcasualty, Severty.Name MucDoBiThuong, CasualtyType.Name LoaiNguoiThamGiaGT, Date,  count(*) SoNguoiTaiNan
+from casualties join accidents on Ma_AccidentIndex =accidents .MaAccidents
+join Severty on SeverityDT = Severty.MaSeverty
+join CasualtyType on CasualtyTypeDT = CasualtyType.MaCasualtyType
+group by ageofcasualty, Severty.Name, CasualtyType.Name, Date</property>
                 <property
                   dataType="System.String"
                   description="The variable that contains the SQL command to be executed."
@@ -31596,7 +31567,7 @@ group by A.Date,CT.Name,C.AgeOfCasualty</property>
               </properties>
               <connections>
                 <connection
-                  refId="Package\Fact 6\NDS.Connections[OleDbConnection]"
+                  refId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Connections[OleDbConnection]"
                   connectionManagerID="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.NDS_UKA.sa 1]"
                   connectionManagerRefId="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.NDS_UKA.sa 1]"
                   description="The OLE DB runtime connection used to access the database."
@@ -31604,107 +31575,511 @@ group by A.Date,CT.Name,C.AgeOfCasualty</property>
               </connections>
               <outputs>
                 <output
-                  refId="Package\Fact 6\NDS.Outputs[OLE DB Source Output]"
+                  refId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output]"
                   name="OLE DB Source Output">
                   <outputColumns>
                     <outputColumn
-                      refId="Package\Fact 6\NDS.Outputs[OLE DB Source Output].Columns[Date]"
+                      refId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].Columns[ageofcasualty]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].ExternalColumns[ageofcasualty]"
+                      lineageId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].Columns[ageofcasualty]"
+                      name="ageofcasualty"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].Columns[MucDoBiThuong]"
                       dataType="wstr"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Fact 6\NDS.Outputs[OLE DB Source Output].ExternalColumns[Date]"
+                      externalMetadataColumnId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].ExternalColumns[MucDoBiThuong]"
+                      length="100"
+                      lineageId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].Columns[MucDoBiThuong]"
+                      name="MucDoBiThuong"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].Columns[LoaiNguoiThamGiaGT]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].ExternalColumns[LoaiNguoiThamGiaGT]"
+                      length="100"
+                      lineageId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].Columns[LoaiNguoiThamGiaGT]"
+                      name="LoaiNguoiThamGiaGT"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].Columns[Date]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].ExternalColumns[Date]"
                       length="20"
-                      lineageId="Package\Fact 6\NDS.Outputs[OLE DB Source Output].Columns[Date]"
+                      lineageId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].Columns[Date]"
                       name="Date"
                       truncationRowDisposition="FailComponent" />
                     <outputColumn
-                      refId="Package\Fact 6\NDS.Outputs[OLE DB Source Output].Columns[CasualtyTypeName]"
-                      dataType="wstr"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Fact 6\NDS.Outputs[OLE DB Source Output].ExternalColumns[CasualtyTypeName]"
-                      length="100"
-                      lineageId="Package\Fact 6\NDS.Outputs[OLE DB Source Output].Columns[CasualtyTypeName]"
-                      name="CasualtyTypeName"
-                      truncationRowDisposition="FailComponent" />
-                    <outputColumn
-                      refId="Package\Fact 6\NDS.Outputs[OLE DB Source Output].Columns[AgeOfCasualty]"
+                      refId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].Columns[SoNguoiTaiNan]"
                       dataType="i4"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Fact 6\NDS.Outputs[OLE DB Source Output].ExternalColumns[AgeOfCasualty]"
-                      lineageId="Package\Fact 6\NDS.Outputs[OLE DB Source Output].Columns[AgeOfCasualty]"
-                      name="AgeOfCasualty"
-                      truncationRowDisposition="FailComponent" />
-                    <outputColumn
-                      refId="Package\Fact 6\NDS.Outputs[OLE DB Source Output].Columns[SoTNGT]"
-                      dataType="i4"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Fact 6\NDS.Outputs[OLE DB Source Output].ExternalColumns[SoTNGT]"
-                      lineageId="Package\Fact 6\NDS.Outputs[OLE DB Source Output].Columns[SoTNGT]"
-                      name="SoTNGT"
+                      externalMetadataColumnId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].ExternalColumns[SoNguoiTaiNan]"
+                      lineageId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].Columns[SoNguoiTaiNan]"
+                      name="SoNguoiTaiNan"
                       truncationRowDisposition="FailComponent" />
                   </outputColumns>
                   <externalMetadataColumns
                     isUsed="True">
                     <externalMetadataColumn
-                      refId="Package\Fact 6\NDS.Outputs[OLE DB Source Output].ExternalColumns[Date]"
+                      refId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].ExternalColumns[ageofcasualty]"
+                      dataType="i4"
+                      name="ageofcasualty" />
+                    <externalMetadataColumn
+                      refId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].ExternalColumns[MucDoBiThuong]"
+                      dataType="wstr"
+                      length="100"
+                      name="MucDoBiThuong" />
+                    <externalMetadataColumn
+                      refId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].ExternalColumns[LoaiNguoiThamGiaGT]"
+                      dataType="wstr"
+                      length="100"
+                      name="LoaiNguoiThamGiaGT" />
+                    <externalMetadataColumn
+                      refId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].ExternalColumns[Date]"
                       dataType="wstr"
                       length="20"
                       name="Date" />
                     <externalMetadataColumn
-                      refId="Package\Fact 6\NDS.Outputs[OLE DB Source Output].ExternalColumns[CasualtyTypeName]"
-                      dataType="wstr"
-                      length="100"
-                      name="CasualtyTypeName" />
-                    <externalMetadataColumn
-                      refId="Package\Fact 6\NDS.Outputs[OLE DB Source Output].ExternalColumns[AgeOfCasualty]"
+                      refId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].ExternalColumns[SoNguoiTaiNan]"
                       dataType="i4"
-                      name="AgeOfCasualty" />
-                    <externalMetadataColumn
-                      refId="Package\Fact 6\NDS.Outputs[OLE DB Source Output].ExternalColumns[SoTNGT]"
-                      dataType="i4"
-                      name="SoTNGT" />
+                      name="SoNguoiTaiNan" />
                   </externalMetadataColumns>
                 </output>
                 <output
-                  refId="Package\Fact 6\NDS.Outputs[OLE DB Source Error Output]"
+                  refId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Error Output]"
                   isErrorOut="true"
                   name="OLE DB Source Error Output">
                   <outputColumns>
                     <outputColumn
-                      refId="Package\Fact 6\NDS.Outputs[OLE DB Source Error Output].Columns[Date]"
-                      dataType="wstr"
-                      length="20"
-                      lineageId="Package\Fact 6\NDS.Outputs[OLE DB Source Error Output].Columns[Date]"
-                      name="Date" />
+                      refId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Error Output].Columns[ageofcasualty]"
+                      dataType="i4"
+                      lineageId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Error Output].Columns[ageofcasualty]"
+                      name="ageofcasualty" />
                     <outputColumn
-                      refId="Package\Fact 6\NDS.Outputs[OLE DB Source Error Output].Columns[CasualtyTypeName]"
+                      refId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Error Output].Columns[MucDoBiThuong]"
                       dataType="wstr"
                       length="100"
-                      lineageId="Package\Fact 6\NDS.Outputs[OLE DB Source Error Output].Columns[CasualtyTypeName]"
-                      name="CasualtyTypeName" />
+                      lineageId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Error Output].Columns[MucDoBiThuong]"
+                      name="MucDoBiThuong" />
                     <outputColumn
-                      refId="Package\Fact 6\NDS.Outputs[OLE DB Source Error Output].Columns[AgeOfCasualty]"
-                      dataType="i4"
-                      lineageId="Package\Fact 6\NDS.Outputs[OLE DB Source Error Output].Columns[AgeOfCasualty]"
-                      name="AgeOfCasualty" />
+                      refId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Error Output].Columns[LoaiNguoiThamGiaGT]"
+                      dataType="wstr"
+                      length="100"
+                      lineageId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Error Output].Columns[LoaiNguoiThamGiaGT]"
+                      name="LoaiNguoiThamGiaGT" />
                     <outputColumn
-                      refId="Package\Fact 6\NDS.Outputs[OLE DB Source Error Output].Columns[SoTNGT]"
-                      dataType="i4"
-                      lineageId="Package\Fact 6\NDS.Outputs[OLE DB Source Error Output].Columns[SoTNGT]"
-                      name="SoTNGT" />
+                      refId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Error Output].Columns[Date]"
+                      dataType="wstr"
+                      length="20"
+                      lineageId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Error Output].Columns[Date]"
+                      name="Date" />
                     <outputColumn
-                      refId="Package\Fact 6\NDS.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
+                      refId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Error Output].Columns[SoNguoiTaiNan]"
                       dataType="i4"
-                      lineageId="Package\Fact 6\NDS.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
+                      lineageId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Error Output].Columns[SoNguoiTaiNan]"
+                      name="SoNguoiTaiNan" />
+                    <outputColumn
+                      refId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
                       name="ErrorCode"
                       specialFlags="1" />
                     <outputColumn
-                      refId="Package\Fact 6\NDS.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
+                      refId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
                       dataType="i4"
-                      lineageId="Package\Fact 6\NDS.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
+                      lineageId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Fact 6\Merge Join"
+              componentClassID="Microsoft.MergeJoin"
+              contactInfo="Merge Join;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
+              description="Combine two sorted data flows into one using the FULL, LEFT, or INNER join. We recommend this transformation when data flows can be sorted at their sources."
+              name="Merge Join"
+              version="1">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the type of join to perform."
+                  name="JoinType"
+                  typeConverter="JoinType">2</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the number of columns in the ordering key."
+                  name="NumKeyColumns">1</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the null values are treated as equal values."
+                  name="TreatNullsAsEqual">true</property>
+                <property
+                  dataType="System.Int32"
+                  description="Indicates the requested maximum buffers per input before blocking."
+                  name="MaxBuffersPerInput">5</property>
+              </properties>
+              <inputs>
+                <input
+                  refId="Package\Fact 6\Merge Join.Inputs[Merge Join Left Input]"
+                  hasSideEffects="true"
+                  name="Merge Join Left Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Fact 6\Merge Join.Inputs[Merge Join Left Input].Columns[Khóa join]"
+                      cachedDataType="i4"
+                      cachedName="Khóa join"
+                      cachedSortKeyPosition="1"
+                      lineageId="Package\Fact 6\Sort.Outputs[Sort Output].Columns[Khóa join]" />
+                    <inputColumn
+                      refId="Package\Fact 6\Merge Join.Inputs[Merge Join Left Input].Columns[ageofcasualty]"
+                      cachedDataType="i4"
+                      cachedName="ageofcasualty"
+                      lineageId="Package\Fact 6\Sort.Outputs[Sort Output].Columns[ageofcasualty]" />
+                    <inputColumn
+                      refId="Package\Fact 6\Merge Join.Inputs[Merge Join Left Input].Columns[MucDoBiThuong]"
+                      cachedDataType="wstr"
+                      cachedLength="100"
+                      cachedName="MucDoBiThuong"
+                      lineageId="Package\Fact 6\Sort.Outputs[Sort Output].Columns[MucDoBiThuong]" />
+                    <inputColumn
+                      refId="Package\Fact 6\Merge Join.Inputs[Merge Join Left Input].Columns[LoaiNguoiThamGiaGT]"
+                      cachedDataType="wstr"
+                      cachedLength="100"
+                      cachedName="LoaiNguoiThamGiaGT"
+                      lineageId="Package\Fact 6\Sort.Outputs[Sort Output].Columns[LoaiNguoiThamGiaGT]" />
+                    <inputColumn
+                      refId="Package\Fact 6\Merge Join.Inputs[Merge Join Left Input].Columns[Date]"
+                      cachedDataType="wstr"
+                      cachedLength="20"
+                      cachedName="Date"
+                      lineageId="Package\Fact 6\Sort.Outputs[Sort Output].Columns[Date]" />
+                    <inputColumn
+                      refId="Package\Fact 6\Merge Join.Inputs[Merge Join Left Input].Columns[SoNguoiTaiNan]"
+                      cachedDataType="i4"
+                      cachedName="SoNguoiTaiNan"
+                      lineageId="Package\Fact 6\Sort.Outputs[Sort Output].Columns[SoNguoiTaiNan]" />
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+                <input
+                  refId="Package\Fact 6\Merge Join.Inputs[Merge Join Right Input]"
+                  hasSideEffects="true"
+                  name="Merge Join Right Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Fact 6\Merge Join.Inputs[Merge Join Right Input].Columns[Khóa join]"
+                      cachedDataType="i4"
+                      cachedName="Khóa join"
+                      cachedSortKeyPosition="1"
+                      lineageId="Package\Fact 6\Sort 1.Outputs[Sort Output].Columns[Khóa join]" />
+                    <inputColumn
+                      refId="Package\Fact 6\Merge Join.Inputs[Merge Join Right Input].Columns[AgeGroupID]"
+                      cachedDataType="i4"
+                      cachedName="AgeGroupID"
+                      lineageId="Package\Fact 6\Sort 1.Outputs[Sort Output].Columns[AgeGroupID]" />
+                    <inputColumn
+                      refId="Package\Fact 6\Merge Join.Inputs[Merge Join Right Input].Columns[FromAge]"
+                      cachedDataType="i4"
+                      cachedName="FromAge"
+                      lineageId="Package\Fact 6\Sort 1.Outputs[Sort Output].Columns[FromAge]" />
+                    <inputColumn
+                      refId="Package\Fact 6\Merge Join.Inputs[Merge Join Right Input].Columns[ToAge]"
+                      cachedDataType="i4"
+                      cachedName="ToAge"
+                      lineageId="Package\Fact 6\Sort 1.Outputs[Sort Output].Columns[ToAge]" />
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Fact 6\Merge Join.Outputs[Merge Join Output]"
+                  name="Merge Join Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[ageofcasualty]"
+                      dataType="i4"
+                      lineageId="Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[ageofcasualty]"
+                      name="ageofcasualty">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="The input column associated with this output column"
+                          name="InputColumnID">#{Package\Fact 6\Merge Join.Inputs[Merge Join Left Input].Columns[ageofcasualty]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[MucDoBiThuong]"
+                      dataType="wstr"
+                      length="100"
+                      lineageId="Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[MucDoBiThuong]"
+                      name="MucDoBiThuong">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="The input column associated with this output column"
+                          name="InputColumnID">#{Package\Fact 6\Merge Join.Inputs[Merge Join Left Input].Columns[MucDoBiThuong]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[LoaiNguoiThamGiaGT]"
+                      dataType="wstr"
+                      length="100"
+                      lineageId="Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[LoaiNguoiThamGiaGT]"
+                      name="LoaiNguoiThamGiaGT">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="The input column associated with this output column"
+                          name="InputColumnID">#{Package\Fact 6\Merge Join.Inputs[Merge Join Left Input].Columns[LoaiNguoiThamGiaGT]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[Date]"
+                      dataType="wstr"
+                      length="20"
+                      lineageId="Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[Date]"
+                      name="Date">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="The input column associated with this output column"
+                          name="InputColumnID">#{Package\Fact 6\Merge Join.Inputs[Merge Join Left Input].Columns[Date]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[SoNguoiTaiNan]"
+                      dataType="i4"
+                      lineageId="Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[SoNguoiTaiNan]"
+                      name="SoNguoiTaiNan">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="The input column associated with this output column"
+                          name="InputColumnID">#{Package\Fact 6\Merge Join.Inputs[Merge Join Left Input].Columns[SoNguoiTaiNan]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[AgeGroupID]"
+                      dataType="i4"
+                      lineageId="Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[AgeGroupID]"
+                      name="AgeGroupID">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="The input column associated with this output column"
+                          name="InputColumnID">#{Package\Fact 6\Merge Join.Inputs[Merge Join Right Input].Columns[AgeGroupID]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[FromAge]"
+                      dataType="i4"
+                      lineageId="Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[FromAge]"
+                      name="FromAge">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="The input column associated with this output column"
+                          name="InputColumnID">#{Package\Fact 6\Merge Join.Inputs[Merge Join Right Input].Columns[FromAge]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[ToAge]"
+                      dataType="i4"
+                      lineageId="Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[ToAge]"
+                      name="ToAge">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="The input column associated with this output column"
+                          name="InputColumnID">#{Package\Fact 6\Merge Join.Inputs[Merge Join Right Input].Columns[ToAge]}</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Fact 6\Nhom tuoi 2"
+              componentClassID="Microsoft.OLEDBSource"
+              contactInfo="OLE DB Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;7"
+              description="OLE DB Source"
+              name="Nhom tuoi 2"
+              usesDispositions="true"
+              version="7">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of the database object used to open a rowset."
+                  name="OpenRowset">[dbo].[AgeGroup2]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the variable that contains the name of the database object used to open a rowset."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="The SQL command to be executed."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select ageofcasualty, Severty.Name MucDoBiThuong, CasualtyType.Name LoaiNguoiThamGiaGT, Date,  count(*) SoNguoiTaiNan
+from casualties join accidents on Ma_AccidentIndex =accidents .MaAccidents
+join Severty on SeverityDT = Severty.MaSeverty
+join CasualtyType on CasualtyTypeDT = CasualtyType.MaCasualtyType
+group by ageofcasualty, Severty.Name, CasualtyType.Name, Date</property>
+                <property
+                  dataType="System.String"
+                  description="The variable that contains the SQL command to be executed."
+                  name="SqlCommandVariable"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1252</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Forces the use of the DefaultCodePage property value when describing character data."
+                  name="AlwaysUseDefaultCodePage">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the mode used to access the database."
+                  name="AccessMode"
+                  typeConverter="AccessMode">0</property>
+                <property
+                  dataType="System.String"
+                  description="The mappings between the parameters in the SQL command and variables."
+                  name="ParameterMapping"></property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Fact 6\Nhom tuoi 2.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa 1]"
+                  connectionManagerRefId="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa 1]"
+                  description="The OLE DB runtime connection used to access the database."
+                  name="OleDbConnection" />
+              </connections>
+              <outputs>
+                <output
+                  refId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Output]"
+                  name="OLE DB Source Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Output].Columns[AgeGroupID]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Output].ExternalColumns[AgeGroupID]"
+                      lineageId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Output].Columns[AgeGroupID]"
+                      name="AgeGroupID"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Output].Columns[NameAgeGroup]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Output].ExternalColumns[NameAgeGroup]"
+                      length="100"
+                      lineageId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Output].Columns[NameAgeGroup]"
+                      name="NameAgeGroup"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Output].Columns[FromAge]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Output].ExternalColumns[FromAge]"
+                      lineageId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Output].Columns[FromAge]"
+                      name="FromAge"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Output].Columns[ToAge]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Output].ExternalColumns[ToAge]"
+                      lineageId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Output].Columns[ToAge]"
+                      name="ToAge"
+                      truncationRowDisposition="FailComponent" />
+                  </outputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Output].ExternalColumns[AgeGroupID]"
+                      dataType="i4"
+                      name="AgeGroupID" />
+                    <externalMetadataColumn
+                      refId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Output].ExternalColumns[NameAgeGroup]"
+                      dataType="wstr"
+                      length="100"
+                      name="NameAgeGroup" />
+                    <externalMetadataColumn
+                      refId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Output].ExternalColumns[FromAge]"
+                      dataType="i4"
+                      name="FromAge" />
+                    <externalMetadataColumn
+                      refId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Output].ExternalColumns[ToAge]"
+                      dataType="i4"
+                      name="ToAge" />
+                  </externalMetadataColumns>
+                </output>
+                <output
+                  refId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Error Output]"
+                  isErrorOut="true"
+                  name="OLE DB Source Error Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Error Output].Columns[AgeGroupID]"
+                      dataType="i4"
+                      lineageId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Error Output].Columns[AgeGroupID]"
+                      name="AgeGroupID" />
+                    <outputColumn
+                      refId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Error Output].Columns[NameAgeGroup]"
+                      dataType="wstr"
+                      length="100"
+                      lineageId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Error Output].Columns[NameAgeGroup]"
+                      name="NameAgeGroup" />
+                    <outputColumn
+                      refId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Error Output].Columns[FromAge]"
+                      dataType="i4"
+                      lineageId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Error Output].Columns[FromAge]"
+                      name="FromAge" />
+                    <outputColumn
+                      refId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Error Output].Columns[ToAge]"
+                      dataType="i4"
+                      lineageId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Error Output].Columns[ToAge]"
+                      name="ToAge" />
+                    <outputColumn
+                      refId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
                       name="ErrorColumn"
                       specialFlags="2" />
                   </outputColumns>
@@ -31791,6 +32166,12 @@ group by A.Date,CT.Name,C.AgeOfCasualty</property>
                       externalMetadataColumnId="Package\Fact 6\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[DateID]"
                       lineageId="Package\Fact 6\Aggregate.Outputs[Aggregate Output 1].Columns[DateID]" />
                     <inputColumn
+                      refId="Package\Fact 6\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[SevertyID]"
+                      cachedDataType="i4"
+                      cachedName="SevertyID"
+                      externalMetadataColumnId="Package\Fact 6\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[SevertyID]"
+                      lineageId="Package\Fact 6\Aggregate.Outputs[Aggregate Output 1].Columns[SevertyID]" />
+                    <inputColumn
                       refId="Package\Fact 6\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[CasualtyTypeID]"
                       cachedDataType="i4"
                       cachedName="CasualtyTypeID"
@@ -31803,11 +32184,11 @@ group by A.Date,CT.Name,C.AgeOfCasualty</property>
                       externalMetadataColumnId="Package\Fact 6\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[AgeGroupID]"
                       lineageId="Package\Fact 6\Aggregate.Outputs[Aggregate Output 1].Columns[AgeGroupID]" />
                     <inputColumn
-                      refId="Package\Fact 6\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[SoTNGT]"
+                      refId="Package\Fact 6\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[SoNguoiTaiNan]"
                       cachedDataType="i8"
-                      cachedName="SoTNGT"
+                      cachedName="SoNguoiTaiNan"
                       externalMetadataColumnId="Package\Fact 6\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[SoTNGT]"
-                      lineageId="Package\Fact 6\Aggregate.Outputs[Aggregate Output 1].Columns[SoTNGT]" />
+                      lineageId="Package\Fact 6\Aggregate.Outputs[Aggregate Output 1].Columns[SoNguoiTaiNan]" />
                   </inputColumns>
                   <externalMetadataColumns
                     isUsed="True">
@@ -31815,6 +32196,10 @@ group by A.Date,CT.Name,C.AgeOfCasualty</property>
                       refId="Package\Fact 6\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[DateID]"
                       dataType="i4"
                       name="DateID" />
+                    <externalMetadataColumn
+                      refId="Package\Fact 6\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[SevertyID]"
+                      dataType="i4"
+                      name="SevertyID" />
                     <externalMetadataColumn
                       refId="Package\Fact 6\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[CasualtyTypeID]"
                       dataType="i4"
@@ -31855,6 +32240,716 @@ group by A.Date,CT.Name,C.AgeOfCasualty</property>
                 </output>
               </outputs>
             </component>
+            <component
+              refId="Package\Fact 6\Servety"
+              componentClassID="Microsoft.Lookup"
+              contactInfo="Lookup;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;6"
+              description="Joins additional columns to the data flow by looking up values in a table. For example, join to the 'employee id' column the employees table to get 'hire date' and 'employee name'. We recommend this transformation when the lookup table can fit into memory."
+              name="Servety"
+              usesDispositions="true"
+              version="6">
+              <properties>
+                <property
+                  dataType="System.String"
+                  description="Specifies the SQL statement that generates the lookup table."
+                  expressionType="Notify"
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select * from [dbo].[Severty]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies a SQL statement that uses parameters to generate the lookup table."
+                  expressionType="Notify"
+                  name="SqlCommandParam"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select * from (select * from [dbo].[Severty]) [refTable]
+where [refTable].[NameSeverty] = ?</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the type of connection used to access the reference dataset."
+                  name="ConnectionType"
+                  typeConverter="LookupConnectionType">0</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the cache type of the lookup table."
+                  name="CacheType"
+                  typeConverter="CacheType">0</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies how the Lookup transformation handles rows without matching entries in the reference data set."
+                  name="NoMatchBehavior"
+                  typeConverter="LookupNoMatchBehavior">0</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the percentage of the cache that is allocated for rows with no matching entries in the reference dataset."
+                  name="NoMatchCachePercentage">0</property>
+                <property
+                  dataType="System.Int32"
+                  description="Maximum Memory Usage for Reference Cache on a 32 bit platform."
+                  name="MaxMemoryUsage">25</property>
+                <property
+                  dataType="System.Int64"
+                  description="Maximum Memory Usage for Reference Cache on a 64 bit platform."
+                  name="MaxMemoryUsage64">25</property>
+                <property
+                  dataType="System.String"
+                  description="Indicates whether to reference metadata in an XML format."
+                  name="ReferenceMetadataXml">&lt;referenceMetadata&gt;&lt;referenceColumns&gt;&lt;referenceColumn name="SevertyID" dataType="DT_I4" length="0" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="NameSeverty" dataType="DT_WSTR" length="100" precision="0" scale="0" codePage="0"/&gt;&lt;/referenceColumns&gt;&lt;/referenceMetadata&gt;</property>
+                <property
+                  containsID="true"
+                  dataType="System.String"
+                  description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
+                  name="ParameterMap">#{Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[MucDoBiThuong]};</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1252</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Determines whether duplicate keys in the reference data should be treated as errors when full cache mode is used."
+                  name="TreatDuplicateKeysAsError">false</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Fact 6\Servety.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa 1]"
+                  connectionManagerRefId="Package.ConnectionManagers[DESKTOP-CS86AG5\SQLEXPRESS.DDS.sa 1]"
+                  description="Connection manager used to access lookup data."
+                  name="OleDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\Fact 6\Servety.Inputs[Lookup Input]"
+                  name="Lookup Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Fact 6\Servety.Inputs[Lookup Input].Columns[MucDoBiThuong]"
+                      cachedDataType="wstr"
+                      cachedLength="100"
+                      cachedName="MucDoBiThuong"
+                      lineageId="Package\Fact 6\Merge Join.Outputs[Merge Join Output].Columns[MucDoBiThuong]">
+                      <properties>
+                        <property
+                          dataType="System.String"
+                          description="Specifies the column in the reference table that a column joins."
+                          name="JoinToReferenceColumn">NameSeverty</property>
+                        <property
+                          dataType="System.Null"
+                          description="Specifies the column in the reference table from which a column is copied."
+                          name="CopyFromReferenceColumn" />
+                      </properties>
+                    </inputColumn>
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Fact 6\Servety.Outputs[Lookup Match Output]"
+                  errorOrTruncationOperation="Lookup"
+                  errorRowDisposition="RedirectRow"
+                  exclusionGroup="1"
+                  name="Lookup Match Output"
+                  synchronousInputId="Package\Fact 6\Servety.Inputs[Lookup Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Fact 6\Servety.Outputs[Lookup Match Output].Columns[SevertyID]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Copy Column"
+                      lineageId="Package\Fact 6\Servety.Outputs[Lookup Match Output].Columns[SevertyID]"
+                      name="SevertyID"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.String"
+                          description="Specifies the column in the reference table from which a column is copied."
+                          name="CopyFromReferenceColumn">SevertyID</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\Fact 6\Servety.Outputs[Lookup No Match Output]"
+                  description="The Lookup output that handles rows with no matching entries in the reference dataset. Use this output when the NoMatchBehavior property is set to &quot;Send rows with no matching entries to the no match output.&quot;"
+                  exclusionGroup="1"
+                  name="Lookup No Match Output"
+                  synchronousInputId="Package\Fact 6\Servety.Inputs[Lookup Input]">
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\Fact 6\Servety.Outputs[Lookup Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="Lookup Error Output"
+                  synchronousInputId="Package\Fact 6\Servety.Inputs[Lookup Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Fact 6\Servety.Outputs[Lookup Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Fact 6\Servety.Outputs[Lookup Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Fact 6\Servety.Outputs[Lookup Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Fact 6\Servety.Outputs[Lookup Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Fact 6\Sort"
+              componentClassID="Microsoft.Sort"
+              contactInfo="Sort;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
+              description="Sorts input data in ascending or descending order when it cannot be sorted at its source. For example, sort sales data by 'customer id' before it is written to a flat file and delivered to another department. Note: We do not recommend this transformation for large data flows."
+              name="Sort"
+              version="1">
+              <properties>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the Sort transformation removes rows with duplicate sort values."
+                  name="EliminateDuplicates">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the maximum number of threads to use for sorting."
+                  expressionType="Notify"
+                  name="MaximumThreads">-1</property>
+              </properties>
+              <inputs>
+                <input
+                  refId="Package\Fact 6\Sort.Inputs[Sort Input]"
+                  name="Sort Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Fact 6\Sort.Inputs[Sort Input].Columns[ageofcasualty]"
+                      cachedDataType="i4"
+                      cachedName="ageofcasualty"
+                      lineageId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].Columns[ageofcasualty]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Fact 6\Sort.Inputs[Sort Input].Columns[MucDoBiThuong]"
+                      cachedDataType="wstr"
+                      cachedLength="100"
+                      cachedName="MucDoBiThuong"
+                      lineageId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].Columns[MucDoBiThuong]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Fact 6\Sort.Inputs[Sort Input].Columns[LoaiNguoiThamGiaGT]"
+                      cachedDataType="wstr"
+                      cachedLength="100"
+                      cachedName="LoaiNguoiThamGiaGT"
+                      lineageId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].Columns[LoaiNguoiThamGiaGT]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Fact 6\Sort.Inputs[Sort Input].Columns[Date]"
+                      cachedDataType="wstr"
+                      cachedLength="20"
+                      cachedName="Date"
+                      lineageId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].Columns[Date]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Fact 6\Sort.Inputs[Sort Input].Columns[SoNguoiTaiNan]"
+                      cachedDataType="i4"
+                      cachedName="SoNguoiTaiNan"
+                      lineageId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].Columns[SoNguoiTaiNan]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Fact 6\Sort.Inputs[Sort Input].Columns[Khóa join]"
+                      cachedDataType="i4"
+                      cachedName="Khóa join"
+                      lineageId="Package\Fact 6\Them cột 1.Outputs[Derived Column Output].Columns[Khóa join]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">1</property>
+                      </properties>
+                    </inputColumn>
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Fact 6\Sort.Outputs[Sort Output]"
+                  isSorted="true"
+                  name="Sort Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Fact 6\Sort.Outputs[Sort Output].Columns[ageofcasualty]"
+                      dataType="i4"
+                      lineageId="Package\Fact 6\Sort.Outputs[Sort Output].Columns[ageofcasualty]"
+                      name="ageofcasualty">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].Columns[ageofcasualty]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Fact 6\Sort.Outputs[Sort Output].Columns[MucDoBiThuong]"
+                      dataType="wstr"
+                      length="100"
+                      lineageId="Package\Fact 6\Sort.Outputs[Sort Output].Columns[MucDoBiThuong]"
+                      name="MucDoBiThuong">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].Columns[MucDoBiThuong]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Fact 6\Sort.Outputs[Sort Output].Columns[LoaiNguoiThamGiaGT]"
+                      dataType="wstr"
+                      length="100"
+                      lineageId="Package\Fact 6\Sort.Outputs[Sort Output].Columns[LoaiNguoiThamGiaGT]"
+                      name="LoaiNguoiThamGiaGT">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].Columns[LoaiNguoiThamGiaGT]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Fact 6\Sort.Outputs[Sort Output].Columns[Date]"
+                      dataType="wstr"
+                      length="20"
+                      lineageId="Package\Fact 6\Sort.Outputs[Sort Output].Columns[Date]"
+                      name="Date">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].Columns[Date]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Fact 6\Sort.Outputs[Sort Output].Columns[SoNguoiTaiNan]"
+                      dataType="i4"
+                      lineageId="Package\Fact 6\Sort.Outputs[Sort Output].Columns[SoNguoiTaiNan]"
+                      name="SoNguoiTaiNan">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output].Columns[SoNguoiTaiNan]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Fact 6\Sort.Outputs[Sort Output].Columns[Khóa join]"
+                      dataType="i4"
+                      lineageId="Package\Fact 6\Sort.Outputs[Sort Output].Columns[Khóa join]"
+                      name="Khóa join"
+                      sortKeyPosition="1">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Fact 6\Them cột 1.Outputs[Derived Column Output].Columns[Khóa join]}</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Fact 6\Sort 1"
+              componentClassID="Microsoft.Sort"
+              contactInfo="Sort;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
+              description="Sorts input data in ascending or descending order when it cannot be sorted at its source. For example, sort sales data by 'customer id' before it is written to a flat file and delivered to another department. Note: We do not recommend this transformation for large data flows."
+              name="Sort 1"
+              version="1">
+              <properties>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the Sort transformation removes rows with duplicate sort values."
+                  name="EliminateDuplicates">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the maximum number of threads to use for sorting."
+                  expressionType="Notify"
+                  name="MaximumThreads">-1</property>
+              </properties>
+              <inputs>
+                <input
+                  refId="Package\Fact 6\Sort 1.Inputs[Sort Input]"
+                  name="Sort Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Fact 6\Sort 1.Inputs[Sort Input].Columns[AgeGroupID]"
+                      cachedDataType="i4"
+                      cachedName="AgeGroupID"
+                      lineageId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Output].Columns[AgeGroupID]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Fact 6\Sort 1.Inputs[Sort Input].Columns[NameAgeGroup]"
+                      cachedDataType="wstr"
+                      cachedLength="100"
+                      cachedName="NameAgeGroup"
+                      lineageId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Output].Columns[NameAgeGroup]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Fact 6\Sort 1.Inputs[Sort Input].Columns[FromAge]"
+                      cachedDataType="i4"
+                      cachedName="FromAge"
+                      lineageId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Output].Columns[FromAge]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Fact 6\Sort 1.Inputs[Sort Input].Columns[ToAge]"
+                      cachedDataType="i4"
+                      cachedName="ToAge"
+                      lineageId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Output].Columns[ToAge]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Fact 6\Sort 1.Inputs[Sort Input].Columns[Khóa join]"
+                      cachedDataType="i4"
+                      cachedName="Khóa join"
+                      lineageId="Package\Fact 6\Them cột 1 1.Outputs[Derived Column Output].Columns[Khóa join]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">1</property>
+                      </properties>
+                    </inputColumn>
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Fact 6\Sort 1.Outputs[Sort Output]"
+                  isSorted="true"
+                  name="Sort Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Fact 6\Sort 1.Outputs[Sort Output].Columns[AgeGroupID]"
+                      dataType="i4"
+                      lineageId="Package\Fact 6\Sort 1.Outputs[Sort Output].Columns[AgeGroupID]"
+                      name="AgeGroupID">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Output].Columns[AgeGroupID]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Fact 6\Sort 1.Outputs[Sort Output].Columns[NameAgeGroup]"
+                      dataType="wstr"
+                      length="100"
+                      lineageId="Package\Fact 6\Sort 1.Outputs[Sort Output].Columns[NameAgeGroup]"
+                      name="NameAgeGroup">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Output].Columns[NameAgeGroup]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Fact 6\Sort 1.Outputs[Sort Output].Columns[FromAge]"
+                      dataType="i4"
+                      lineageId="Package\Fact 6\Sort 1.Outputs[Sort Output].Columns[FromAge]"
+                      name="FromAge">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Output].Columns[FromAge]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Fact 6\Sort 1.Outputs[Sort Output].Columns[ToAge]"
+                      dataType="i4"
+                      lineageId="Package\Fact 6\Sort 1.Outputs[Sort Output].Columns[ToAge]"
+                      name="ToAge">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Output].Columns[ToAge]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Fact 6\Sort 1.Outputs[Sort Output].Columns[Khóa join]"
+                      dataType="i4"
+                      lineageId="Package\Fact 6\Sort 1.Outputs[Sort Output].Columns[Khóa join]"
+                      name="Khóa join"
+                      sortKeyPosition="1">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Fact 6\Them cột 1 1.Outputs[Derived Column Output].Columns[Khóa join]}</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Fact 6\Them cột 1"
+              componentClassID="Microsoft.DerivedColumn"
+              contactInfo="Derived Column;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+              description="Creates new column values by applying expressions to transformation input columns. Create new columns or overwrite existing ones. For example, concatenate the values from the 'first name' and 'last name' column to make a 'full name' column."
+              name="Them cột 1"
+              usesDispositions="true">
+              <inputs>
+                <input
+                  refId="Package\Fact 6\Them cột 1.Inputs[Derived Column Input]"
+                  description="Input to the Derived Column Transformation"
+                  name="Derived Column Input">
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Fact 6\Them cột 1.Outputs[Derived Column Output]"
+                  description="Default Output of the Derived Column Transformation"
+                  exclusionGroup="1"
+                  name="Derived Column Output"
+                  synchronousInputId="Package\Fact 6\Them cột 1.Inputs[Derived Column Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Fact 6\Them cột 1.Outputs[Derived Column Output].Columns[Khóa join]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Fact 6\Them cột 1.Outputs[Derived Column Output].Columns[Khóa join]"
+                      name="Khóa join"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">1</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">1</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\Fact 6\Them cột 1.Outputs[Derived Column Error Output]"
+                  description="Error Output of the Derived Column Transformation"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="Derived Column Error Output"
+                  synchronousInputId="Package\Fact 6\Them cột 1.Inputs[Derived Column Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Fact 6\Them cột 1.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Fact 6\Them cột 1.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Fact 6\Them cột 1.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Fact 6\Them cột 1.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Fact 6\Them cột 1 1"
+              componentClassID="Microsoft.DerivedColumn"
+              contactInfo="Derived Column;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+              description="Creates new column values by applying expressions to transformation input columns. Create new columns or overwrite existing ones. For example, concatenate the values from the 'first name' and 'last name' column to make a 'full name' column."
+              name="Them cột 1 1"
+              usesDispositions="true">
+              <inputs>
+                <input
+                  refId="Package\Fact 6\Them cột 1 1.Inputs[Derived Column Input]"
+                  description="Input to the Derived Column Transformation"
+                  name="Derived Column Input">
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Fact 6\Them cột 1 1.Outputs[Derived Column Output]"
+                  description="Default Output of the Derived Column Transformation"
+                  exclusionGroup="1"
+                  name="Derived Column Output"
+                  synchronousInputId="Package\Fact 6\Them cột 1 1.Inputs[Derived Column Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Fact 6\Them cột 1 1.Outputs[Derived Column Output].Columns[Khóa join]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Fact 6\Them cột 1 1.Outputs[Derived Column Output].Columns[Khóa join]"
+                      name="Khóa join"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">1</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">1</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\Fact 6\Them cột 1 1.Outputs[Derived Column Error Output]"
+                  description="Error Output of the Derived Column Transformation"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="Derived Column Error Output"
+                  synchronousInputId="Package\Fact 6\Them cột 1 1.Inputs[Derived Column Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Fact 6\Them cột 1 1.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Fact 6\Them cột 1 1.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Fact 6\Them cột 1 1.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Fact 6\Them cột 1 1.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
           </components>
           <paths>
             <path
@@ -31863,25 +32958,60 @@ group by A.Date,CT.Name,C.AgeOfCasualty</property>
               name="Aggregate Output 1"
               startId="Package\Fact 6\Aggregate.Outputs[Aggregate Output 1]" />
             <path
+              refId="Package\Fact 6.Paths[Derived Column Output]"
+              endId="Package\Fact 6\Sort.Inputs[Sort Input]"
+              name="Derived Column Output"
+              startId="Package\Fact 6\Them cột 1.Outputs[Derived Column Output]" />
+            <path
+              refId="Package\Fact 6.Paths[Derived Column Output1]"
+              endId="Package\Fact 6\Sort 1.Inputs[Sort Input]"
+              name="Derived Column Output"
+              startId="Package\Fact 6\Them cột 1 1.Outputs[Derived Column Output]" />
+            <path
               refId="Package\Fact 6.Paths[Lookup Match Output]"
-              endId="Package\Fact 6\Aggregate.Inputs[Aggregate Input 1]"
+              endId="Package\Fact 6\Servety.Inputs[Lookup Input]"
               name="Lookup Match Output"
-              startId="Package\Fact 6\Age Group.Outputs[Lookup Match Output]" />
+              startId="Package\Fact 6\Date.Outputs[Lookup Match Output]" />
             <path
               refId="Package\Fact 6.Paths[Lookup Match Output1]"
               endId="Package\Fact 6\CasualtyType.Inputs[Lookup Input]"
               name="Lookup Match Output"
-              startId="Package\Fact 6\Date.Outputs[Lookup Match Output]" />
+              startId="Package\Fact 6\Servety.Outputs[Lookup Match Output]" />
             <path
               refId="Package\Fact 6.Paths[Lookup Match Output2]"
-              endId="Package\Fact 6\Age Group.Inputs[Lookup Input]"
+              endId="Package\Fact 6\Aggregate.Inputs[Aggregate Input 1]"
               name="Lookup Match Output"
               startId="Package\Fact 6\CasualtyType.Outputs[Lookup Match Output]" />
             <path
-              refId="Package\Fact 6.Paths[OLE DB Source Output]"
+              refId="Package\Fact 6.Paths[Merge Join Output]"
+              endId="Package\Fact 6\Conditional Split.Inputs[Conditional Split Input]"
+              name="Merge Join Output"
+              startId="Package\Fact 6\Merge Join.Outputs[Merge Join Output]" />
+            <path
+              refId="Package\Fact 6.Paths[NamTrongNhomTuoi]"
               endId="Package\Fact 6\Date.Inputs[Lookup Input]"
+              name="NamTrongNhomTuoi"
+              startId="Package\Fact 6\Conditional Split.Outputs[NamTrongNhomTuoi]" />
+            <path
+              refId="Package\Fact 6.Paths[OLE DB Source Output]"
+              endId="Package\Fact 6\Them cột 1.Inputs[Derived Column Input]"
               name="OLE DB Source Output"
-              startId="Package\Fact 6\NDS.Outputs[OLE DB Source Output]" />
+              startId="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * ).Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\Fact 6.Paths[OLE DB Source Output1]"
+              endId="Package\Fact 6\Them cột 1 1.Inputs[Derived Column Input]"
+              name="OLE DB Source Output"
+              startId="Package\Fact 6\Nhom tuoi 2.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\Fact 6.Paths[Sort Output]"
+              endId="Package\Fact 6\Merge Join.Inputs[Merge Join Left Input]"
+              name="Sort Output"
+              startId="Package\Fact 6\Sort.Outputs[Sort Output]" />
+            <path
+              refId="Package\Fact 6.Paths[Sort Output1]"
+              endId="Package\Fact 6\Merge Join.Inputs[Merge Join Right Input]"
+              name="Sort Output"
+              startId="Package\Fact 6\Sort 1.Outputs[Sort Output]" />
           </paths>
         </pipeline>
       </DTS:ObjectData>
@@ -45669,6 +46799,15 @@ order by AccidentIndex</property>
           Language="CSharp"
           ReadWriteVariables="User::CET1">
           <ProjectItem
+            Name="Properties\Settings.settings"
+            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
+<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings />
+</SettingsFile>]]></ProjectItem>
+          <ProjectItem
             Name="Properties\Resources.resx"
             Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
 <root>
@@ -45788,35 +46927,6 @@ order by AccidentIndex</property>
   </resheader>
 </root>]]></ProjectItem>
           <ProjectItem
-            Name="Properties\Settings.Designer.cs"
-            Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
-// <auto-generated>
-//     This code was generated by a tool.
-//
-//     Changes to this file may cause incorrect behavior and will be lost if
-//     the code is regenerated.
-// </auto-generated>
-//------------------------------------------------------------------------------
-
-[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_f238b106ba56486387ce4397da9b4512.Properties.Settings.get_Default():ST_f238b106ba56486387ce4397da9b4512.Properties.Sett" +
-    "ings")]
-
-namespace ST_f238b106ba56486387ce4397da9b4512.Properties {
-    
-    
-    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
-        
-        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-        private static Settings defaultInstance = new Settings();
-        
-        public static Settings Default {
-            get {
-                return defaultInstance;
-            }
-        }
-    }
-}]]></ProjectItem>
-          <ProjectItem
             Name="ScriptMain.cs"
             Encoding="UTF8"><![CDATA[#region Help:  Introduction to the script task
 /* The Script Task allows you to perform virtually any operation that can be accomplished in
@@ -45933,6 +47043,153 @@ namespace ST_f238b106ba56486387ce4397da9b4512
 	}
 }]]></ProjectItem>
           <ProjectItem
+            Name="Properties\Resources.Designer.cs"
+            Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
+// <auto-generated>
+//     This code was generated by a tool.
+//
+//     Changes to this file may cause incorrect behavior and will be lost if
+//     the code is regenerated.
+// </auto-generated>
+//------------------------------------------------------------------------------
+
+[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_f238b106ba56486387ce4397da9b4512.Properties.Resources.get_ResourceManager():System.Resources.Resou" +
+    "rceManager")]
+[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_f238b106ba56486387ce4397da9b4512.Properties.Resources.get_Culture():System.Globalization.CultureIn" +
+    "fo")]
+[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_f238b106ba56486387ce4397da9b4512.Properties.Resources.set_Culture(System.Globalization.CultureInfo" +
+    "):Void")]
+
+namespace ST_f238b106ba56486387ce4397da9b4512.Properties {
+    
+    
+    /// <summary>
+    ///   A strongly-typed resource class, for looking up localized strings, etc.
+    /// </summary>
+    // This class was auto-generated by the StronglyTypedResourceBuilder
+    // class via a tool like ResGen or Visual Studio.
+    // To add or remove a member, edit your .ResX file then rerun ResGen
+    // with the /str option, or rebuild your VS project.
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+    internal class Resources {
+        
+        private static global::System.Resources.ResourceManager resourceMan;
+        
+        private static global::System.Globalization.CultureInfo resourceCulture;
+        
+        [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
+        internal Resources() {
+        }
+        
+        /// <summary>
+        ///   Returns the cached ResourceManager instance used by this class.
+        /// </summary>
+        [global::System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+        internal static global::System.Resources.ResourceManager ResourceManager {
+            get {
+                if ((resourceMan == null)) {
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ST_f238b106ba56486387ce4397da9b4512.Properties.Resources", typeof(Resources).Assembly);
+                    resourceMan = temp;
+                }
+                return resourceMan;
+            }
+        }
+        
+        /// <summary>
+        ///   Overrides the current thread's CurrentUICulture property for all
+        ///   resource lookups using this strongly typed resource class.
+        /// </summary>
+        [global::System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+        internal static global::System.Globalization.CultureInfo Culture {
+            get {
+                return resourceCulture;
+            }
+            set {
+                resourceCulture = value;
+            }
+        }
+    }
+}]]></ProjectItem>
+          <ProjectItem
+            Name="Project"
+            Encoding="UTF16LE"><![CDATA[<?xml version="1.0" encoding="UTF-16" standalone="yes"?>
+<c:Project xmlns:c="http://schemas.microsoft.com/codeprojectml/2010/08/main" xmlns:msb="http://schemas.microsoft.com/developer/msbuild/2003" runtimeVersion="3.0" schemaVersion="1.0">
+	<msb:PropertyGroup>
+		<msb:CodeName>ST_f238b106ba56486387ce4397da9b4512</msb:CodeName>
+		<msb:Language>msBuild</msb:Language>
+		<msb:DisplayName>ST_f238b106ba56486387ce4397da9b4512</msb:DisplayName>
+		<msb:ProjectId>{87E91B7D-4218-4158-9480-36EB345E2592}</msb:ProjectId>
+	</msb:PropertyGroup>
+	<msb:ItemGroup>
+		<msb:Project Include="ST_f238b106ba56486387ce4397da9b4512.csproj"/>
+		<msb:File Include="Properties\AssemblyInfo.cs"/>
+		<msb:File Include="Properties\Settings.settings"/>
+		<msb:File Include="Properties\Resources.resx"/>
+		<msb:File Include="Properties\Resources.Designer.cs"/>
+		<msb:File Include="Properties\Settings.Designer.cs"/>
+		<msb:File Include="ScriptMain.cs"/>
+	</msb:ItemGroup>
+</c:Project>]]></ProjectItem>
+          <ProjectItem
+            Name="Properties\Settings.Designer.cs"
+            Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
+// <auto-generated>
+//     This code was generated by a tool.
+//
+//     Changes to this file may cause incorrect behavior and will be lost if
+//     the code is regenerated.
+// </auto-generated>
+//------------------------------------------------------------------------------
+
+[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_f238b106ba56486387ce4397da9b4512.Properties.Settings.get_Default():ST_f238b106ba56486387ce4397da9b4512.Properties.Sett" +
+    "ings")]
+
+namespace ST_f238b106ba56486387ce4397da9b4512.Properties {
+    
+    
+    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
+        
+        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
+        private static Settings defaultInstance = new Settings();
+        
+        public static Settings Default {
+            get {
+                return defaultInstance;
+            }
+        }
+    }
+}]]></ProjectItem>
+          <ProjectItem
+            Name="Properties\AssemblyInfo.cs"
+            Encoding="UTF8"><![CDATA[using System.Reflection;
+using System.Runtime.CompilerServices;
+
+//
+// General Information about an assembly is controlled through the following 
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+//
+[assembly: AssemblyTitle("ST_f238b106ba56486387ce4397da9b4512")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("ST_f238b106ba56486387ce4397da9b4512")]
+[assembly: AssemblyCopyright("Copyright @  2017")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+//
+// Version information for an assembly consists of the following four values:
+//
+//      Major Version
+//      Minor Version 
+//      Build Number
+//      Revision
+//
+// You can specify all the values or you can default the Revision and Build Numbers 
+// by using the '*' as shown below:
+
+[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
+          <ProjectItem
             Name="ST_f238b106ba56486387ce4397da9b4512.csproj"
             Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
@@ -46031,133 +47288,6 @@ namespace ST_f238b106ba56486387ce4397da9b4512
     </VisualStudio>
   </ProjectExtensions>
 </Project>]]></ProjectItem>
-          <ProjectItem
-            Name="Project"
-            Encoding="UTF16LE"><![CDATA[<?xml version="1.0" encoding="UTF-16" standalone="yes"?>
-<c:Project xmlns:c="http://schemas.microsoft.com/codeprojectml/2010/08/main" xmlns:msb="http://schemas.microsoft.com/developer/msbuild/2003" runtimeVersion="3.0" schemaVersion="1.0">
-	<msb:PropertyGroup>
-		<msb:CodeName>ST_f238b106ba56486387ce4397da9b4512</msb:CodeName>
-		<msb:Language>msBuild</msb:Language>
-		<msb:DisplayName>ST_f238b106ba56486387ce4397da9b4512</msb:DisplayName>
-		<msb:ProjectId>{87E91B7D-4218-4158-9480-36EB345E2592}</msb:ProjectId>
-	</msb:PropertyGroup>
-	<msb:ItemGroup>
-		<msb:Project Include="ST_f238b106ba56486387ce4397da9b4512.csproj"/>
-		<msb:File Include="Properties\AssemblyInfo.cs"/>
-		<msb:File Include="Properties\Settings.settings"/>
-		<msb:File Include="Properties\Resources.resx"/>
-		<msb:File Include="Properties\Resources.Designer.cs"/>
-		<msb:File Include="Properties\Settings.Designer.cs"/>
-		<msb:File Include="ScriptMain.cs"/>
-	</msb:ItemGroup>
-</c:Project>]]></ProjectItem>
-          <ProjectItem
-            Name="Properties\AssemblyInfo.cs"
-            Encoding="UTF8"><![CDATA[using System.Reflection;
-using System.Runtime.CompilerServices;
-
-//
-// General Information about an assembly is controlled through the following 
-// set of attributes. Change these attribute values to modify the information
-// associated with an assembly.
-//
-[assembly: AssemblyTitle("ST_f238b106ba56486387ce4397da9b4512")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ST_f238b106ba56486387ce4397da9b4512")]
-[assembly: AssemblyCopyright("Copyright @  2017")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
-//
-// Version information for an assembly consists of the following four values:
-//
-//      Major Version
-//      Minor Version 
-//      Build Number
-//      Revision
-//
-// You can specify all the values or you can default the Revision and Build Numbers 
-// by using the '*' as shown below:
-
-[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
-          <ProjectItem
-            Name="Properties\Settings.settings"
-            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
-<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
-</SettingsFile>]]></ProjectItem>
-          <ProjectItem
-            Name="Properties\Resources.Designer.cs"
-            Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
-// <auto-generated>
-//     This code was generated by a tool.
-//
-//     Changes to this file may cause incorrect behavior and will be lost if
-//     the code is regenerated.
-// </auto-generated>
-//------------------------------------------------------------------------------
-
-[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_f238b106ba56486387ce4397da9b4512.Properties.Resources.get_ResourceManager():System.Resources.Resou" +
-    "rceManager")]
-[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_f238b106ba56486387ce4397da9b4512.Properties.Resources.get_Culture():System.Globalization.CultureIn" +
-    "fo")]
-[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_f238b106ba56486387ce4397da9b4512.Properties.Resources.set_Culture(System.Globalization.CultureInfo" +
-    "):Void")]
-
-namespace ST_f238b106ba56486387ce4397da9b4512.Properties {
-    
-    
-    /// <summary>
-    ///   A strongly-typed resource class, for looking up localized strings, etc.
-    /// </summary>
-    // This class was auto-generated by the StronglyTypedResourceBuilder
-    // class via a tool like ResGen or Visual Studio.
-    // To add or remove a member, edit your .ResX file then rerun ResGen
-    // with the /str option, or rebuild your VS project.
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-    internal class Resources {
-        
-        private static global::System.Resources.ResourceManager resourceMan;
-        
-        private static global::System.Globalization.CultureInfo resourceCulture;
-        
-        [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
-        internal Resources() {
-        }
-        
-        /// <summary>
-        ///   Returns the cached ResourceManager instance used by this class.
-        /// </summary>
-        [global::System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Resources.ResourceManager ResourceManager {
-            get {
-                if ((resourceMan == null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ST_f238b106ba56486387ce4397da9b4512.Properties.Resources", typeof(Resources).Assembly);
-                    resourceMan = temp;
-                }
-                return resourceMan;
-            }
-        }
-        
-        /// <summary>
-        ///   Overrides the current thread's CurrentUICulture property for all
-        ///   resource lookups using this strongly typed resource class.
-        /// </summary>
-        [global::System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Globalization.CultureInfo Culture {
-            get {
-                return resourceCulture;
-            }
-            set {
-                resourceCulture = value;
-            }
-        }
-    }
-}]]></ProjectItem>
           <BinaryItem
             Name="ST_f238b106ba56486387ce4397da9b4512.dll">TVqQAAMAAAAEAAAA//8AALgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAgAAAAA4fug4AtAnNIbgBTM0hVGhpcyBwcm9ncmFtIGNhbm5vdCBiZSBydW4gaW4gRE9TIG1v
@@ -46288,6 +47418,15 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
           Language="CSharp"
           ReadWriteVariables="User::CET2">
           <ProjectItem
+            Name="Properties\Settings.settings"
+            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
+<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings />
+</SettingsFile>]]></ProjectItem>
+          <ProjectItem
             Name="Properties\Resources.resx"
             Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
 <root>
@@ -46406,35 +47545,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
 </root>]]></ProjectItem>
-          <ProjectItem
-            Name="Properties\Settings.Designer.cs"
-            Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
-// <auto-generated>
-//     This code was generated by a tool.
-//
-//     Changes to this file may cause incorrect behavior and will be lost if
-//     the code is regenerated.
-// </auto-generated>
-//------------------------------------------------------------------------------
-
-[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_3206fcf37c89478297bf370ef19c7033.Properties.Settings.get_Default():ST_3206fcf37c89478297bf370ef19c7033.Properties.Sett" +
-    "ings")]
-
-namespace ST_3206fcf37c89478297bf370ef19c7033.Properties {
-    
-    
-    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
-        
-        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-        private static Settings defaultInstance = new Settings();
-        
-        public static Settings Default {
-            get {
-                return defaultInstance;
-            }
-        }
-    }
-}]]></ProjectItem>
           <ProjectItem
             Name="ScriptMain.cs"
             Encoding="UTF8"><![CDATA[#region Help:  Introduction to the script task
@@ -46656,6 +47766,35 @@ namespace ST_3206fcf37c89478297bf370ef19c7033
 	</msb:ItemGroup>
 </c:Project>]]></ProjectItem>
           <ProjectItem
+            Name="Properties\Settings.Designer.cs"
+            Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
+// <auto-generated>
+//     This code was generated by a tool.
+//
+//     Changes to this file may cause incorrect behavior and will be lost if
+//     the code is regenerated.
+// </auto-generated>
+//------------------------------------------------------------------------------
+
+[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_3206fcf37c89478297bf370ef19c7033.Properties.Settings.get_Default():ST_3206fcf37c89478297bf370ef19c7033.Properties.Sett" +
+    "ings")]
+
+namespace ST_3206fcf37c89478297bf370ef19c7033.Properties {
+    
+    
+    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
+        
+        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
+        private static Settings defaultInstance = new Settings();
+        
+        public static Settings Default {
+            get {
+                return defaultInstance;
+            }
+        }
+    }
+}]]></ProjectItem>
+          <ProjectItem
             Name="Properties\AssemblyInfo.cs"
             Encoding="UTF8"><![CDATA[using System.Reflection;
 using System.Runtime.CompilerServices;
@@ -46685,15 +47824,6 @@ using System.Runtime.CompilerServices;
 // by using the '*' as shown below:
 
 [assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
-          <ProjectItem
-            Name="Properties\Settings.settings"
-            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
-<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
-</SettingsFile>]]></ProjectItem>
           <ProjectItem
             Name="Properties\Resources.Designer.cs"
             Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
@@ -46891,6 +48021,15 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
           VSTAMinorVersion="0"
           Language="CSharp"
           ReadWriteVariables="User::CET3">
+          <ProjectItem
+            Name="Properties\Settings.settings"
+            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
+<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings />
+</SettingsFile>]]></ProjectItem>
           <ProjectItem
             Name="Properties\Resources.resx"
             Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
@@ -47096,35 +48235,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
   </ProjectExtensions>
 </Project>]]></ProjectItem>
           <ProjectItem
-            Name="Properties\Settings.Designer.cs"
-            Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
-// <auto-generated>
-//     This code was generated by a tool.
-//
-//     Changes to this file may cause incorrect behavior and will be lost if
-//     the code is regenerated.
-// </auto-generated>
-//------------------------------------------------------------------------------
-
-[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_9b8bef6606ea4d4eab55f8971f0a4046.Properties.Settings.get_Default():ST_9b8bef6606ea4d4eab55f8971f0a4046.Properties.Sett" +
-    "ings")]
-
-namespace ST_9b8bef6606ea4d4eab55f8971f0a4046.Properties {
-    
-    
-    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
-        
-        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-        private static Settings defaultInstance = new Settings();
-        
-        public static Settings Default {
-            get {
-                return defaultInstance;
-            }
-        }
-    }
-}]]></ProjectItem>
-          <ProjectItem
             Name="ScriptMain.cs"
             Encoding="UTF8"><![CDATA[#region Help:  Introduction to the script task
 /* The Script Task allows you to perform virtually any operation that can be accomplished in
@@ -47260,6 +48370,35 @@ namespace ST_9b8bef6606ea4d4eab55f8971f0a4046
 	</msb:ItemGroup>
 </c:Project>]]></ProjectItem>
           <ProjectItem
+            Name="Properties\Settings.Designer.cs"
+            Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
+// <auto-generated>
+//     This code was generated by a tool.
+//
+//     Changes to this file may cause incorrect behavior and will be lost if
+//     the code is regenerated.
+// </auto-generated>
+//------------------------------------------------------------------------------
+
+[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_9b8bef6606ea4d4eab55f8971f0a4046.Properties.Settings.get_Default():ST_9b8bef6606ea4d4eab55f8971f0a4046.Properties.Sett" +
+    "ings")]
+
+namespace ST_9b8bef6606ea4d4eab55f8971f0a4046.Properties {
+    
+    
+    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
+        
+        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
+        private static Settings defaultInstance = new Settings();
+        
+        public static Settings Default {
+            get {
+                return defaultInstance;
+            }
+        }
+    }
+}]]></ProjectItem>
+          <ProjectItem
             Name="Properties\AssemblyInfo.cs"
             Encoding="UTF8"><![CDATA[using System.Reflection;
 using System.Runtime.CompilerServices;
@@ -47289,15 +48428,6 @@ using System.Runtime.CompilerServices;
 // by using the '*' as shown below:
 
 [assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
-          <ProjectItem
-            Name="Properties\Settings.settings"
-            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
-<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
-</SettingsFile>]]></ProjectItem>
           <ProjectItem
             Name="Properties\Resources.Designer.cs"
             Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
@@ -49943,7 +51073,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output]"
+          Id="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output2]"
           TopLeft="799.5,353.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -49967,7 +51097,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output1]"
+          Id="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output3]"
           TopLeft="1140.5,353.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -49991,7 +51121,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output3]"
+          Id="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output]"
           TopLeft="141.5,353.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -50015,7 +51145,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output2]"
+          Id="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output1]"
           TopLeft="467.5,353.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -53941,21 +55071,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
       <GraphLayout
         Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
-          Size="114,42"
-          Id="Package\Fact 5\Severty"
-          TopLeft="306,249" />
-        <NodeLayout
-          Size="127,42"
-          Id="Package\Fact 5\RoadClass"
-          TopLeft="321,325" />
-        <NodeLayout
           Size="167,42"
-          Id="Package\Fact 5\Road Classification"
-          TopLeft="303,421" />
-        <NodeLayout
-          Size="101,42"
-          Id="Package\Fact 5\Date"
-          TopLeft="331,138" />
+          Id="Package\Fact 5\Convert SpeedMax"
+          TopLeft="104,116" />
         <NodeLayout
           Size="99,42"
           Id="Package\Fact 5\NDS"
@@ -53964,39 +55082,169 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
           Size="171,42"
           Id="Package\Fact 5\OLE DB Destination"
           TopLeft="314,646" />
+        <NodeLayout
+          Size="135,42"
+          Id="Package\Fact 5\VehicleType"
+          TopLeft="536,380" />
+        <NodeLayout
+          Size="167,42"
+          Id="Package\Fact 5\Road Classification"
+          TopLeft="303,421" />
+        <NodeLayout
+          Size="114,42"
+          Id="Package\Fact 5\Severty"
+          TopLeft="306,249" />
+        <NodeLayout
+          Size="101,42"
+          Id="Package\Fact 5\Date"
+          TopLeft="331,138" />
+        <NodeLayout
+          Size="127,42"
+          Id="Package\Fact 5\Aggregate"
+          TopLeft="345,537" />
+        <NodeLayout
+          Size="127,42"
+          Id="Package\Fact 5\RoadClass"
+          TopLeft="321,325" />
         <EdgeLayout
-          Id="Package\Fact 5.Paths[Lookup Match Output]"
-          TopLeft="381.5,180">
+          Id="Package\Fact 5.Paths[OLE DB Source Output]"
+          TopLeft="315,79">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-18.5,69"
+              EndConnector="-44,58"
               Start="0,0"
-              End="-18.5,61.5">
+              End="-36.5,58">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,30.5" />
+                    End="-18,0" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,30.5"
-                    Point2="0,34.5"
-                    Point3="-4,34.5" />
+                    Point1="-18,0"
+                    Point2="-22,0"
+                    Point3="-22,4" />
                   <mssgle:LineSegment
-                    End="-14.5,34.5" />
+                    End="-22,54" />
                   <mssgle:CubicBezierSegment
-                    Point1="-14.5,34.5"
-                    Point2="-18.5,34.5"
-                    Point3="-18.5,38.5" />
+                    Point1="-22,54"
+                    Point2="-22,58"
+                    Point3="-26,58" />
                   <mssgle:LineSegment
-                    End="-18.5,61.5" />
+                    End="-36.5,58" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Fact 5.Paths[Lookup Match Output4]"
+          TopLeft="386.5,463">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="22,74"
+              Start="0,0"
+              End="22,66.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,33" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,33"
+                    Point2="0,37"
+                    Point3="4,37" />
+                  <mssgle:LineSegment
+                    End="18,37" />
+                  <mssgle:CubicBezierSegment
+                    Point1="18,37"
+                    Point2="22,37"
+                    Point3="22,41" />
+                  <mssgle:LineSegment
+                    End="22,66.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-57.44138671875,39.5,96.3827734375,11.609375"
+              BoundingBox="-37.19138671875,42,96.3827734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Fact 5.Paths[Lookup Match Output3]"
+          TopLeft="536,406.666666666667">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-66,35.3333333333333"
+              Start="0,0"
+              End="-58.5,35.3333333333333">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="-23.8532110091743,0" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-23.8532110091743,0"
+                    Point2="-27.8532110091743,0"
+                    Point3="-27.8532110091743,4" />
+                  <mssgle:LineSegment
+                    End="-27.8532110091743,31.3333333333333" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-27.8532110091743,31.3333333333333"
+                    Point2="-27.8532110091743,35.3333333333333"
+                    Point3="-31.8532110091743,35.3333333333333" />
+                  <mssgle:LineSegment
+                    End="-58.5,35.3333333333333" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-84.9132500716743,-22,96.3827734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Fact 5.Paths[Lookup Match Output2]"
+          TopLeft="448,346">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="88,55"
+              Start="0,0"
+              End="80.5,55">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="40,0" />
+                  <mssgle:CubicBezierSegment
+                    Point1="40,0"
+                    Point2="44,0"
+                    Point3="44,4" />
+                  <mssgle:LineSegment
+                    End="44,51" />
+                  <mssgle:CubicBezierSegment
+                    Point1="44,51"
+                    Point2="44,55"
+                    Point3="48,55" />
+                  <mssgle:LineSegment
+                    End="80.5,55" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-4.19138671875,-17.609375,96.3827734375,11.609375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
@@ -54036,118 +55284,40 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="135,42"
-          Id="Package\Fact 5\VehicleType"
-          TopLeft="536,380" />
         <EdgeLayout
-          Id="Package\Fact 5.Paths[Lookup Match Output2]"
-          TopLeft="448,346">
+          Id="Package\Fact 5.Paths[Lookup Match Output]"
+          TopLeft="381.5,180">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="88,55"
+              EndConnector="-18.5,69"
               Start="0,0"
-              End="80.5,55">
+              End="-18.5,61.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="40,0" />
+                    End="0,30.5" />
                   <mssgle:CubicBezierSegment
-                    Point1="40,0"
-                    Point2="44,0"
-                    Point3="44,4" />
+                    Point1="0,30.5"
+                    Point2="0,34.5"
+                    Point3="-4,34.5" />
                   <mssgle:LineSegment
-                    End="44,51" />
+                    End="-14.5,34.5" />
                   <mssgle:CubicBezierSegment
-                    Point1="44,51"
-                    Point2="44,55"
-                    Point3="48,55" />
+                    Point1="-14.5,34.5"
+                    Point2="-18.5,34.5"
+                    Point3="-18.5,38.5" />
                   <mssgle:LineSegment
-                    End="80.5,55" />
+                    End="-18.5,61.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-4.19138671875,-17.609375,96.3827734375,11.609375"
+              BoundingBox="-57.44138671875,39.5,96.3827734375,11.609375"
               RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Fact 5.Paths[Lookup Match Output3]"
-          TopLeft="536,406.666666666667">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-66,35.3333333333333"
-              Start="0,0"
-              End="-58.5,35.3333333333333">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="-23.8532110091743,0" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-23.8532110091743,0"
-                    Point2="-27.8532110091743,0"
-                    Point3="-27.8532110091743,4" />
-                  <mssgle:LineSegment
-                    End="-27.8532110091743,31.3333333333333" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-27.8532110091743,31.3333333333333"
-                    Point2="-27.8532110091743,35.3333333333333"
-                    Point3="-31.8532110091743,35.3333333333333" />
-                  <mssgle:LineSegment
-                    End="-58.5,35.3333333333333" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-84.9132500716743,-22,114.120078125,16"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="167,42"
-          Id="Package\Fact 5\Convert SpeedMax"
-          TopLeft="104,116" />
-        <EdgeLayout
-          Id="Package\Fact 5.Paths[OLE DB Source Output]"
-          TopLeft="315,79">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-44,58"
-              Start="0,0"
-              End="-36.5,58">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="-18,0" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-18,0"
-                    Point2="-22,0"
-                    Point3="-22,4" />
-                  <mssgle:LineSegment
-                    End="-22,54" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-22,54"
-                    Point2="-22,58"
-                    Point3="-26,58" />
-                  <mssgle:LineSegment
-                    End="-36.5,58" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -54184,46 +55354,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="127,42"
-          Id="Package\Fact 5\Aggregate"
-          TopLeft="345,537" />
-        <EdgeLayout
-          Id="Package\Fact 5.Paths[Lookup Match Output4]"
-          TopLeft="386.5,463">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="22,74"
-              Start="0,0"
-              End="22,66.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,33" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,33"
-                    Point2="0,37"
-                    Point3="4,37" />
-                  <mssgle:LineSegment
-                    End="18,37" />
-                  <mssgle:CubicBezierSegment
-                    Point1="18,37"
-                    Point2="22,37"
-                    Point3="22,41" />
-                  <mssgle:LineSegment
-                    End="22,66.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-37.19138671875,42,96.3827734375,11.609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
         <EdgeLayout
           Id="Package\Fact 5.Paths[Aggregate Output 1]"
           TopLeft="408.5,579">
@@ -54255,9 +55385,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-12.5,38.5,16,16"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -56274,174 +57402,461 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
     design-time-name="Package\Fact 6">
     <LayoutInfo>
       <GraphLayout
-        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
-          Size="142,42"
-          Id="Package\Fact 6\CasualtyType"
-          TopLeft="257,242" />
+          Size="358,42"
+          Id="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * )"
+          TopLeft="78,46" />
         <NodeLayout
-          Size="171,42"
-          Id="Package\Fact 6\OLE DB Destination"
-          TopLeft="256,590" />
+          Size="133,42"
+          Id="Package\Fact 6\Them cột 1"
+          TopLeft="132,128" />
+        <EdgeLayout
+          Id="Package\Fact 6.Paths[OLE DB Source Output]"
+          TopLeft="257,88">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-58.5,40"
+              Start="0,0"
+              End="-58.5,32.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,16" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,16"
+                    Point2="0,20"
+                    Point3="-4,20" />
+                  <mssgle:LineSegment
+                    End="-54.5,20" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-54.5,20"
+                    Point2="-58.5,20"
+                    Point3="-58.5,24" />
+                  <mssgle:LineSegment
+                    End="-58.5,32.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
         <NodeLayout
-          Size="127,42"
-          Id="Package\Fact 6\Aggregate"
-          TopLeft="261,504" />
+          Size="98,42"
+          Id="Package\Fact 6\Sort"
+          TopLeft="144,225" />
+        <EdgeLayout
+          Id="Package\Fact 6.Paths[Derived Column Output]"
+          TopLeft="195.75,170">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,55"
+              Start="0,0"
+              End="0,47.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,47.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="137,42"
+          Id="Package\Fact 6\Nhom tuoi 2"
+          TopLeft="491,39" />
+        <NodeLayout
+          Size="133,42"
+          Id="Package\Fact 6\Them cột 1 1"
+          TopLeft="475,135" />
+        <EdgeLayout
+          Id="Package\Fact 6.Paths[OLE DB Source Output1]"
+          TopLeft="559.5,81">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-18,54"
+              Start="0,0"
+              End="-18,46.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,23" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,23"
+                    Point2="0,27"
+                    Point3="-4,27" />
+                  <mssgle:LineSegment
+                    End="-14,27" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-14,27"
+                    Point2="-18,27"
+                    Point3="-18,31" />
+                  <mssgle:LineSegment
+                    End="-18,46.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="107,42"
+          Id="Package\Fact 6\Sort 1"
+          TopLeft="495,232" />
+        <EdgeLayout
+          Id="Package\Fact 6.Paths[Derived Column Output1]"
+          TopLeft="545,177">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,55"
+              Start="0,0"
+              End="0,47.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,47.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="130,42"
+          Id="Package\Fact 6\Merge Join"
+          TopLeft="273,338" />
+        <EdgeLayout
+          Id="Package\Fact 6.Paths[Sort Output]"
+          TopLeft="193,267">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="145,71"
+              Start="0,0"
+              End="145,63.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,31.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,31.5"
+                    Point2="0,35.5"
+                    Point3="4,35.5" />
+                  <mssgle:LineSegment
+                    End="141,35.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="141,35.5"
+                    Point2="145,35.5"
+                    Point3="145,39.5" />
+                  <mssgle:LineSegment
+                    End="145,63.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Fact 6.Paths[Sort Output1]"
+          TopLeft="548.5,274">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-190.166666666667,64"
+              Start="0,0"
+              End="-190.166666666667,56.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,33.9331306990881" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,33.9331306990881"
+                    Point2="0,37.9331306990881"
+                    Point3="-4,37.9331306990881" />
+                  <mssgle:LineSegment
+                    End="-186.166666666667,37.9331306990881" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-186.166666666667,37.9331306990881"
+                    Point2="-190.166666666667,37.9331306990881"
+                    Point3="-190.166666666667,41.9331306990881" />
+                  <mssgle:LineSegment
+                    End="-190.166666666667,56.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="155,42"
+          Id="Package\Fact 6\Conditional Split"
+          TopLeft="257,430" />
+        <EdgeLayout
+          Id="Package\Fact 6.Paths[Merge Join Output]"
+          TopLeft="336.25,380">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,50"
+              Start="0,0"
+              End="0,42.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,42.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
         <NodeLayout
           Size="101,42"
           Id="Package\Fact 6\Date"
-          TopLeft="273,137" />
+          TopLeft="283.5,502.5" />
+        <EdgeLayout
+          Id="Package\Fact 6.Paths[NamTrongNhomTuoi]"
+          TopLeft="334.25,472">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,30.5"
+              Start="0,0"
+              End="0,23">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,23" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-46.0788671875,5.66845703125,92.157734375,11.6630859375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
         <NodeLayout
-          Size="99,42"
-          Id="Package\Fact 6\NDS"
-          TopLeft="257,57" />
-        <NodeLayout
-          Size="129,42"
-          Id="Package\Fact 6\Age Group"
-          TopLeft="267,363" />
+          Size="114,42"
+          Id="Package\Fact 6\Servety"
+          TopLeft="281,582" />
         <EdgeLayout
           Id="Package\Fact 6.Paths[Lookup Match Output]"
-          TopLeft="328,405">
+          TopLeft="336,544.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,99"
+              EndConnector="0,37.5"
               Start="0,0"
-              End="0,91.5">
+              End="0,30">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,91.5" />
+                    End="0,30" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-48.19138671875,39.9453125,96.3827734375,11.609375"
+              BoundingBox="-48.19138671875,9.1953125,96.3827734375,11.609375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <NodeLayout
+          Size="142,42"
+          Id="Package\Fact 6\CasualtyType"
+          TopLeft="274,664" />
         <EdgeLayout
           Id="Package\Fact 6.Paths[Lookup Match Output1]"
-          TopLeft="325.75,179">
+          TopLeft="341.5,624">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,63"
+              EndConnector="0,40"
               Start="0,0"
-              End="0,55.5">
+              End="0,32.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,55.5" />
+                    End="0,32.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-48.19138671875,21.9453125,96.3827734375,11.609375"
+              BoundingBox="-48.19138671875,10.4453125,96.3827734375,11.609375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Fact 6.Paths[Aggregate Output 1]"
-          TopLeft="324.5,546">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="17,44"
-              Start="0,0"
-              End="17,36.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,18" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,18"
-                    Point2="0,22"
-                    Point3="4,22" />
-                  <mssgle:LineSegment
-                    End="13,22" />
-                  <mssgle:CubicBezierSegment
-                    Point1="13,22"
-                    Point2="17,22"
-                    Point3="17,26" />
-                  <mssgle:LineSegment
-                    End="17,36.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Fact 6.Paths[OLE DB Source Output]"
-          TopLeft="306.5,99">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="17,38"
-              Start="0,0"
-              End="17,30.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,15" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,15"
-                    Point2="0,19"
-                    Point3="4,19" />
-                  <mssgle:LineSegment
-                    End="13,19" />
-                  <mssgle:CubicBezierSegment
-                    Point1="13,19"
-                    Point2="17,19"
-                    Point3="17,23" />
-                  <mssgle:LineSegment
-                    End="17,30.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
+        <NodeLayout
+          Size="127,42"
+          Id="Package\Fact 6\Aggregate"
+          TopLeft="275,756" />
         <EdgeLayout
           Id="Package\Fact 6.Paths[Lookup Match Output2]"
-          TopLeft="329.75,284">
+          TopLeft="341.75,706">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,79"
+              EndConnector="0,50"
               Start="0,0"
-              End="0,71.5">
+              End="0,42.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,71.5" />
+                    End="0,42.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-48.19138671875,29.9453125,96.3827734375,11.609375"
+              BoundingBox="-48.19138671875,15.4453125,96.3827734375,11.609375"
               RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="171,42"
+          Id="Package\Fact 6\OLE DB Destination"
+          TopLeft="181.5,855.5" />
+        <EdgeLayout
+          Id="Package\Fact 6.Paths[Aggregate Output 1]"
+          TopLeft="338.5,798">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-71.5,57.5"
+              Start="0,0"
+              End="-71.5,50">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,24.75" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,24.75"
+                    Point2="0,28.75"
+                    Point3="-4,28.75" />
+                  <mssgle:LineSegment
+                    End="-67.5,28.75" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-67.5,28.75"
+                    Point2="-71.5,28.75"
+                    Point3="-71.5,32.75" />
+                  <mssgle:LineSegment
+                    End="-71.5,50" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * )">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Fact 6\Nhom tuoi 2">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Fact 6\Date">
+    <Properties>
+      <Property>
+        <Name>OverwriteParamsSQLProp</Name>
+        <Value
+          type="q2:boolean">false</Value>
+      </Property>
+      <Property>
+        <Name>UsedTableName</Name>
+        <Value
+          type="q3:string">[dbo].[Date]</Value>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q4:int">0</Value>
+      </Property>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Fact 6\Servety">
+    <Properties>
+      <Property>
+        <Name>OverwriteParamsSQLProp</Name>
+        <Value
+          type="q2:boolean">false</Value>
+      </Property>
+      <Property>
+        <Name>UsedTableName</Name>
+        <Value
+          type="q3:string">[dbo].[Severty]</Value>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q4:int">0</Value>
+      </Property>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\Fact 6\CasualtyType">
     <Properties>
@@ -56475,37 +57890,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
         <Name>TableInfoObjectType</Name>
         <Value
           type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Fact 6\NDS">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Fact 6\Age Group">
-    <Properties>
-      <Property>
-        <Name>UsedTableName</Name>
-        <Value
-          type="q2:string">[dbo].[AgeGroup2]</Value>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q3:int">0</Value>
-      </Property>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>OverwriteParamsSQLProp</Name>
-        <Value
-          type="q4:boolean">true</Value>
       </Property>
     </Properties>
   </PipelineComponentMetadata>

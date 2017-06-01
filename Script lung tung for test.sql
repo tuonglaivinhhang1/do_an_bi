@@ -992,6 +992,7 @@ foreign key (VehicleTypeID) references VehicleType(VehicleTypeID)
 create table Fact6
 (
 	DateID int,
+	SevertyID int,
 	CasualtyTypeID int,
 	AgeGroupID int,
 	SoNguoiChet int
@@ -1057,3 +1058,12 @@ delete Casualtyclass
 delete JourneyPurpose
 delete Vehicles
 delete VehicleType
+
+select A.Date,S.Name as Severty,R.Name as RoadClass,VT.Name as VehicleType,A.SpeedMax,COUNT(*) as SoTNGT
+from Accidents A
+left join Casualties C on C.Ma_AccidentIndex = A.MaAccidents
+left join RoadClass R on R.MaRoadClass=A.RoadClass
+left join Severty as S on S.MaSeverty=C.SeverityDT
+left join Vehicles as V on V.Ma_AccidentIndex=A.MaAccidents
+left join VehicleType as VT on VT.MaVehicleType=V.VehicleTypeDT
+group by A.Date,S.Name ,R.Name ,VT.Name ,A.SpeedMax
