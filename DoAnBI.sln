@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30501.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "DoAnBI", "DoAnBI\DoAnBI.dtproj", "{F5A843EB-8B01-446C-979A-A4CC13D9C9F6}"
+EndProject
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "OLAP", "OLAP\OLAP.dwproj", "{2E11B65B-248B-437B-A690-33AD0C83B290}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,6 +14,9 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{F5A843EB-8B01-446C-979A-A4CC13D9C9F6}.Development|Default.ActiveCfg = Development
 		{F5A843EB-8B01-446C-979A-A4CC13D9C9F6}.Development|Default.Build.0 = Development
+		{2E11B65B-248B-437B-A690-33AD0C83B290}.Development|Default.ActiveCfg = Development
+		{2E11B65B-248B-437B-A690-33AD0C83B290}.Development|Default.Build.0 = Development
+		{2E11B65B-248B-437B-A690-33AD0C83B290}.Development|Default.Deploy.0 = Development
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

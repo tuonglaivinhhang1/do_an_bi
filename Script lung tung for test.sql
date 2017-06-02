@@ -995,7 +995,7 @@ create table Fact6
 	SevertyID int,
 	CasualtyTypeID int,
 	AgeGroupID int,
-	SoNguoiChet int
+	SoTNGT int
 )
 alter table Fact6
 add constraint FK25
@@ -1008,6 +1008,10 @@ foreign key (CasualtyTypeID) references CasualtyType(CasualtyTypeID)
 alter table Fact6
 add constraint FK27
 foreign key (AgeGroupID) references AgeGroup2(AgeGroupID)
+
+alter table Fact6
+add constraint FK28
+foreign key (SevertyID) references Severty(SevertyID)
 
 
 

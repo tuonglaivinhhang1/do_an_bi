@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="442"
-  DTS:VersionGUID="{5FD03591-6347-4492-8C5A-9F14DAD89A82}">
+  DTS:VersionBuild="443"
+  DTS:VersionGUID="{218C7D71-717A-440B-BD30-84B7C123CC54}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -27,7 +27,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADpvV/fe+WzSQMssvdk1PRR9TRtDpai/w/V+ytlDRtjoQAAAAAOgAAAAAIAACAAAAChRtEDIZ0PKCq8iDjHkL5I3fGp+j4XnHt+9+iDh3B0iyAAAAAz0cdjWmWS2B5UjRthUg/6R1x10mcE3DH9C5iuDLF9JEAAAAAJz12q6lZRzh3fBdcp0cwi9K2cLmkuZZB8lcWvcGg9NHFZwQEuq6nHLsNnVZP0dB42EDp0gK5O7WoOGHx126vE</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADzDdhf6V4LtnhauEOMxfm7aQNKoM2SWq4i+HGphODnrwAAAAAOgAAAAAIAACAAAADaZEsX2B7QRbftARvFz0Y9tRqG9W/3ClRi1FHSO4oEMiAAAAAXvmapKZ7Q/8Ta0xOHC2hz1KjV/8eKDbRWoCWZf6X+d0AAAACe+OdEuw5dDOmJSnQJD9Z0BO5XmdJaGPZG/CBfJLyVV5Ym8fsOHBDktRa3qdwnMlxMTjsYzvpPfEjSILYxXTaT</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -42,7 +42,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACUHhp2Dn7VIk5SnkzTLrj/kAvycjfElx4beFQ/mc9upQAAAAAOgAAAAAIAACAAAADt617SubsFdDiwN5MGtVFcF1eJopZrL66wPm79G5y/4CAAAADsTZdjbN2RVnu4jg3Q09MerPBZWkiopd67Iwi1ChyRVUAAAACrVQFbccHRTymS5hciWgwUgrS8mFcqAMQGA0RKdv/X8/yCB40grkaCaW1f2hox3aU5BEk213xMeCAnL32A9omn</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAkV762B67RMYoCGGMHTlyosI+e8D9UQMf3TgsgMAE3nQAAAAAOgAAAAAIAACAAAABs91RtjS+7E+OrPsl5968ZjvlGjoS3Fh3TPV9OSC2KdiAAAAD603Tz705WKl4AhfsKqQHdme57wuNSgkiqIpn16DyWFkAAAABWKK4IB0f+FGM60w20Q6wDvZ2ZgRms8I9rVqcpqxEG3XhOBmzaXIMqgWw5wyysCAK3wJISABK/gJU1NK4c2Aua</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -57,7 +57,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADAoco2GN0+0BnRLG5zZcgSRN/BrgTZihV4dDpGJ64cQQAAAAAOgAAAAAIAACAAAACjIIRTOc3aQbMSySHffvWPZolvam+Cc2KT9JvLy/4eWiAAAACHboL5ZtNhrrdEt5NVOzwvxKgFZAYNkFEe7Cy/fjLhkEAAAAA/WIz+mrB0S34vA9gMyQpDCLYgooEGhM3FgZL7I1jGnHBI0Fp9nqSW9BIJeQpslG2DcioS2eyX3W1+QotAmsw8</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABC1uTe71vDSHwRdJn4o6UB+hXOzsr3jwYjWSAgI6NwrgAAAAAOgAAAAAIAACAAAADEPSGUKKhgT2QecJMZvUeh81xUEtshgFKK47ipZxS92CAAAABwg659BBb6Md5A1He9kkDsG2j1Agwrzn0H7D5w5Qby30AAAABduoYgF4cDYxQ+w7ZKSKdsA5AJuvR5FqKaPKlr0NN9bj+yjIRD0Ells1cXy5UYoxcQlPlbohZMQS3p8D1DcmOE</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -72,7 +72,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABYNnEyfc8gtI+tva9OQF9PZ8EZS96SNROMMVTf18u34wAAAAAOgAAAAAIAACAAAACn/ZxQexSKSDBdJWfBIQNBGUfithEhvjzG6U1xjDR6oCAAAACE5RIer6oSnPeJ05a4M9Y6+mTgs8Gc3/iSMnuDKWKQhkAAAABUj8iLbhBlrws66O+paMDes/GmmZTJkhVp57A+dYAOI8dFwdWF4jnwOlL16j0/efLyedTCiG7uJterx1kR05Nz</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA5Apw5Ny/RepSqCg14eNve3YN6gKMzlRqKYEQNN4oUhQAAAAAOgAAAAAIAACAAAAB/gINROylZJi922TyWh4JLqOxSj0ezta9qpKySK4UFeSAAAAANgrfxsJIU+R2B6XP2M8jQIiAHCdbXAGD3LxaOvc0zv0AAAADRbAzBXlkz900W9vkFy4wCb4ybncs/XgSpWILKz2a9/iE7VbKox6ZsWoaOoIK4CnG5K6TXcT5Bw5AD92oqzocV</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -87,7 +87,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAdHIuuhJ82ODFMp7q3O+Xelnfr5j5ZWyfH5kYLvM9ijQAAAAAOgAAAAAIAACAAAACCUdbFhLIhP8EZkXQOvp55v7Y94b4fZgab/NbO62HWtCAAAADl61dJU9ToNFulg4ojPqtgvRou+t4gWuL64S2jUDUJlkAAAADq8YGsNsY2K8vTBu11lBPNzP514rM0qCCR3355EgdVsASo2gIpdwF7GUcMHXVXYxqLoXzi588eAVZdEqaTiiRz</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACPaMqGDM5By5GE9UB8FEFqysu5lsm4drtnvxSAGR8gmAAAAAAOgAAAAAIAACAAAABIQPUGwgJyhSmOdKskeSJol13rWyfRjJoPOI8Z221fziAAAAAmkkGcrjlra0m4zrfodV78olVooS3ha/i64dt7ElkzwkAAAAB40XoawBmEpcDGoNTuZqcsbQEEsNW+Pg/O6geA9ifzoy/NA1eFhhV0GRlqFUy5AFgnJ7O7AF3E+wWIIt5Ddbcx</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -102,7 +102,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB6h8dwqsGbRJuy8WC/a0EPWuLcotv6cSA+142n0S/1HAAAAAAOgAAAAAIAACAAAACKGzF4XjFOW18wM50L2kwBGuUkJHwuzarZrcdfX6jJjiAAAAC2WM2ekrDx/WRnUNi7zcet3BtaViBYaSenAxVpeaxNI0AAAADGUIhaOc+zLbdNEY5hM5e2Ph5DOLFQqyylBQ5MOrpCmRQQtZ90SkQMw1afqN9jumfMcLQax713UHj9HclWbJyA</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACplWg6fusnr2UF3HGiAbi80aD/Sv6ziLzJGW3qlQ4p3AAAAAAOgAAAAAIAACAAAACQ+klQq1I/+wPC/UBtY9RM5CPb9wc3fP892wiIQ+oqMyAAAAA1Oq/jqR0geILRKuPE2Y+K2qHN3B8lUqZZwZPtgw8QekAAAABXE7NeHHizav/FUERfG+c0Q57XGv/FBYogGAvxbfJ+PYl+tITnCEXzJFD9jY+MT5fz0+R9F+jY4EKFObrNJDpr</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -127,7 +127,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACQVmsOgJAY4FSV2xPfBmuat4QiSwcBU4Hk6ho1xSYN8gAAAAAOgAAAAAIAACAAAAApPyhmRjAkgSYv4mF5f1LR+FC6S/C3hR6G6lDHxsFmcyAAAAAdbAwitHUx+963z8KO8qO53NgvYdiHsFMaik+GV2KRS0AAAAAQyhsbjWbYndJxbak6AjvgOz4jDuQ91LQI/oPlBh2r4JgRopZBJInksA6HDWjlqfGh5yMYnI7S0a/AT949ppeg</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA8wzgVC92vDwcFCU9CMfMhvlfIxLt0ci4LmEukSW48BQAAAAAOgAAAAAIAACAAAACuexInVa5uPjPFqIjdCXs6j9mpZuyj2wX1IJGa7yv0hyAAAAAKBmr0DGUbZZidYchnxdyQ17RSFkPArNy/dfgi9cBetkAAAAC7iPTFSsVndT37Zgs7pfv3LVMGBRgWWrcN1ij5W1RW4Gy/a68O3nlJPsqhIFo+v8sSx59WUNmzv3D/DZYrO9EO</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -142,7 +142,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADcpZT0Cc6o8GZTLQu/SZLq1nJzizhnmEKt2SQGOGVmOAAAAAAOgAAAAAIAACAAAADXN2DzbA+3QsFxOEoYW3fl6gHuhJLdaesiQGvuBjqdwCAAAABV/a21EB10aXZBXzmw8oFIpbsZ+9kyNym0D0PFo/8cekAAAAB8WbSzCKOTqGFEAyd70gZDlqxRhnnW3ZgPh2LYhh2b7/mrJme44JI5TlH+ICsIiLEANoTfUdlE5S3OivT9Tcpq</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAYEHivVXP+d5LVgdQ8h3dIPihaVajY+26vVc5dBCiJlQAAAAAOgAAAAAIAACAAAACCTQM5zSXxp4Crj/LaVpoeRXP4iqh3ziX7BQYD8ZZ8WSAAAADCPpxsS0u+OLXazyogDhvulwueuDVlKT75YmcJmCpXj0AAAAAy8NJEil9gU4arS8THOmh3yi7LhGpa3lxolMkiC6NLmRdvb/i2XIQR860lawohC9dtqgzxUXtBlc2w/TzwtGmi</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -157,7 +157,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACo9II50//43yh7YNItsx8bRR1LR+0DHqamyUU6w9orwQAAAAAOgAAAAAIAACAAAAD6vZSTYjCN/3PZSe4LHhhmUc1FNDBy1Hzsf+2p6cyZlSAAAAA/Xp7nHIxeyZ5f7imy7BLlS03AjKRik4D+SsjlCEA/80AAAAA1Aw9w/3H5wGFzQJV/dNMOHHkcQOrSYAXPJ8IO4m0yoD7Ro1vnhP6KB0bWoukX9TZbz/OUOHNKwobgBmz/4gzn</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADK59drneFh0I8B8FBLt7vOBJ4x3rjcqNhNcO7SZAyS5AAAAAAOgAAAAAIAACAAAABttKzkWiJt3Ccv731iK/3gE22TCS98K1nrBYExaJMTdiAAAACruXpuJhW77JG8R2PbnEghXt9HSqiZvb8SQIIMrHT1DkAAAABvXaAWkYVRcyuwO+dSBUsyOL6HGRIFnjUyRWWEgJNNx8AJFqH+AR3cxSzNISsC1HLP9f+FDsGQy79fROCiVblG</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -7621,24 +7621,24 @@ where [refTable].[Name] = ? and [refTable].[DataSource] = ? and [refTable].[Stat
               startId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Derived Column.Outputs[Derived Column Output]" />
             <path
               refId="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output3]"
-              endId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Derived Column.Inputs[Derived Column Input]"
+              endId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Derived Column 2.Inputs[Derived Column Input]"
               name="Lookup Error Output"
-              startId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Nếu đã tồn tại Location này rồi thì bỏ qua.Outputs[Lookup Error Output]" />
+              startId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Nếu đã tồn tại Area này rồi thì bỏ qua.Outputs[Lookup Error Output]" />
             <path
               refId="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output2]"
-              endId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Derived Column 1.Inputs[Derived Column Input]"
-              name="Lookup Error Output"
-              startId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Nếu đã tồn tại RoadClass này rồi thì bỏ qua.Outputs[Lookup Error Output]" />
-            <path
-              refId="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output]"
               endId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Derived Column 3.Inputs[Derived Column Input]"
               name="Lookup Error Output"
               startId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Nếu đã tồn tại Severty này rồi thì bỏ qua.Outputs[Lookup Error Output]" />
             <path
-              refId="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output1]"
-              endId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Derived Column 2.Inputs[Derived Column Input]"
+              refId="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output]"
+              endId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Derived Column.Inputs[Derived Column Input]"
               name="Lookup Error Output"
-              startId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Nếu đã tồn tại Area này rồi thì bỏ qua.Outputs[Lookup Error Output]" />
+              startId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Nếu đã tồn tại Location này rồi thì bỏ qua.Outputs[Lookup Error Output]" />
+            <path
+              refId="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output1]"
+              endId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Derived Column 1.Inputs[Derived Column Input]"
+              name="Lookup Error Output"
+              startId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Nếu đã tồn tại RoadClass này rồi thì bỏ qua.Outputs[Lookup Error Output]" />
             <path
               refId="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Multicast Output 1]"
               endId="Package\Dua du lieu vo các table liên quan đến bảng Accidents\Location.Inputs[Aggregate Input 1]"
@@ -46799,14 +46799,35 @@ order by AccidentIndex</property>
           Language="CSharp"
           ReadWriteVariables="User::CET1">
           <ProjectItem
-            Name="Properties\Settings.settings"
-            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
-<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
-</SettingsFile>]]></ProjectItem>
+            Name="Properties\AssemblyInfo.cs"
+            Encoding="UTF8"><![CDATA[using System.Reflection;
+using System.Runtime.CompilerServices;
+
+//
+// General Information about an assembly is controlled through the following 
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+//
+[assembly: AssemblyTitle("ST_f238b106ba56486387ce4397da9b4512")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("ST_f238b106ba56486387ce4397da9b4512")]
+[assembly: AssemblyCopyright("Copyright @  2017")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+//
+// Version information for an assembly consists of the following four values:
+//
+//      Major Version
+//      Minor Version 
+//      Build Number
+//      Revision
+//
+// You can specify all the values or you can default the Revision and Build Numbers 
+// by using the '*' as shown below:
+
+[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
           <ProjectItem
             Name="Properties\Resources.resx"
             Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
@@ -47043,153 +47064,6 @@ namespace ST_f238b106ba56486387ce4397da9b4512
 	}
 }]]></ProjectItem>
           <ProjectItem
-            Name="Properties\Resources.Designer.cs"
-            Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
-// <auto-generated>
-//     This code was generated by a tool.
-//
-//     Changes to this file may cause incorrect behavior and will be lost if
-//     the code is regenerated.
-// </auto-generated>
-//------------------------------------------------------------------------------
-
-[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_f238b106ba56486387ce4397da9b4512.Properties.Resources.get_ResourceManager():System.Resources.Resou" +
-    "rceManager")]
-[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_f238b106ba56486387ce4397da9b4512.Properties.Resources.get_Culture():System.Globalization.CultureIn" +
-    "fo")]
-[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_f238b106ba56486387ce4397da9b4512.Properties.Resources.set_Culture(System.Globalization.CultureInfo" +
-    "):Void")]
-
-namespace ST_f238b106ba56486387ce4397da9b4512.Properties {
-    
-    
-    /// <summary>
-    ///   A strongly-typed resource class, for looking up localized strings, etc.
-    /// </summary>
-    // This class was auto-generated by the StronglyTypedResourceBuilder
-    // class via a tool like ResGen or Visual Studio.
-    // To add or remove a member, edit your .ResX file then rerun ResGen
-    // with the /str option, or rebuild your VS project.
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-    internal class Resources {
-        
-        private static global::System.Resources.ResourceManager resourceMan;
-        
-        private static global::System.Globalization.CultureInfo resourceCulture;
-        
-        [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
-        internal Resources() {
-        }
-        
-        /// <summary>
-        ///   Returns the cached ResourceManager instance used by this class.
-        /// </summary>
-        [global::System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Resources.ResourceManager ResourceManager {
-            get {
-                if ((resourceMan == null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ST_f238b106ba56486387ce4397da9b4512.Properties.Resources", typeof(Resources).Assembly);
-                    resourceMan = temp;
-                }
-                return resourceMan;
-            }
-        }
-        
-        /// <summary>
-        ///   Overrides the current thread's CurrentUICulture property for all
-        ///   resource lookups using this strongly typed resource class.
-        /// </summary>
-        [global::System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Globalization.CultureInfo Culture {
-            get {
-                return resourceCulture;
-            }
-            set {
-                resourceCulture = value;
-            }
-        }
-    }
-}]]></ProjectItem>
-          <ProjectItem
-            Name="Project"
-            Encoding="UTF16LE"><![CDATA[<?xml version="1.0" encoding="UTF-16" standalone="yes"?>
-<c:Project xmlns:c="http://schemas.microsoft.com/codeprojectml/2010/08/main" xmlns:msb="http://schemas.microsoft.com/developer/msbuild/2003" runtimeVersion="3.0" schemaVersion="1.0">
-	<msb:PropertyGroup>
-		<msb:CodeName>ST_f238b106ba56486387ce4397da9b4512</msb:CodeName>
-		<msb:Language>msBuild</msb:Language>
-		<msb:DisplayName>ST_f238b106ba56486387ce4397da9b4512</msb:DisplayName>
-		<msb:ProjectId>{87E91B7D-4218-4158-9480-36EB345E2592}</msb:ProjectId>
-	</msb:PropertyGroup>
-	<msb:ItemGroup>
-		<msb:Project Include="ST_f238b106ba56486387ce4397da9b4512.csproj"/>
-		<msb:File Include="Properties\AssemblyInfo.cs"/>
-		<msb:File Include="Properties\Settings.settings"/>
-		<msb:File Include="Properties\Resources.resx"/>
-		<msb:File Include="Properties\Resources.Designer.cs"/>
-		<msb:File Include="Properties\Settings.Designer.cs"/>
-		<msb:File Include="ScriptMain.cs"/>
-	</msb:ItemGroup>
-</c:Project>]]></ProjectItem>
-          <ProjectItem
-            Name="Properties\Settings.Designer.cs"
-            Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
-// <auto-generated>
-//     This code was generated by a tool.
-//
-//     Changes to this file may cause incorrect behavior and will be lost if
-//     the code is regenerated.
-// </auto-generated>
-//------------------------------------------------------------------------------
-
-[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_f238b106ba56486387ce4397da9b4512.Properties.Settings.get_Default():ST_f238b106ba56486387ce4397da9b4512.Properties.Sett" +
-    "ings")]
-
-namespace ST_f238b106ba56486387ce4397da9b4512.Properties {
-    
-    
-    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
-        
-        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-        private static Settings defaultInstance = new Settings();
-        
-        public static Settings Default {
-            get {
-                return defaultInstance;
-            }
-        }
-    }
-}]]></ProjectItem>
-          <ProjectItem
-            Name="Properties\AssemblyInfo.cs"
-            Encoding="UTF8"><![CDATA[using System.Reflection;
-using System.Runtime.CompilerServices;
-
-//
-// General Information about an assembly is controlled through the following 
-// set of attributes. Change these attribute values to modify the information
-// associated with an assembly.
-//
-[assembly: AssemblyTitle("ST_f238b106ba56486387ce4397da9b4512")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ST_f238b106ba56486387ce4397da9b4512")]
-[assembly: AssemblyCopyright("Copyright @  2017")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
-//
-// Version information for an assembly consists of the following four values:
-//
-//      Major Version
-//      Minor Version 
-//      Build Number
-//      Revision
-//
-// You can specify all the values or you can default the Revision and Build Numbers 
-// by using the '*' as shown below:
-
-[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
-          <ProjectItem
             Name="ST_f238b106ba56486387ce4397da9b4512.csproj"
             Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
@@ -47288,6 +47162,132 @@ using System.Runtime.CompilerServices;
     </VisualStudio>
   </ProjectExtensions>
 </Project>]]></ProjectItem>
+          <ProjectItem
+            Name="Project"
+            Encoding="UTF16LE"><![CDATA[<?xml version="1.0" encoding="UTF-16" standalone="yes"?>
+<c:Project xmlns:c="http://schemas.microsoft.com/codeprojectml/2010/08/main" xmlns:msb="http://schemas.microsoft.com/developer/msbuild/2003" runtimeVersion="3.0" schemaVersion="1.0">
+	<msb:PropertyGroup>
+		<msb:CodeName>ST_f238b106ba56486387ce4397da9b4512</msb:CodeName>
+		<msb:Language>msBuild</msb:Language>
+		<msb:DisplayName>ST_f238b106ba56486387ce4397da9b4512</msb:DisplayName>
+		<msb:ProjectId>{87E91B7D-4218-4158-9480-36EB345E2592}</msb:ProjectId>
+	</msb:PropertyGroup>
+	<msb:ItemGroup>
+		<msb:Project Include="ST_f238b106ba56486387ce4397da9b4512.csproj"/>
+		<msb:File Include="Properties\AssemblyInfo.cs"/>
+		<msb:File Include="Properties\Settings.settings"/>
+		<msb:File Include="Properties\Resources.resx"/>
+		<msb:File Include="Properties\Resources.Designer.cs"/>
+		<msb:File Include="Properties\Settings.Designer.cs"/>
+		<msb:File Include="ScriptMain.cs"/>
+	</msb:ItemGroup>
+</c:Project>]]></ProjectItem>
+          <ProjectItem
+            Name="Properties\Settings.Designer.cs"
+            Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
+// <auto-generated>
+//     This code was generated by a tool.
+//
+//     Changes to this file may cause incorrect behavior and will be lost if
+//     the code is regenerated.
+// </auto-generated>
+//------------------------------------------------------------------------------
+
+[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_f238b106ba56486387ce4397da9b4512.Properties.Settings.get_Default():ST_f238b106ba56486387ce4397da9b4512.Properties.Sett" +
+    "ings")]
+
+namespace ST_f238b106ba56486387ce4397da9b4512.Properties {
+    
+    
+    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
+        
+        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
+        private static Settings defaultInstance = new Settings();
+        
+        public static Settings Default {
+            get {
+                return defaultInstance;
+            }
+        }
+    }
+}]]></ProjectItem>
+          <ProjectItem
+            Name="Properties\Settings.settings"
+            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
+<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings />
+</SettingsFile>]]></ProjectItem>
+          <ProjectItem
+            Name="Properties\Resources.Designer.cs"
+            Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
+// <auto-generated>
+//     This code was generated by a tool.
+//
+//     Changes to this file may cause incorrect behavior and will be lost if
+//     the code is regenerated.
+// </auto-generated>
+//------------------------------------------------------------------------------
+
+[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_f238b106ba56486387ce4397da9b4512.Properties.Resources.get_ResourceManager():System.Resources.Resou" +
+    "rceManager")]
+[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_f238b106ba56486387ce4397da9b4512.Properties.Resources.get_Culture():System.Globalization.CultureIn" +
+    "fo")]
+[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_f238b106ba56486387ce4397da9b4512.Properties.Resources.set_Culture(System.Globalization.CultureInfo" +
+    "):Void")]
+
+namespace ST_f238b106ba56486387ce4397da9b4512.Properties {
+    
+    
+    /// <summary>
+    ///   A strongly-typed resource class, for looking up localized strings, etc.
+    /// </summary>
+    // This class was auto-generated by the StronglyTypedResourceBuilder
+    // class via a tool like ResGen or Visual Studio.
+    // To add or remove a member, edit your .ResX file then rerun ResGen
+    // with the /str option, or rebuild your VS project.
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+    internal class Resources {
+        
+        private static global::System.Resources.ResourceManager resourceMan;
+        
+        private static global::System.Globalization.CultureInfo resourceCulture;
+        
+        [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
+        internal Resources() {
+        }
+        
+        /// <summary>
+        ///   Returns the cached ResourceManager instance used by this class.
+        /// </summary>
+        [global::System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+        internal static global::System.Resources.ResourceManager ResourceManager {
+            get {
+                if ((resourceMan == null)) {
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ST_f238b106ba56486387ce4397da9b4512.Properties.Resources", typeof(Resources).Assembly);
+                    resourceMan = temp;
+                }
+                return resourceMan;
+            }
+        }
+        
+        /// <summary>
+        ///   Overrides the current thread's CurrentUICulture property for all
+        ///   resource lookups using this strongly typed resource class.
+        /// </summary>
+        [global::System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+        internal static global::System.Globalization.CultureInfo Culture {
+            get {
+                return resourceCulture;
+            }
+            set {
+                resourceCulture = value;
+            }
+        }
+    }
+}]]></ProjectItem>
           <BinaryItem
             Name="ST_f238b106ba56486387ce4397da9b4512.dll">TVqQAAMAAAAEAAAA//8AALgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAgAAAAA4fug4AtAnNIbgBTM0hVGhpcyBwcm9ncmFtIGNhbm5vdCBiZSBydW4gaW4gRE9TIG1v
@@ -47418,14 +47418,35 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
           Language="CSharp"
           ReadWriteVariables="User::CET2">
           <ProjectItem
-            Name="Properties\Settings.settings"
-            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
-<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
-</SettingsFile>]]></ProjectItem>
+            Name="Properties\AssemblyInfo.cs"
+            Encoding="UTF8"><![CDATA[using System.Reflection;
+using System.Runtime.CompilerServices;
+
+//
+// General Information about an assembly is controlled through the following 
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+//
+[assembly: AssemblyTitle("ST_3206fcf37c89478297bf370ef19c7033")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("ST_3206fcf37c89478297bf370ef19c7033")]
+[assembly: AssemblyCopyright("Copyright @  2017")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+//
+// Version information for an assembly consists of the following four values:
+//
+//      Major Version
+//      Minor Version 
+//      Build Number
+//      Revision
+//
+// You can specify all the values or you can default the Revision and Build Numbers 
+// by using the '*' as shown below:
+
+[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
           <ProjectItem
             Name="Properties\Resources.resx"
             Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
@@ -47795,35 +47816,14 @@ namespace ST_3206fcf37c89478297bf370ef19c7033.Properties {
     }
 }]]></ProjectItem>
           <ProjectItem
-            Name="Properties\AssemblyInfo.cs"
-            Encoding="UTF8"><![CDATA[using System.Reflection;
-using System.Runtime.CompilerServices;
-
-//
-// General Information about an assembly is controlled through the following 
-// set of attributes. Change these attribute values to modify the information
-// associated with an assembly.
-//
-[assembly: AssemblyTitle("ST_3206fcf37c89478297bf370ef19c7033")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ST_3206fcf37c89478297bf370ef19c7033")]
-[assembly: AssemblyCopyright("Copyright @  2017")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
-//
-// Version information for an assembly consists of the following four values:
-//
-//      Major Version
-//      Minor Version 
-//      Build Number
-//      Revision
-//
-// You can specify all the values or you can default the Revision and Build Numbers 
-// by using the '*' as shown below:
-
-[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
+            Name="Properties\Settings.settings"
+            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
+<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings />
+</SettingsFile>]]></ProjectItem>
           <ProjectItem
             Name="Properties\Resources.Designer.cs"
             Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
@@ -48022,14 +48022,35 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
           Language="CSharp"
           ReadWriteVariables="User::CET3">
           <ProjectItem
-            Name="Properties\Settings.settings"
-            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
-<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
-</SettingsFile>]]></ProjectItem>
+            Name="Properties\AssemblyInfo.cs"
+            Encoding="UTF8"><![CDATA[using System.Reflection;
+using System.Runtime.CompilerServices;
+
+//
+// General Information about an assembly is controlled through the following 
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+//
+[assembly: AssemblyTitle("ST_9b8bef6606ea4d4eab55f8971f0a4046")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("ST_9b8bef6606ea4d4eab55f8971f0a4046")]
+[assembly: AssemblyCopyright("Copyright @  2017")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+//
+// Version information for an assembly consists of the following four values:
+//
+//      Major Version
+//      Minor Version 
+//      Build Number
+//      Revision
+//
+// You can specify all the values or you can default the Revision and Build Numbers 
+// by using the '*' as shown below:
+
+[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
           <ProjectItem
             Name="Properties\Resources.resx"
             Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
@@ -48399,35 +48420,14 @@ namespace ST_9b8bef6606ea4d4eab55f8971f0a4046.Properties {
     }
 }]]></ProjectItem>
           <ProjectItem
-            Name="Properties\AssemblyInfo.cs"
-            Encoding="UTF8"><![CDATA[using System.Reflection;
-using System.Runtime.CompilerServices;
-
-//
-// General Information about an assembly is controlled through the following 
-// set of attributes. Change these attribute values to modify the information
-// associated with an assembly.
-//
-[assembly: AssemblyTitle("ST_9b8bef6606ea4d4eab55f8971f0a4046")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ST_9b8bef6606ea4d4eab55f8971f0a4046")]
-[assembly: AssemblyCopyright("Copyright @  2017")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
-//
-// Version information for an assembly consists of the following four values:
-//
-//      Major Version
-//      Minor Version 
-//      Build Number
-//      Revision
-//
-// You can specify all the values or you can default the Revision and Build Numbers 
-// by using the '*' as shown below:
-
-[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
+            Name="Properties\Settings.settings"
+            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
+<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings />
+</SettingsFile>]]></ProjectItem>
           <ProjectItem
             Name="Properties\Resources.Designer.cs"
             Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
@@ -49089,6 +49089,10 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
           Id="Package\Fact 5"
           TopLeft="410,2993" />
         <NodeLayout
+          Size="108,42"
+          Id="Package\Fact 6"
+          TopLeft="548,3036" />
+        <NodeLayout
           Size="104,42"
           Id="Package\Fact3"
           TopLeft="504,2660" />
@@ -49635,6 +49639,40 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 26]"
+          TopLeft="518,3014">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="30,43"
+              Start="0,0"
+              End="22.5,43">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="11,0" />
+                  <mssgle:CubicBezierSegment
+                    Point1="11,0"
+                    Point2="15,0"
+                    Point3="15,4" />
+                  <mssgle:LineSegment
+                    End="15,39" />
+                  <mssgle:CubicBezierSegment
+                    Point1="15,39"
+                    Point2="15,43"
+                    Point3="19,43" />
+                  <mssgle:LineSegment
+                    End="22.5,43" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 3]"
           TopLeft="173.5,455.5">
           <EdgeLayout.Curve>
@@ -49934,44 +49972,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
                   Capacity="5">
                   <mssgle:LineSegment
                     End="0,52.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="108,42"
-          Id="Package\Fact 6"
-          TopLeft="548,3036" />
-        <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint 26]"
-          TopLeft="518,3014">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="30,43"
-              Start="0,0"
-              End="22.5,43">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="11,0" />
-                  <mssgle:CubicBezierSegment
-                    Point1="11,0"
-                    Point2="15,0"
-                    Point3="15,4" />
-                  <mssgle:LineSegment
-                    End="15,39" />
-                  <mssgle:CubicBezierSegment
-                    Point1="15,39"
-                    Point2="15,43"
-                    Point3="19,43" />
-                  <mssgle:LineSegment
-                    End="22.5,43" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -51073,7 +51073,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output2]"
+          Id="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output1]"
           TopLeft="799.5,353.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -51097,7 +51097,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output3]"
+          Id="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output]"
           TopLeft="1140.5,353.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -51121,7 +51121,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output]"
+          Id="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output2]"
           TopLeft="141.5,353.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -51145,7 +51145,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output1]"
+          Id="Package\Dua du lieu vo các table liên quan đến bảng Accidents.Paths[Lookup Error Output3]"
           TopLeft="467.5,353.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -55528,6 +55528,501 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
     </Properties>
   </PipelineComponentMetadata>
   <TaskHost
+    design-time-name="Package\Fact 6">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="358,42"
+          Id="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * )"
+          TopLeft="78,46" />
+        <NodeLayout
+          Size="133,42"
+          Id="Package\Fact 6\Them cột 1"
+          TopLeft="132,128" />
+        <EdgeLayout
+          Id="Package\Fact 6.Paths[OLE DB Source Output]"
+          TopLeft="257,88">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-58.5,40"
+              Start="0,0"
+              End="-58.5,32.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,16" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,16"
+                    Point2="0,20"
+                    Point3="-4,20" />
+                  <mssgle:LineSegment
+                    End="-54.5,20" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-54.5,20"
+                    Point2="-58.5,20"
+                    Point3="-58.5,24" />
+                  <mssgle:LineSegment
+                    End="-58.5,32.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="98,42"
+          Id="Package\Fact 6\Sort"
+          TopLeft="144,225" />
+        <EdgeLayout
+          Id="Package\Fact 6.Paths[Derived Column Output]"
+          TopLeft="195.75,170">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,55"
+              Start="0,0"
+              End="0,47.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,47.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="137,42"
+          Id="Package\Fact 6\Nhom tuoi 2"
+          TopLeft="491,39" />
+        <NodeLayout
+          Size="133,42"
+          Id="Package\Fact 6\Them cột 1 1"
+          TopLeft="475,135" />
+        <EdgeLayout
+          Id="Package\Fact 6.Paths[OLE DB Source Output1]"
+          TopLeft="559.5,81">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-18,54"
+              Start="0,0"
+              End="-18,46.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,23" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,23"
+                    Point2="0,27"
+                    Point3="-4,27" />
+                  <mssgle:LineSegment
+                    End="-14,27" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-14,27"
+                    Point2="-18,27"
+                    Point3="-18,31" />
+                  <mssgle:LineSegment
+                    End="-18,46.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="107,42"
+          Id="Package\Fact 6\Sort 1"
+          TopLeft="495,232" />
+        <EdgeLayout
+          Id="Package\Fact 6.Paths[Derived Column Output1]"
+          TopLeft="545,177">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,55"
+              Start="0,0"
+              End="0,47.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,47.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="130,42"
+          Id="Package\Fact 6\Merge Join"
+          TopLeft="273,338" />
+        <EdgeLayout
+          Id="Package\Fact 6.Paths[Sort Output]"
+          TopLeft="193,267">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="145,71"
+              Start="0,0"
+              End="145,63.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,31.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,31.5"
+                    Point2="0,35.5"
+                    Point3="4,35.5" />
+                  <mssgle:LineSegment
+                    End="141,35.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="141,35.5"
+                    Point2="145,35.5"
+                    Point3="145,39.5" />
+                  <mssgle:LineSegment
+                    End="145,63.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Fact 6.Paths[Sort Output1]"
+          TopLeft="548.5,274">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-190.166666666667,64"
+              Start="0,0"
+              End="-190.166666666667,56.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,33.9331306990881" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,33.9331306990881"
+                    Point2="0,37.9331306990881"
+                    Point3="-4,37.9331306990881" />
+                  <mssgle:LineSegment
+                    End="-186.166666666667,37.9331306990881" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-186.166666666667,37.9331306990881"
+                    Point2="-190.166666666667,37.9331306990881"
+                    Point3="-190.166666666667,41.9331306990881" />
+                  <mssgle:LineSegment
+                    End="-190.166666666667,56.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="155,42"
+          Id="Package\Fact 6\Conditional Split"
+          TopLeft="257,430" />
+        <EdgeLayout
+          Id="Package\Fact 6.Paths[Merge Join Output]"
+          TopLeft="336.25,380">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,50"
+              Start="0,0"
+              End="0,42.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,42.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="101,42"
+          Id="Package\Fact 6\Date"
+          TopLeft="283.5,502.5" />
+        <EdgeLayout
+          Id="Package\Fact 6.Paths[NamTrongNhomTuoi]"
+          TopLeft="334.25,472">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,30.5"
+              Start="0,0"
+              End="0,23">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,23" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-46.0788671875,5.66845703125,92.157734375,11.6630859375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="114,42"
+          Id="Package\Fact 6\Servety"
+          TopLeft="281,582" />
+        <EdgeLayout
+          Id="Package\Fact 6.Paths[Lookup Match Output]"
+          TopLeft="336,544.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,37.5"
+              Start="0,0"
+              End="0,30">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,30" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-48.19138671875,9.1953125,96.3827734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="142,42"
+          Id="Package\Fact 6\CasualtyType"
+          TopLeft="274,664" />
+        <EdgeLayout
+          Id="Package\Fact 6.Paths[Lookup Match Output1]"
+          TopLeft="341.5,624">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,40"
+              Start="0,0"
+              End="0,32.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,32.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-48.19138671875,10.4453125,96.3827734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="127,42"
+          Id="Package\Fact 6\Aggregate"
+          TopLeft="275,756" />
+        <EdgeLayout
+          Id="Package\Fact 6.Paths[Lookup Match Output2]"
+          TopLeft="341.75,706">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,50"
+              Start="0,0"
+              End="0,42.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,42.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-48.19138671875,15.4453125,96.3827734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="171,42"
+          Id="Package\Fact 6\OLE DB Destination"
+          TopLeft="181.5,855.5" />
+        <EdgeLayout
+          Id="Package\Fact 6.Paths[Aggregate Output 1]"
+          TopLeft="338.5,798">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-71.5,57.5"
+              Start="0,0"
+              End="-71.5,50">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,24.75" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,24.75"
+                    Point2="0,28.75"
+                    Point3="-4,28.75" />
+                  <mssgle:LineSegment
+                    End="-67.5,28.75" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-67.5,28.75"
+                    Point2="-71.5,28.75"
+                    Point3="-71.5,32.75" />
+                  <mssgle:LineSegment
+                    End="-71.5,50" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * )">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Fact 6\Nhom tuoi 2">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Fact 6\Servety">
+    <Properties>
+      <Property>
+        <Name>OverwriteParamsSQLProp</Name>
+        <Value
+          type="q2:string">false</Value>
+      </Property>
+      <Property>
+        <Name>UsedTableName</Name>
+        <Value
+          type="q3:string">[dbo].[Severty]</Value>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q4:string">0</Value>
+      </Property>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Fact 6\OLE DB Destination">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Fact 6\Date">
+    <Properties>
+      <Property>
+        <Name>OverwriteParamsSQLProp</Name>
+        <Value
+          type="q2:string">false</Value>
+      </Property>
+      <Property>
+        <Name>UsedTableName</Name>
+        <Value
+          type="q3:string">[dbo].[Date]</Value>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q4:string">0</Value>
+      </Property>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Fact 6\CasualtyType">
+    <Properties>
+      <Property>
+        <Name>OverwriteParamsSQLProp</Name>
+        <Value
+          type="q2:string">false</Value>
+      </Property>
+      <Property>
+        <Name>UsedTableName</Name>
+        <Value
+          type="q3:string">[dbo].[CasualtyType]</Value>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q4:string">0</Value>
+      </Property>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
     design-time-name="Package\Fact3">
     <LayoutInfo>
       <GraphLayout
@@ -57387,501 +57882,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
   </TaskHost>
   <PipelineComponentMetadata
     design-time-name="Package\NguonvoStageAccidents\Stage_Accidents">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
-    design-time-name="Package\Fact 6">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
-        <NodeLayout
-          Size="358,42"
-          Id="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * )"
-          TopLeft="78,46" />
-        <NodeLayout
-          Size="133,42"
-          Id="Package\Fact 6\Them cột 1"
-          TopLeft="132,128" />
-        <EdgeLayout
-          Id="Package\Fact 6.Paths[OLE DB Source Output]"
-          TopLeft="257,88">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-58.5,40"
-              Start="0,0"
-              End="-58.5,32.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,16" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,16"
-                    Point2="0,20"
-                    Point3="-4,20" />
-                  <mssgle:LineSegment
-                    End="-54.5,20" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-54.5,20"
-                    Point2="-58.5,20"
-                    Point3="-58.5,24" />
-                  <mssgle:LineSegment
-                    End="-58.5,32.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="98,42"
-          Id="Package\Fact 6\Sort"
-          TopLeft="144,225" />
-        <EdgeLayout
-          Id="Package\Fact 6.Paths[Derived Column Output]"
-          TopLeft="195.75,170">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,55"
-              Start="0,0"
-              End="0,47.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,47.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="137,42"
-          Id="Package\Fact 6\Nhom tuoi 2"
-          TopLeft="491,39" />
-        <NodeLayout
-          Size="133,42"
-          Id="Package\Fact 6\Them cột 1 1"
-          TopLeft="475,135" />
-        <EdgeLayout
-          Id="Package\Fact 6.Paths[OLE DB Source Output1]"
-          TopLeft="559.5,81">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-18,54"
-              Start="0,0"
-              End="-18,46.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,23" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,23"
-                    Point2="0,27"
-                    Point3="-4,27" />
-                  <mssgle:LineSegment
-                    End="-14,27" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-14,27"
-                    Point2="-18,27"
-                    Point3="-18,31" />
-                  <mssgle:LineSegment
-                    End="-18,46.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="107,42"
-          Id="Package\Fact 6\Sort 1"
-          TopLeft="495,232" />
-        <EdgeLayout
-          Id="Package\Fact 6.Paths[Derived Column Output1]"
-          TopLeft="545,177">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,55"
-              Start="0,0"
-              End="0,47.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,47.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="130,42"
-          Id="Package\Fact 6\Merge Join"
-          TopLeft="273,338" />
-        <EdgeLayout
-          Id="Package\Fact 6.Paths[Sort Output]"
-          TopLeft="193,267">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="145,71"
-              Start="0,0"
-              End="145,63.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,31.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,31.5"
-                    Point2="0,35.5"
-                    Point3="4,35.5" />
-                  <mssgle:LineSegment
-                    End="141,35.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="141,35.5"
-                    Point2="145,35.5"
-                    Point3="145,39.5" />
-                  <mssgle:LineSegment
-                    End="145,63.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Fact 6.Paths[Sort Output1]"
-          TopLeft="548.5,274">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-190.166666666667,64"
-              Start="0,0"
-              End="-190.166666666667,56.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,33.9331306990881" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,33.9331306990881"
-                    Point2="0,37.9331306990881"
-                    Point3="-4,37.9331306990881" />
-                  <mssgle:LineSegment
-                    End="-186.166666666667,37.9331306990881" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-186.166666666667,37.9331306990881"
-                    Point2="-190.166666666667,37.9331306990881"
-                    Point3="-190.166666666667,41.9331306990881" />
-                  <mssgle:LineSegment
-                    End="-190.166666666667,56.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="155,42"
-          Id="Package\Fact 6\Conditional Split"
-          TopLeft="257,430" />
-        <EdgeLayout
-          Id="Package\Fact 6.Paths[Merge Join Output]"
-          TopLeft="336.25,380">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,50"
-              Start="0,0"
-              End="0,42.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,42.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="101,42"
-          Id="Package\Fact 6\Date"
-          TopLeft="283.5,502.5" />
-        <EdgeLayout
-          Id="Package\Fact 6.Paths[NamTrongNhomTuoi]"
-          TopLeft="334.25,472">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,30.5"
-              Start="0,0"
-              End="0,23">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,23" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-46.0788671875,5.66845703125,92.157734375,11.6630859375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="114,42"
-          Id="Package\Fact 6\Servety"
-          TopLeft="281,582" />
-        <EdgeLayout
-          Id="Package\Fact 6.Paths[Lookup Match Output]"
-          TopLeft="336,544.5">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,37.5"
-              Start="0,0"
-              End="0,30">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,30" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-48.19138671875,9.1953125,96.3827734375,11.609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="142,42"
-          Id="Package\Fact 6\CasualtyType"
-          TopLeft="274,664" />
-        <EdgeLayout
-          Id="Package\Fact 6.Paths[Lookup Match Output1]"
-          TopLeft="341.5,624">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,40"
-              Start="0,0"
-              End="0,32.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,32.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-48.19138671875,10.4453125,96.3827734375,11.609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="127,42"
-          Id="Package\Fact 6\Aggregate"
-          TopLeft="275,756" />
-        <EdgeLayout
-          Id="Package\Fact 6.Paths[Lookup Match Output2]"
-          TopLeft="341.75,706">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,50"
-              Start="0,0"
-              End="0,42.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,42.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-48.19138671875,15.4453125,96.3827734375,11.609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="171,42"
-          Id="Package\Fact 6\OLE DB Destination"
-          TopLeft="181.5,855.5" />
-        <EdgeLayout
-          Id="Package\Fact 6.Paths[Aggregate Output 1]"
-          TopLeft="338.5,798">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-71.5,57.5"
-              Start="0,0"
-              End="-71.5,50">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,24.75" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,24.75"
-                    Point2="0,28.75"
-                    Point3="-4,28.75" />
-                  <mssgle:LineSegment
-                    End="-67.5,28.75" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-67.5,28.75"
-                    Point2="-71.5,28.75"
-                    Point3="-71.5,32.75" />
-                  <mssgle:LineSegment
-                    End="-71.5,50" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\Fact 6\Date, Type người tham gia, Mức bị thương, tuổi, count( * )">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Fact 6\Nhom tuoi 2">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Fact 6\Date">
-    <Properties>
-      <Property>
-        <Name>OverwriteParamsSQLProp</Name>
-        <Value
-          type="q2:boolean">false</Value>
-      </Property>
-      <Property>
-        <Name>UsedTableName</Name>
-        <Value
-          type="q3:string">[dbo].[Date]</Value>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q4:int">0</Value>
-      </Property>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Fact 6\Servety">
-    <Properties>
-      <Property>
-        <Name>OverwriteParamsSQLProp</Name>
-        <Value
-          type="q2:boolean">false</Value>
-      </Property>
-      <Property>
-        <Name>UsedTableName</Name>
-        <Value
-          type="q3:string">[dbo].[Severty]</Value>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q4:int">0</Value>
-      </Property>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Fact 6\CasualtyType">
-    <Properties>
-      <Property>
-        <Name>OverwriteParamsSQLProp</Name>
-        <Value
-          type="q2:boolean">false</Value>
-      </Property>
-      <Property>
-        <Name>UsedTableName</Name>
-        <Value
-          type="q3:string">[dbo].[CasualtyType]</Value>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q4:int">0</Value>
-      </Property>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Fact 6\OLE DB Destination">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
