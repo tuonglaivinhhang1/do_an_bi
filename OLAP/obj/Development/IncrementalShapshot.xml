@@ -1,8 +1,8 @@
-﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
   <Target>
     <Database>OLAP</Database>
-    <Server>localhost</Server>
-    <ConnectionString>Data Source=localhost;Timeout=0</ConnectionString>
+    <Server>seagate\ttkd</Server>
+    <ConnectionString>DataSource=seagate\ttkd;Timeout=0</ConnectionString>
   </Target>
   <Options>
     <TransactionalDeployment>false</TransactionalDeployment>
@@ -19,50 +19,197 @@
     <ObjectSnapshots>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
-        <TimeStamp>F9xoxmedLKnX15WPjkBcQYMT2Lo=6/3/2017 12:34:49 AM6/3/2017 12:34:49 AM</TimeStamp>
+        <TimeStamp>W+mo230tc1IpfiiV3N0Czg4cwiI=2017-06-04 12:31:00 AM2017-06-03 11:34:03 PM</TimeStamp>
         <ID>
           <String>DDS</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>qMhMxFXC6Dr1EAaDmSHfdoG14Hg=6/3/2017 12:41:42 AM6/3/2017 12:36:48 AM</TimeStamp>
+        <TimeStamp>qMhMxFXC6Dr1EAaDmSHfdoG14Hg=2017-06-03 11:34:03 PM2017-06-03 11:34:03 PM</TimeStamp>
         <ID>
           <String>Cau1</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>RVSun5w/ZmB9awyWCHHLLzSZht0=2017-06-04 12:31:11 AM2017-06-04 12:27:25 AM</TimeStamp>
+        <ID>
+          <String>TH DDS</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>wYItMjATaFW+ThotNUqP4MNbwqc=2017-06-04 12:41:17 AM2017-06-04 12:37:04 AM</TimeStamp>
+        <ID>
+          <String>Cau 7</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>QdJO7OqDFxQ1jQLyfMuhOK0R+GM=2017-06-04 12:50:46 AM2017-06-04 12:43:39 AM</TimeStamp>
+        <ID>
+          <String>Cau 9 10</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>BrQWCHgDdil7OT1gkqbS5ggEZgk=2017-06-04 1:52:45 AM2017-06-04 1:52:44 AM</TimeStamp>
+        <ID>
+          <String>Cau 4</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>AQfJhYbWjLph0gnFFmvigim+Wt8=2017-06-04 2:09:14 AM2017-06-04 2:09:14 AM</TimeStamp>
+        <ID>
+          <String>Cau 5</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>HhAVxPqcdQ2rU1DBQYN1mA8cAW4=2017-06-04 2:19:55 AM2017-06-04 2:19:55 AM</TimeStamp>
+        <ID>
+          <String>Cau 6</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>klyc1Donu8LgTh67OphFLR4cFKo=6/3/2017 12:47:35 AM6/3/2017 12:41:40 AM</TimeStamp>
+        <TimeStamp>klyc1Donu8LgTh67OphFLR4cFKo=2017-06-03 11:34:03 PM2017-06-03 11:34:03 PM</TimeStamp>
         <ID>
           <String>Severty</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>9bXmuN9BqUurw62rY1MVfu/5W8c=6/3/2017 1:25:48 AM6/3/2017 12:41:40 AM</TimeStamp>
+        <TimeStamp>9dUX3cV/O02qvyzfZF642vx8138=2017-06-04 1:37:28 AM2017-06-03 11:34:03 PM</TimeStamp>
         <ID>
           <String>Date</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>yF8KiuYXlCPr37QH/wPPvG7zNI4=6/3/2017 12:47:35 AM6/3/2017 12:41:40 AM</TimeStamp>
+        <TimeStamp>yF8KiuYXlCPr37QH/wPPvG7zNI4=2017-06-03 11:34:03 PM2017-06-03 11:34:03 PM</TimeStamp>
         <ID>
           <String>Location</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>/KkH4OkHvAvDs43tF8excLiEmXk=2017-06-04 12:34:57 AM2017-06-04 12:33:21 AM</TimeStamp>
+        <ID>
+          <String>Vehicle Type</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>AB2Tws6GW82zec2XTPeo0B1Bmno=2017-06-04 12:34:57 AM2017-06-04 12:33:21 AM</TimeStamp>
+        <ID>
+          <String>Journey Purpose</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>+/ftBDo4tkoFW5M/qe+xZZk9ai0=2017-06-04 12:43:39 AM2017-06-04 12:41:17 AM</TimeStamp>
+        <ID>
+          <String>Casualty Type</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>rqIdBWdO8u8X9ED1s5XSDAltV9w=2017-06-04 12:43:39 AM2017-06-04 12:41:17 AM</TimeStamp>
+        <ID>
+          <String>Age Group2</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>yI+Ii/Y+RRNCkK5HbWbVpYeOK74=2017-06-04 12:50:46 AM2017-06-04 12:44:25 AM</TimeStamp>
+        <ID>
+          <String>Road Classification</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>zOgNgk9FPcwNdEgjQWOLUTl4SCM=2017-06-04 12:50:45 AM2017-06-04 12:44:25 AM</TimeStamp>
+        <ID>
+          <String>Road Class</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>GwNMznStWiv0PDS2J0gVjglKzl0=2017-06-04 1:57:18 AM2017-06-04 1:56:05 AM</TimeStamp>
+        <ID>
+          <String>Thoi Diem</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>3mXKrmekU9JSfy7M8cJ2zw82lDU=2017-06-04 2:11:57 AM2017-06-04 2:09:41 AM</TimeStamp>
+        <ID>
+          <String>Area</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>hNqu2WENEx9hR3OFnOlxsdgfy58=2017-06-04 2:21:45 AM2017-06-04 2:20:29 AM</TimeStamp>
+        <ID>
+          <String>Speed Max</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>qWpGeXwEW/kZkexfEclc3m8q2Kg=6/3/2017 1:14:07 AM6/3/2017 12:41:39 AMWZjh5ZxxCJlutV95Foe9RfSQx1w=6/3/2017 12:41:42 AM6/3/2017 12:41:39 AM</TimeStamp>
+        <TimeStamp>UKYJm9V0g2IbaAC/Z7gbUPI5WxE=2017-06-04 1:35:06 AM2017-06-03 11:34:03 PMWZjh5ZxxCJlutV95Foe9RfSQx1w=2017-06-03 11:34:03 PM2017-06-03 11:34:03 PM</TimeStamp>
         <ID>
           <String>Cau1</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>peaDGV6+7oEyDEo/KnBW2ZxRqdo=2017-06-04 12:34:57 AM2017-06-04 12:33:21 AMF3t7M8qrxpFsmOzfF36SLidYoM4=2017-06-04 12:33:21 AM2017-06-04 12:33:21 AM</TimeStamp>
+        <ID>
+          <String>Cau 8</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>hWH+d/uldQH94cyZ4L3HDgQcL+s=2017-06-04 1:35:06 AM2017-06-04 12:41:17 AMevycOQMjvK5JYanPwD8IlMhKcl4=2017-06-04 12:41:17 AM2017-06-04 12:41:17 AM</TimeStamp>
+        <ID>
+          <String>Cau 7</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>WlNTmLUkCLwvdBpCPBggR1xqRxk=2017-06-04 1:47:42 AM2017-06-04 12:44:25 AMn4eMWnast00nNQHBqV8ARz4QLTk=2017-06-04 12:44:25 AM2017-06-04 12:44:25 AM</TimeStamp>
+        <ID>
+          <String>Cau 9 10</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>URWux+os2NkYxmx0boEzXKN38h4=2017-06-04 1:57:18 AM2017-06-04 1:56:05 AM7R+/dKGaN7yYGVdVAiwUTRo5LAc=2017-06-04 1:56:05 AM2017-06-04 1:56:05 AM</TimeStamp>
+        <ID>
+          <String>Cau 4</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>qxGjOAAPGHFY8Igeu7MmJpO5Ol8=2017-06-04 2:12:59 AM2017-06-04 2:09:41 AM6R5VPZlb7J7QsLYUUlUv2sGXSWg=2017-06-04 2:09:41 AM2017-06-04 2:09:41 AM</TimeStamp>
+        <ID>
+          <String>Cau 5</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>Al7YmyGHrvgIIgofotJESY1MV/0=2017-06-04 2:22:26 AM2017-06-04 2:20:29 AMnUue0bpVujqAVLFknmVGdf6aa+Y=2017-06-04 2:20:29 AM2017-06-04 2:20:29 AM</TimeStamp>
+        <ID>
+          <String>Cau 6</String>
         </ID>
       </ObjectSnapshot>
     </ObjectSnapshots>
     <DatabaseSnapshot>
       <Type>Microsoft.AnalysisServices.Database</Type>
-      <TimeStamp>0MDiPu4UJLTRiDxieEaYrFvDJi8=6/3/2017 12:13:59 AM6/3/2017 12:13:58 AM</TimeStamp>
+      <TimeStamp>0MDiPu4UJLTRiDxieEaYrFvDJi8=2017-06-03 11:34:03 PM2017-06-03 11:34:03 PM</TimeStamp>
       <ID>
         <String>OLAP</String>
       </ID>
@@ -71,5 +218,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2017-06-02T18:26:02.823333Z</LastDeployed>
+  <LastDeployed>2017-06-03T19:22:29.506667Z</LastDeployed>
 </DeploymentSnapshot>

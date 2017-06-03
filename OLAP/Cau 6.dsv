@@ -1,0 +1,216 @@
+﻿<DataSourceView xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="54a16948-e2d6-4a1d-a75e-c776d031fb6f" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Cau 6</ID>
+  <Name>Cau 6</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:CurrentLayout</Name>
+      <Value>_ALL_TABLES_</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:SchemaRestriction</Name>
+      <Value></Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:RetrieveRelationships</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:Layouts</Name>
+      <Value>
+        <Layouts xmlns="">
+          <Diagram>
+            <Name>_ALL_TABLES_</Name>
+            <DiagramLayout />
+            <ShowRelationshipNames>False</ShowRelationshipNames>
+            <UseDiagramDefaultLayout>True</UseDiagramDefaultLayout>
+            <DiagramViewPortLeft>0</DiagramViewPortLeft>
+            <DiagramViewPortTop>0</DiagramViewPortTop>
+            <DiagramBoundingLeft>0</DiagramBoundingLeft>
+            <DiagramBoundingTop>0</DiagramBoundingTop>
+            <DiagramZoom>100</DiagramZoom>
+          </Diagram>
+        </Layouts>
+      </Value>
+    </Annotation>
+  </Annotations>
+  <DataSourceID>DDS</DataSourceID>
+  <Schema>
+    <xs:schema id="Cau_x0020_6" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+      <xs:element name="Cau_x0020_6" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:design-time-name="432dcd80-b3d8-4d63-a395-bb6fee864054">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="dbo_Fact3" msprop:design-time-name="a9eec740-8585-447c-a26d-5e87f7354bd2" msprop:DbTableName="Fact3" msprop:FriendlyName="Fact3" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="DateID" msprop:design-time-name="7d00e617-169b-4b27-94b9-86c8d4c58fbc" msprop:DbColumnName="DateID" msprop:FriendlyName="DateID" type="xs:int" minOccurs="0" />
+                  <xs:element name="SevertyID" msprop:design-time-name="bdd57d22-6b10-4d52-bb7c-fbdbef58edbc" msprop:DbColumnName="SevertyID" msprop:FriendlyName="SevertyID" type="xs:int" minOccurs="0" />
+                  <xs:element name="AreaID" msprop:design-time-name="492be9a4-d9f7-4800-a0e5-b9a3f9670e89" msprop:DbColumnName="AreaID" msprop:FriendlyName="AreaID" type="xs:int" minOccurs="0" />
+                  <xs:element name="RoadClassID" msprop:design-time-name="d4006c52-09a7-44c9-99d7-5b1b8863ec62" msprop:DbColumnName="RoadClassID" msprop:FriendlyName="RoadClassID" type="xs:int" minOccurs="0" />
+                  <xs:element name="SpeedMaxID" msprop:design-time-name="72e1face-822b-470e-babf-9a32bef68d41" msprop:DbColumnName="SpeedMaxID" msprop:FriendlyName="SpeedMaxID" type="xs:int" minOccurs="0" />
+                  <xs:element name="SoTNGT" msprop:design-time-name="d1c7c7d1-aab8-4047-a928-8b35134d5427" msprop:DbColumnName="SoTNGT" msprop:FriendlyName="SoTNGT" type="xs:int" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_Severty" msprop:design-time-name="2ce66929-2469-440a-8c41-957f5308fec6" msprop:DbTableName="Severty" msprop:FriendlyName="Severty" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="SevertyID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="97975db5-8444-4719-95ae-2af76501c1fe" msprop:DbColumnName="SevertyID" msprop:FriendlyName="SevertyID" type="xs:int" />
+                  <xs:element name="NameSeverty" msprop:design-time-name="e885eacf-1a19-44b0-86f8-9e3ff3c0a6bd" msprop:DbColumnName="NameSeverty" msprop:FriendlyName="NameSeverty" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="100" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_RoadClass" msprop:design-time-name="db2d62a5-aae0-4ae8-bd9b-6003c2ef4e4f" msprop:DbTableName="RoadClass" msprop:FriendlyName="RoadClass" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="RoadClassID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="01695372-0bd3-46ad-94e6-83d27dece80c" msprop:DbColumnName="RoadClassID" msprop:FriendlyName="RoadClassID" type="xs:int" />
+                  <xs:element name="NameRoadClass" msprop:design-time-name="adc9a962-9f90-4cc5-86a6-9f634af5e4d6" msprop:DbColumnName="NameRoadClass" msprop:FriendlyName="NameRoadClass" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="100" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_SpeedMax" msprop:design-time-name="55434024-22ce-4ecf-a967-6a182c1e3561" msprop:DbTableName="SpeedMax" msprop:FriendlyName="SpeedMax" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="SpeedMaxID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="8cd631f8-8619-4bb9-82f4-4d2b832876c6" msprop:DbColumnName="SpeedMaxID" msprop:FriendlyName="SpeedMaxID" type="xs:int" />
+                  <xs:element name="SpeedMaxValue" msprop:design-time-name="020ba140-5fa7-489f-94d9-c3d411865db0" msprop:DbColumnName="SpeedMaxValue" msprop:FriendlyName="SpeedMaxValue" type="xs:double" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_Date" msprop:design-time-name="b38ed518-d738-4ca2-90ed-fb87e9592318" msprop:DbTableName="Date" msprop:FriendlyName="Date" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="DateID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="f1fd5668-aee7-454f-afef-495457e29bfa" msprop:DbColumnName="DateID" msprop:FriendlyName="DateID" type="xs:int" />
+                  <xs:element name="FullDate" msprop:design-time-name="8eb8f871-2f2d-4cf0-adcd-e49d92ecc443" msprop:DbColumnName="FullDate" msprop:FriendlyName="FullDate" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="20" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="DayID" msprop:design-time-name="7b9d91a2-d5a1-4e29-9346-903a06d1f91a" msprop:DbColumnName="DayID" msprop:FriendlyName="DayID" type="xs:int" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_Day" msprop:design-time-name="7c264222-2fd4-485f-9b46-c4aa3d099dd4" msprop:DbTableName="Day" msprop:FriendlyName="Day" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="DayID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="9adda916-8d1c-444c-a13b-e11d3965a41f" msprop:DbColumnName="DayID" msprop:FriendlyName="DayID" type="xs:int" />
+                  <xs:element name="DayName" msprop:design-time-name="a1ce70de-8332-4876-82b7-a52c5292f46e" msprop:DbColumnName="DayName" msprop:FriendlyName="DayName" type="xs:int" minOccurs="0" />
+                  <xs:element name="MonthID" msprop:design-time-name="e92bae7a-ddce-4890-9558-2220650670c2" msprop:DbColumnName="MonthID" msprop:FriendlyName="MonthID" type="xs:int" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_Month" msprop:design-time-name="d93a440a-3364-4b17-adfc-3eb2ef5dd6d4" msprop:DbTableName="Month" msprop:FriendlyName="Month" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="MonthID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="dcc95926-b407-4eff-b8be-5ccf873bd6e4" msprop:DbColumnName="MonthID" msprop:FriendlyName="MonthID" type="xs:int" />
+                  <xs:element name="MonthName" msprop:design-time-name="6f830abc-39b3-4a0d-8291-9187edbe291a" msprop:DbColumnName="MonthName" msprop:FriendlyName="MonthName" type="xs:int" minOccurs="0" />
+                  <xs:element name="QuarterID" msprop:design-time-name="d18cfea6-b619-456b-b6aa-b0b4cffea194" msprop:DbColumnName="QuarterID" msprop:FriendlyName="QuarterID" type="xs:int" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_Quarter" msprop:design-time-name="f8c0f1a4-4ed6-47ab-9fc1-079659ac3141" msprop:DbTableName="Quarter" msprop:FriendlyName="Quarter" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="QuarterID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="71db7f10-8185-43f9-8846-a86d4615850c" msprop:DbColumnName="QuarterID" msprop:FriendlyName="QuarterID" type="xs:int" />
+                  <xs:element name="QuarterName" msprop:design-time-name="2ffd017d-34cf-429a-9e85-a8813890f055" msprop:DbColumnName="QuarterName" msprop:FriendlyName="QuarterName" type="xs:int" minOccurs="0" />
+                  <xs:element name="YearID" msprop:design-time-name="7d423559-4c8a-460d-8d21-86bcf2532f0d" msprop:DbColumnName="YearID" msprop:FriendlyName="YearID" type="xs:int" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_Year" msprop:design-time-name="e01b57f9-1734-4483-a993-f896fe04b0c5" msprop:DbTableName="Year" msprop:FriendlyName="Year" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="YearID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="e77ce342-7859-40cd-90ea-91544b8cc01a" msprop:DbColumnName="YearID" msprop:FriendlyName="YearID" type="xs:int" />
+                  <xs:element name="YearName" msprop:design-time-name="c599c382-1ac4-4812-aab4-b42c8a32e71f" msprop:DbColumnName="YearName" msprop:FriendlyName="YearName" type="xs:int" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+        <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_Severty" />
+          <xs:field xpath="SevertyID" />
+        </xs:unique>
+        <xs:unique name="dbo_RoadClass_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_RoadClass" />
+          <xs:field xpath="RoadClassID" />
+        </xs:unique>
+        <xs:unique name="dbo_SpeedMax_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_SpeedMax" />
+          <xs:field xpath="SpeedMaxID" />
+        </xs:unique>
+        <xs:unique name="dbo_Date_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_Date" />
+          <xs:field xpath="DateID" />
+        </xs:unique>
+        <xs:unique name="dbo_Day_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_Day" />
+          <xs:field xpath="DayID" />
+        </xs:unique>
+        <xs:unique name="dbo_Month_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_Month" />
+          <xs:field xpath="MonthID" />
+        </xs:unique>
+        <xs:unique name="dbo_Quarter_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_Quarter" />
+          <xs:field xpath="QuarterID" />
+        </xs:unique>
+        <xs:unique name="dbo_Year_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_Year" />
+          <xs:field xpath="YearID" />
+        </xs:unique>
+        <xs:keyref name="FK8" refer="dbo_Year_Constraint1">
+          <xs:selector xpath=".//dbo_Quarter" />
+          <xs:field xpath="YearID" />
+        </xs:keyref>
+        <xs:keyref name="FK7" refer="dbo_Quarter_Constraint1">
+          <xs:selector xpath=".//dbo_Month" />
+          <xs:field xpath="QuarterID" />
+        </xs:keyref>
+        <xs:keyref name="FK6" refer="dbo_Month_Constraint1">
+          <xs:selector xpath=".//dbo_Day" />
+          <xs:field xpath="MonthID" />
+        </xs:keyref>
+        <xs:keyref name="FK5" refer="dbo_Day_Constraint1">
+          <xs:selector xpath=".//dbo_Date" />
+          <xs:field xpath="DayID" />
+        </xs:keyref>
+        <xs:keyref name="FK14" refer="Constraint1">
+          <xs:selector xpath=".//dbo_Fact3" />
+          <xs:field xpath="SevertyID" />
+        </xs:keyref>
+        <xs:keyref name="FK17" refer="dbo_SpeedMax_Constraint1">
+          <xs:selector xpath=".//dbo_Fact3" />
+          <xs:field xpath="SpeedMaxID" />
+        </xs:keyref>
+        <xs:keyref name="FK13" refer="dbo_Date_Constraint1">
+          <xs:selector xpath=".//dbo_Fact3" />
+          <xs:field xpath="DateID" />
+        </xs:keyref>
+        <xs:keyref name="FK16" refer="dbo_RoadClass_Constraint1">
+          <xs:selector xpath=".//dbo_Fact3" />
+          <xs:field xpath="RoadClassID" />
+        </xs:keyref>
+      </xs:element>
+    </xs:schema>
+    <Cau_x0020_6 xmlns="" />
+  </Schema>
+</DataSourceView>

@@ -1,0 +1,14 @@
+SELECT NON EMPTY Hierarchize({DrilldownLevel({[Severty].[Severty].[All]},,,INCLUDE_CALC_MEMBERS)}) DIMENSION PROPERTIES PARENT_UNIQUE_NAME,HIERARCHY_UNIQUE_NAME ON COLUMNS , 
+NON EMPTY CrossJoin(Hierarchize({DrilldownLevel({[Casualty Type].[Casualty Type].[All]},,,INCLUDE_CALC_MEMBERS)}), Hierarchize({DrilldownLevel({[Age Group2].[Age Group].[All]},,,INCLUDE_CALC_MEMBERS)})) DIMENSION PROPERTIES PARENT_UNIQUE_NAME,HIERARCHY_UNIQUE_NAME ON ROWS  
+FROM (SELECT ({[Date].[Year].&[2005],
+[Date].[Year].&[2006],
+[Date].[Year].&[2007],
+[Date].[Year].&[2008],
+[Date].[Year].&[2009],
+[Date].[Year].&[2010],
+[Date].[Year].&[2011],
+[Date].[Year].&[2012],
+[Date].[Year].&[2013],
+[Date].[Year].&[2014],
+[Date].[Year].&[2015]}) ON COLUMNS  FROM [Cau 7]) 
+WHERE ([Measures].[So Nguoi Tai Nan]) CELL PROPERTIES VALUE, FORMAT_STRING, LANGUAGE, BACK_COLOR, FORE_COLOR, FONT_FLAGS

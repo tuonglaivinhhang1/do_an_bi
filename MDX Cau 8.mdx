@@ -1,0 +1,3 @@
+SELECT NON EMPTY CrossJoin(Hierarchize({DrilldownLevel({[Journey Purpose].[Journey Purpose].[All]},,,INCLUDE_CALC_MEMBERS)}), 
+Hierarchize({DrilldownLevel({[Vehicle Type].[Vehicle Type].[All]},,,INCLUDE_CALC_MEMBERS)})) DIMENSION PROPERTIES PARENT_UNIQUE_NAME,HIERARCHY_UNIQUE_NAME ON COLUMNS  FROM [Cau 8] 
+WHERE ([Measures].[So TNGT]) CELL PROPERTIES VALUE, FORMAT_STRING, LANGUAGE, BACK_COLOR, FORE_COLOR, FONT_FLAGS
