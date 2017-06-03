@@ -6,12 +6,44 @@
     <Name>OLAP.database</Name>
     <FullPath>OLAP.database</FullPath>
   </Database>
+  <Cubes>
+    <ProjectItem>
+      <Name>Cau1.cube</Name>
+      <FullPath>Cau1.cube</FullPath>
+      <Dependencies>
+        <ProjectItem>
+          <Name>Cau1.partitions</Name>
+          <FullPath>Cau1.partitions</FullPath>
+        </ProjectItem>
+      </Dependencies>
+    </ProjectItem>
+  </Cubes>
+  <Dimensions>
+    <ProjectItem>
+      <Name>Severty.dim</Name>
+      <FullPath>Severty.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Date.dim</Name>
+      <FullPath>Date.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Location.dim</Name>
+      <FullPath>Location.dim</FullPath>
+    </ProjectItem>
+  </Dimensions>
   <DataSources>
     <ProjectItem>
       <Name>DDS.ds</Name>
       <FullPath>DDS.ds</FullPath>
     </ProjectItem>
   </DataSources>
+  <DataSourceViews>
+    <ProjectItem>
+      <Name>Cau1.dsv</Name>
+      <FullPath>Cau1.dsv</FullPath>
+    </ProjectItem>
+  </DataSourceViews>
   <Configurations>
     <Configuration>
       <Name>Development</Name>
@@ -20,7 +52,7 @@
           <ConfigurationSetting>
             <Id>DDS</Id>
             <Name>DDS</Name>
-            <Value xsi:type="xsd:string">Provider=SQLNCLI11.1;Data Source=DESKTOP-CS86AG5\SQLEXPRESS;Password=;User ID=;Initial Catalog=DDS</Value>
+            <Value xsi:type="xsd:string">Provider=SQLNCLI11.1;Data Source=DESKTOP-CS86AG5;Password=;User ID=;Initial Catalog=DDS</Value>
           </ConfigurationSetting>
         </ConnectionMappings>
         <ConnectionSecurityMappings>
