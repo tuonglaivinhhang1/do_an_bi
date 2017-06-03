@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="453"
-  DTS:VersionGUID="{DAE6EFAF-A5C6-47DB-8B12-6AA21C6A042F}">
+  DTS:VersionBuild="455"
+  DTS:VersionGUID="{45787D92-ACD3-4F28-8462-B103B9808095}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -27,7 +27,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAD6HwuuWwLMDXZ7dhuT15mw763d2pWIMnWc04WbAiv1vQAAAAAOgAAAAAIAACAAAACjk1BFeFKOkh5XbmH1oS9zVyNa1VTbkJgAb3DLKVW7oiAAAAC+IHQnsBTTzvE2gKutrxF1U65EonkVHuMjr2ixLSpUjkAAAACEiSqUrnzXdNUWtXyyyUXJryaR7RrJ6EwkEmhDrXamS0dTdhcxrdCaPrVVEMGA3BoRCE2g/3BO+W4Zy0ujeJ4d</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB8RBv5bVQcpfENqqh+EgVlrYfLA8swl2DlQ7450LuQ3AAAAAAOgAAAAAIAACAAAAALzoZRRx4t9c3sXLBoQ/1dPBpWqvBzblOUpj9evcvlhCAAAAC31/1W5JvX4c6z28OKfzN7nt4vWlVbUlWjim1/CHVyWUAAAADyGkGu5SoaKavomGSBE+r/keDwWaHBfuxyj+IFMpAozmdVmDedAtUanIjw31RmsAt/GIisyhyCKuNoOyACmbrp</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -42,7 +42,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB8NDSMIYxCkTNNXF499zGi/wNt8YCPutQKU1kN48E6/AAAAAAOgAAAAAIAACAAAAAJJ6PJ3x2zbVpsdj1wq5EhOJ+F6uJbWO7RCHMsyIJGpiAAAACGGfOUZZVuS3k2Oj3ZfAZSbWmhMFuA1ahMJQTiQgGl50AAAACI8ANwop++O3o2/TUt+F0/OiJpVDTUNprSTTqlPIf5BLrr06qR9YkIvS1vjvin68R5K3TqBp4psvLiTksToSaT</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABeSGpNDTay3gZVwrh04rG7GsKOe4ckp+kzSMczthFB3QAAAAAOgAAAAAIAACAAAACz+hOFiNateWMkgws7aF4syc0zth0rEBJ6nZsMeH24/yAAAADKAtT9wwgvxyzHUupsKkxKC4rgWgy65w1B0Xh8hPCHWkAAAAB54OMKzc1d0WbDFD7f8qe5O0VdDaC8q6lBNgZqi1d6QNIx6zZF3M7vWjUsriXZcoAEeJpicsc5b0fTcOgbNlT3</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -57,7 +57,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAEjafqIFg0I2pI9aF7Yw4TPZKWtM+bObPSviz+hZzZBgAAAAAOgAAAAAIAACAAAADuUUQlFtaNJAXu23mDxy4xL9JrPYlE/cRV8mUV6JxDviAAAAAHFltugEeWux9LIw1DxnvCGD4muLSunhFkLfgLc2oGyEAAAACD/J/0hGyqR6reuAxoi4cOTvaXSlV8cwNpxdaUIRByR6t3dz38q7DDcNll1W0Ypp4EznovLJ3/mkRwquIJ3UUE</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACLpE30HMWnE6g/fPQ7tLRYaRsViU5HJ0prlvJVb3aMhgAAAAAOgAAAAAIAACAAAABF/iSB3eXC0bjgm5zCExHGaLPx3ZTQvI0WbNnGc0/mXCAAAADFe5s6zsnP+vsD/8cOHXcMpitor2QeZNw+kwQoRDzJ+UAAAACmGygCOU1IFKaLylYAN1t48ZhnJljQ+MjN7qmM0QbN3tbXmeZJL6Fx/S/7VI8TXtwAHlrbPsFhXkwTB+b189q6</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -72,7 +72,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAC/qjOsd6pXGpP7fOZ692eHps69ibI97AQxNQMlN2WS6QAAAAAOgAAAAAIAACAAAABYOHOX+cDeWEtucaISG8OtDE0zh9ZYSiTAS1oA2UkxDSAAAABqtCRMCQ+eDSd5z28uCfm4Edf02+/SwkKfivcKfy642UAAAAAE534bAd07GHmiHbWEtryaA5+xpmzdZBtUcFH5IWjWEgKlQGTvwHGGygV7q6LYEe/GZ2WYRdXHgwoSsh04C8WH</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABAwDjo5Hc8xBzAxoHVZf/ciTtxWQcMeS/lqH6N6NSXtwAAAAAOgAAAAAIAACAAAABRQ04dVuDkX2JS5o6a5KCM7vSJbHQRllyvO4ERC+JFiSAAAABXeL7coHKfJ7hv+mKQsLVqziRjmc7Yo1ERGQU24mnq6UAAAACUQYTawz9H8KWXasvrhNS+xtPmYTvrNjn5EX26WxtGeMUKmcvUFcRaRm5q6Eg2FvKWIT3LFZ624o7CFpI6UQg8</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -87,7 +87,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAjaI8vY8PY/iLmlTdGhx6YSYQXuyN9dkMCxLHq6/pg5AAAAAAOgAAAAAIAACAAAADsv39rD01b179dO8kKt0MmqQvAXYZ4vIJHn1VZd3xFASAAAAA2eTclamOi9U0bYKEADHwPXEGxPjBLkPJjERRQhO3tDEAAAAD0mzzaSrWiKQwCxntiwTkkzUCTF8KFW9a+6u8Y5AR+7icAtaFFttzdZh30XVotQdc7HgTYdSAZ1FaEbLyBbEpR</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABGlfFViwijeEqzEt4ihjKhhtG/19Tcd2B88+rpgV9uggAAAAAOgAAAAAIAACAAAACxU9M4763GXogA3y1MrkRojfH0O+vVjudFNVmNIqesmCAAAABWvkGKKUMbZsV78/VLXurkuo0CabTheA5PrgMlWq1Rs0AAAABx2MBJ42cn3ZOdi8dgzv8aCAJDrSiVh2l1F1y8oFc2S34Yx4Sr3ki1G9THFTE9H6J1M0qga/s5fxNhA8Tparam</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -102,7 +102,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACMXph+iOAT9iu1QJlvTm6Tq11XBXBOPdSbwiXrmdsRawAAAAAOgAAAAAIAACAAAADuc387pxSHLiEMyPZM99VKzNDqSHSvcLJt2fTnUYyB/yAAAABq2EYIzqyF3HG9DmOWOiMDa1JO08ZEtRa7enTFNq9AKUAAAABnSwIsWLsoMYV4KWPwZmCiT0B3IBGhuzJ19EU/HvxJuA3uSKGguICuzyTs9anCSh7qHrJLNnOJVPJa2PnVmnbz</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADmWjLlbwAPBVTrWcLrn0wa4N2ZYOa3+ZxvK5ad+guH7AAAAAAOgAAAAAIAACAAAAA9yTODYdBDC0Ml/OnUp2hzzSmccQwxTAgS9RReIIreJiAAAAAs6/u/Tbm3Ww2Fq0TlQHgABEyBPh3YwpVKZmUTw6aT2kAAAADf6uvhhtOLpb+7aIomlrdxyRgI3riyL0aZZrST1rJtQpyyw+0UPNfNt6+3z2LxCPGdAHLQxyNX3w5f2zo/yJtS</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -117,7 +117,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADBsqSnElj9r3KU7lTC9Oo2Y1CpOEFwSUfArQtX7UQmhAAAAAAOgAAAAAIAACAAAACK/8smQ39nCdvoFoj2YKSSmRd1Hvedv9lwN4UEzhQbCCAAAACkgIXAvciqf7DIm8iKXyJy8IYdmyDg9YZsi5Gq9U8oZUAAAAA/Tnq2S6bxrC80FHVjdQLr8AOEurRB9Atpu3ZtggcixUOG7SfoCHc6FM3eVHkLss87ispBYpwD1Ht034x4uRBi</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABL3qO7P2p0aXO4pTHOKqHCPbMKFqFwXVFylNFbMtcKPgAAAAAOgAAAAAIAACAAAABb1Gsf3vUYOwwfTuH88OFWMm/Pous7jaKbsgppqD5WFSAAAAA2GHEHnDIvenNgFmJMyo40uann3LSdCLTvIBOdzJ1rHEAAAAB5sptzioKMDxmIya+dZWyGGnes1Q5HXWYTbYEfHbzczbxSbK4FWajjsRu1FdG7YprLJdgeg+xMaWhvoFoAUuSk</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -132,7 +132,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACRggQ2Y4WbTTAJX0Hxn1BaBZcCstY4OTW35cDUt9NRrgAAAAAOgAAAAAIAACAAAADhGZYcx5nyr+KPJPt0KoETKjgnRZB3j4sH9qZ8ZOSmEyAAAADJVZNHHiJNK93VkmvT5nrdGFMVwGZAvMr3e0SzerZBZEAAAAASP+HA/qOHLk8FT844Rg6mYykBLEZFJ5YL88lpfbUUj0haPVVVx3ZIiDbc2y55iQR0yJBC2wb1KhWxkzMLqxqE</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABotlMIs/y/4hBv17r6vqAdZ3kEM8dB/MuQVJKQW/9EnwAAAAAOgAAAAAIAACAAAACpdft8Nq6Bt8Ptwyk8U3QMzMIv22s8w5G1mDR8K9pE7iAAAAA0pTWlEn83AvkM4StstTFY2YFP4J4ZqGqNl+/2U8a6pUAAAAAJGJbLh1gKLcIg6M8vlqcYHbEZWlBj5lxHitUu9awnJ/FM4rRpuhArWzaD6pkvcInw5y+bgJBCOiWc8DNv36TN</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -157,7 +157,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAC65K/471zpCx0gnlSbxUsmERiRecv4uAZGsyCQSrPP0gAAAAAOgAAAAAIAACAAAADxOmhaDxogxfsdhX66gvcrUaOrh6vXxSbsJvshwvZepCAAAACJXcZGENX31wvaUWu7fQbAcvKmpTjJ/zpBE+k7zMyVbEAAAAAwKiFrhkmWSbYvI7VYQcnyHewR33mt8BlGl2eezDbCcNWz798LKEtXGvMzd5Wbl4CahSK5ZNjYfftThlXBn+at</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABv254gIpcRtjZ+jEYktD/ELKy9udndLy1EtR55JMPXywAAAAAOgAAAAAIAACAAAABsrBf5ADnLfV3gS9Xttvw5+PxNcMByMz2zBzWcMwUMHSAAAADU+ggEZBUC2Z++ZygKItZe+xKEYyiZ6bDlbITkIjReIUAAAADIjIq8a5fIAAK09xXJI8wRmUKTT02c9ZV68AXBDMeOrVfXlhpLv/AbWve5lBf7ZIKP4YDQR2WtW8uUAIWID8uc</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -172,7 +172,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADqZxSq9w4/fZNpPygBcJFKI6kDqmaf7LXn1BCUyGLICAAAAAAOgAAAAAIAACAAAABA2PGha4AeEKgufxUxWLBhN/HO/iGCc9Kee6x+sV3qXCAAAAAuLQT9OBPJOP8YOLPPBAidx4fEaS48PZXBxOusKM7Zd0AAAABOOKOk7eiVbrDwbb8lIyb8llktYWMJ7d7qfb/ELMXudoaU7PXN4U1mp4jGON3yYDRkm8nfTJOtxSzkwT8jBm99</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACzR7d8XXEEnEiZJCmr+rxyVDFm606CKAt9nHlcfBiXiAAAAAAOgAAAAAIAACAAAABqe9Od+GxLax6+y6kn4KUzFMeC7EZtd5Ca0/c8YI8K9iAAAADP1LNVg2DzDuVZgoyAiuJOnC26ynbWWRpzXqlp8QTn5EAAAAAl5Ggh7SkJjYCEAkME+LJ6GqW3+vuLM3iMQ6fFAufzFbh7A6sPrpWxE1eliajTriccsXOAfrY4IxCXMisi+u+z</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -187,7 +187,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB8Hci/MCPUQF4//N7nBe5E9cs7DQoa2SB0ZC7CVDrlCAAAAAAOgAAAAAIAACAAAABFVrsJmxJg4Ns6KUwfJ64CEuyX71fixzmCUWrj4dSL6iAAAADaviiy9PaAuZ3zQx03hTSRBr+rw4X6+dQM2+rT14SIXEAAAAC3OqSzyESRJD/73e/lKvEouIXmX4nHSB7Zwx4RGVrYMuRmbyKoJ2D5CbaRDwR80wfZofGXsslIEGE9UjMXB/Nk</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACBAy8esnSk+3DcPqN+VxGwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAB6JUy0I10v9Aw4EtPb31Dep234DjxiFY8GQZ0IPNzUQAAAAAOgAAAAAIAACAAAACcwI00aQN+ywQ1L0UmwaZimE5nEiWvJQKWQSRfT5L9ZyAAAABr6UFudVEiitXn7c6V77+oj96VBpsL+ydGFXsrnuOWuEAAAABmIIGWrVmhKjdQNTK8QwxGI//b1Cn5yJEgO4RA1wusHaQkk7SDV6NhFpCqf/FfRK6BcEr7EHa5J1V3rAx+Xuvn</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -20829,7 +20829,7 @@ where [refTable].[AccidentIndex] = ? and [refTable].[DataSource] = ?</property>
                   description="The SQL command to be executed."
                   expressionType="Notify"
                   name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">insert into Day(MonthID,DayName)
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">insert into Date(DayID,FullDate)
 values (?,?)</property>
                 <property
                   dataType="System.Int32"
@@ -20853,17 +20853,18 @@ values (?,?)</property>
                   name="OLE DB Command Input">
                   <inputColumns>
                     <inputColumn
-                      refId="Package\ETL To DDS_Date\inssert into Date.Inputs[OLE DB Command Input].Columns[MonthID]"
+                      refId="Package\ETL To DDS_Date\inssert into Date.Inputs[OLE DB Command Input].Columns[DayID]"
                       cachedDataType="i4"
-                      cachedName="MonthID"
+                      cachedName="DayID"
                       externalMetadataColumnId="Package\ETL To DDS_Date\inssert into Date.Inputs[OLE DB Command Input].ExternalColumns[Param_0]"
-                      lineageId="Package\ETL To DDS_Date\Aggregate.Outputs[Aggregate Output 1].Columns[MonthID]" />
+                      lineageId="Package\ETL To DDS_Date\Aggregate.Outputs[Aggregate Output 1].Columns[DayID]" />
                     <inputColumn
-                      refId="Package\ETL To DDS_Date\inssert into Date.Inputs[OLE DB Command Input].Columns[Day]"
-                      cachedDataType="i4"
-                      cachedName="Day"
+                      refId="Package\ETL To DDS_Date\inssert into Date.Inputs[OLE DB Command Input].Columns[Date]"
+                      cachedDataType="wstr"
+                      cachedLength="20"
+                      cachedName="Date"
                       externalMetadataColumnId="Package\ETL To DDS_Date\inssert into Date.Inputs[OLE DB Command Input].ExternalColumns[Param_1]"
-                      lineageId="Package\ETL To DDS_Date\Aggregate.Outputs[Aggregate Output 1].Columns[Day]" />
+                      lineageId="Package\ETL To DDS_Date\Aggregate.Outputs[Aggregate Output 1].Columns[Date]" />
                   </inputColumns>
                   <externalMetadataColumns
                     isUsed="True">
@@ -20880,7 +20881,8 @@ values (?,?)</property>
                     </externalMetadataColumn>
                     <externalMetadataColumn
                       refId="Package\ETL To DDS_Date\inssert into Date.Inputs[OLE DB Command Input].ExternalColumns[Param_1]"
-                      dataType="i4"
+                      dataType="wstr"
+                      length="20"
                       name="Param_1">
                       <properties>
                         <property
@@ -21114,6 +21116,22 @@ where [refTable].[DayID] = ? and [refTable].[FullDate] = ?</property>
                   name="Lookup Input">
                   <inputColumns>
                     <inputColumn
+                      refId="Package\ETL To DDS_Date\Tim Date va DayID da ton tai chua.Inputs[Lookup Input].Columns[DayID]"
+                      cachedDataType="i4"
+                      cachedName="DayID"
+                      lineageId="Package\ETL To DDS_Date\Aggregate.Outputs[Aggregate Output 1].Columns[DayID]">
+                      <properties>
+                        <property
+                          dataType="System.String"
+                          description="Specifies the column in the reference table that a column joins."
+                          name="JoinToReferenceColumn">DayID</property>
+                        <property
+                          dataType="System.Null"
+                          description="Specifies the column in the reference table from which a column is copied."
+                          name="CopyFromReferenceColumn" />
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
                       refId="Package\ETL To DDS_Date\Tim Date va DayID da ton tai chua.Inputs[Lookup Input].Columns[Date]"
                       cachedDataType="wstr"
                       cachedLength="20"
@@ -21124,22 +21142,6 @@ where [refTable].[DayID] = ? and [refTable].[FullDate] = ?</property>
                           dataType="System.String"
                           description="Specifies the column in the reference table that a column joins."
                           name="JoinToReferenceColumn">FullDate</property>
-                        <property
-                          dataType="System.Null"
-                          description="Specifies the column in the reference table from which a column is copied."
-                          name="CopyFromReferenceColumn" />
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\ETL To DDS_Date\Tim Date va DayID da ton tai chua.Inputs[Lookup Input].Columns[DayID]"
-                      cachedDataType="i4"
-                      cachedName="DayID"
-                      lineageId="Package\ETL To DDS_Date\Aggregate.Outputs[Aggregate Output 1].Columns[DayID]">
-                      <properties>
-                        <property
-                          dataType="System.String"
-                          description="Specifies the column in the reference table that a column joins."
-                          name="JoinToReferenceColumn">DayID</property>
                         <property
                           dataType="System.Null"
                           description="Specifies the column in the reference table from which a column is copied."
@@ -53592,7 +53594,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="3.5,45,16,16"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout

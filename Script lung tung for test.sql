@@ -1071,3 +1071,19 @@ left join Severty as S on S.MaSeverty=C.SeverityDT
 left join Vehicles as V on V.Ma_AccidentIndex=A.MaAccidents
 left join VehicleType as VT on VT.MaVehicleType=V.VehicleTypeDT
 group by A.Date,S.Name ,R.Name ,VT.Name ,A.SpeedMax
+
+
+select *
+from  Date da,Year y,Day d,Month m,Quarter q
+where da.DayID=d.DayID and d.MonthID=m.MonthID and m.QuarterID=q.QuarterID and q.YearID=y.YearID and y.YearName=2015
+
+select d.DayName,m.MonthName,q.QuarterName,y.YearName,count(*) from Month m,Year y,Quarter q,Day d where m.QuarterID=q.QuarterID and q.YearID=y.YearID and d.MonthID=m.MonthID
+group by d.DayName,m.MonthName,q.QuarterName,y.YearName
+
+select M.MonthName,Q.QuarterName,Y.YearName ,d.DayName
+from Month M,Quarter Q,Year Y ,Day d
+where M.QuarterID=Q.QuarterID and Q.YearID=Y.YearID and d.MonthID=m.MonthID and YearName=2015
+
+order by Y.YearName
+
+select * from Date
