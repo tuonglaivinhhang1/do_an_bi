@@ -1,4 +1,4 @@
-﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="6c46296e-e417-46fc-b561-6e7bd4398303" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="6c46296e-e417-46fc-b561-6e7bd4398303" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
   <ID>Date</ID>
   <Name>Date</Name>
   <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
@@ -8,7 +8,7 @@
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
       <Value>
         <dds xmlns="">
-          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="20" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="2342" scrolltop="-2532" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="73" x="6535" y="13044" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="20" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="2342" scrolltop="-2532" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="73" x="7594" y="7170" backcolor="16777215" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="1" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
             <font>
               <ddsxmlobjectstreamwrapper binary="01000000900144420100065461686f6d61" />
             </font>
@@ -77,7 +77,7 @@
           <ddscontrol controlprogid="MSDDS.Polyline" left="9221" top="1803" logicalid="15" controlid="6" masterid="0" hint1="0" hint2="0" width="799" height="3199" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
-                <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+                <polyline endtypedst="6" endtypesrc="3" usercolor="0" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
               </ddsxmlobj>
             </control>
             <layoutobject>
@@ -95,7 +95,7 @@
           <ddscontrol controlprogid="MSDDS.Polyline" left="5420" top="851" logicalid="16" controlid="7" masterid="0" hint1="0" hint2="0" width="3000" height="3051" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
-                <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+                <polyline endtypedst="6" endtypesrc="3" usercolor="0" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
               </ddsxmlobj>
             </control>
             <layoutobject>
@@ -115,7 +115,7 @@
           <ddscontrol controlprogid="MSDDS.Polyline" left="3920" top="4353" logicalid="17" controlid="8" masterid="0" hint1="0" hint2="0" width="4598" height="6650" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
-                <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+                <polyline endtypedst="6" endtypesrc="3" usercolor="0" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
               </ddsxmlobj>
             </control>
             <layoutobject>
@@ -135,7 +135,7 @@
           <ddscontrol controlprogid="MSDDS.Polyline" left="5216" top="9757" logicalid="18" controlid="9" masterid="0" hint1="0" hint2="0" width="1702" height="1647" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
-                <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+                <polyline endtypedst="6" endtypesrc="3" usercolor="0" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
               </ddsxmlobj>
             </control>
             <layoutobject>
@@ -190,7 +190,7 @@
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ARDiagramLayout</Name>
       <Value>
-        <DiagramLayout ZoomPercent="100" ViewPortX="0" ViewPortY="0" xmlns="">
+        <DiagramLayout ZoomPercent="100" ViewPortX="0" ViewPortY="2" xmlns="">
           <Shapes NodeWidth="115">
             <Shape Id="Date ID" Expanded="true">
               <Attributes>
@@ -377,14 +377,28 @@
       <ID>Year Name</ID>
       <Name>Year</Name>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="d7b0e98f-575b-43cb-9eff-40e80bcad20e">
+        <KeyColumn dwd:design-time-name="98d5565b-0b23-4f7e-b431-60b22e4cf596">
           <DataType>Integer</DataType>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="6c6312b8-c7d9-421f-84d0-2566993bd08c">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="a0834edd-cbcd-46be-9f0e-b9fa0991f92d">
             <TableID>dbo_Year</TableID>
             <ColumnID>YearName</ColumnID>
           </Source>
         </KeyColumn>
+        <KeyColumn dwd:design-time-name="bd70bf48-749e-45ae-8204-ea8eecabed54">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="9220f78b-da3b-47ef-8efa-36fdf2dc5f58">
+            <TableID>dbo_Year</TableID>
+            <ColumnID>YearID</ColumnID>
+          </Source>
+        </KeyColumn>
       </KeyColumns>
+      <NameColumn dwd:design-time-name="d1f4c3aa-47b0-4e3e-a275-62edc50eaf15">
+        <DataType>WChar</DataType>
+        <Source xsi:type="ColumnBinding" dwd:design-time-name="4dee9555-deeb-46b4-b0af-11d911300c47">
+          <TableID>dbo_Year</TableID>
+          <ColumnID>YearName</ColumnID>
+        </Source>
+      </NameColumn>
       <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
       <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
     </Attribute>
@@ -392,14 +406,28 @@
       <ID>Month Name</ID>
       <Name>Month</Name>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="b28dd511-24a1-4df3-81cd-040976488fe1">
+        <KeyColumn dwd:design-time-name="eace5219-7027-4d4e-8110-192a574c7662">
           <DataType>Integer</DataType>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="5108465a-4d55-4073-beca-204ffdd97213">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="d1cd427c-5016-44b0-a91f-81de6c3f289f">
             <TableID>dbo_Month</TableID>
             <ColumnID>MonthName</ColumnID>
           </Source>
         </KeyColumn>
+        <KeyColumn dwd:design-time-name="c07a2b5a-5357-49f4-a1c7-d64b3a3dd26d">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="48f83d5e-9913-4139-87fa-4277cba09acd">
+            <TableID>dbo_Month</TableID>
+            <ColumnID>QuarterID</ColumnID>
+          </Source>
+        </KeyColumn>
       </KeyColumns>
+      <NameColumn dwd:design-time-name="c9ef77a9-cf29-4c21-9bd4-77262d243d87">
+        <DataType>WChar</DataType>
+        <Source xsi:type="ColumnBinding" dwd:design-time-name="e13f8527-1a67-4542-847c-5e51d307c4e9">
+          <TableID>dbo_Month</TableID>
+          <ColumnID>MonthName</ColumnID>
+        </Source>
+      </NameColumn>
       <AttributeRelationships>
         <AttributeRelationship dwd:design-time-name="26d39258-e31f-4ea4-a7c5-e620d975d385">
           <AttributeID>Quarter Name</AttributeID>
@@ -413,14 +441,28 @@
       <ID>Day Name</ID>
       <Name>Day</Name>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="3693477e-01f9-4823-9f94-3bd83fd6f091">
+        <KeyColumn dwd:design-time-name="9dee8ab6-7899-4602-a0c0-f177a783315f">
           <DataType>Integer</DataType>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="7033bdd6-812d-47d6-bd5d-f0b0b507889b">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="775680d4-88a9-4173-b2fa-729eb6575756">
             <TableID>dbo_Day</TableID>
             <ColumnID>DayName</ColumnID>
           </Source>
         </KeyColumn>
+        <KeyColumn dwd:design-time-name="8bc10c10-9f27-4851-84a9-5038b9762fb3">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="095b4ce8-407d-4f99-b866-ec4834e103b8">
+            <TableID>dbo_Day</TableID>
+            <ColumnID>MonthID</ColumnID>
+          </Source>
+        </KeyColumn>
       </KeyColumns>
+      <NameColumn dwd:design-time-name="a3bcc863-6363-4627-846c-b82767475f01">
+        <DataType>WChar</DataType>
+        <Source xsi:type="ColumnBinding" dwd:design-time-name="b65433a3-dd6f-4442-a9bd-38c59a0bbdd2">
+          <TableID>dbo_Day</TableID>
+          <ColumnID>DayName</ColumnID>
+        </Source>
+      </NameColumn>
       <AttributeRelationships>
         <AttributeRelationship dwd:design-time-name="29b8e3e9-bf93-47b3-a86d-ec6fb052f1cf">
           <AttributeID>Month Name</AttributeID>
@@ -434,14 +476,28 @@
       <ID>Quarter Name</ID>
       <Name>Quarter</Name>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="0a7230ba-d569-4196-be93-6c680e7c1b43">
+        <KeyColumn dwd:design-time-name="84ff64d1-40db-4b1a-b132-32b51a0cbb4a">
           <DataType>Integer</DataType>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="7e1fc820-a59d-4691-ab14-3c158391b7d0">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="c4de7436-8da2-4dc5-8466-94e83b9a9124">
             <TableID>dbo_Quarter</TableID>
             <ColumnID>QuarterName</ColumnID>
           </Source>
         </KeyColumn>
+        <KeyColumn dwd:design-time-name="7a2e3857-7d55-4295-a280-35c5470e9c7b">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="d055f45e-e8b0-4de6-bce7-0263a2d19064">
+            <TableID>dbo_Quarter</TableID>
+            <ColumnID>YearID</ColumnID>
+          </Source>
+        </KeyColumn>
       </KeyColumns>
+      <NameColumn dwd:design-time-name="40f5d028-9252-4743-b4d0-6d38ae55a57a">
+        <DataType>WChar</DataType>
+        <Source xsi:type="ColumnBinding" dwd:design-time-name="7c924aec-c5eb-41d3-ba34-c6d0dabbe6d6">
+          <TableID>dbo_Quarter</TableID>
+          <ColumnID>QuarterName</ColumnID>
+        </Source>
+      </NameColumn>
       <AttributeRelationships>
         <AttributeRelationship dwd:design-time-name="1703a875-0fd9-43c1-a7a3-f050d5a49308">
           <AttributeID>Year Name</AttributeID>

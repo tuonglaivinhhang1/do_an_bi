@@ -1086,4 +1086,17 @@ where M.QuarterID=Q.QuarterID and Q.YearID=Y.YearID and d.MonthID=m.MonthID and 
 
 order by Y.YearName
 
-select * from Date
+select * from Fact1 where ThoiDiemID=2
+
+
+select * from Accidents 
+where (convert(varchar(5),Time,8) between cast('17:01' as time)  and 
+cast('23:59' as time)) or (convert(varchar(5),Time,8) between cast('00:00' as time)  and cast('05:59' as time)) 
+
+select  cast('05:59' as time)-cast('06:00' as time)
+
+delete  Fact1
+
+select * from ThoiDiem
+
+select Time from Accidents where convert(varchar(5),Time,8)<'05:00'

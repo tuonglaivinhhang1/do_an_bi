@@ -4,8 +4,6 @@
     <Configuration>
       <Name>Development</Name>
       <Options>
-        <ServerName />
-        <PathOnServer />
         <StartObjectID>Package.dtsx</StartObjectID>
         <Run64BitRuntime>true</Run64BitRuntime>
         <UserIDs />

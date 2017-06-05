@@ -1,0 +1,224 @@
+﻿<DataSourceView xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="8cd39aec-12c3-4717-b6f8-d411a6d8d2ad" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Cau 3</ID>
+  <Name>Cau 3</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:CurrentLayout</Name>
+      <Value>_ALL_TABLES_</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:SchemaRestriction</Name>
+      <Value></Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:RetrieveRelationships</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:Layouts</Name>
+      <Value>
+        <Layouts xmlns="">
+          <Diagram>
+            <Name>_ALL_TABLES_</Name>
+            <DiagramLayout />
+            <ShowRelationshipNames>False</ShowRelationshipNames>
+            <UseDiagramDefaultLayout>True</UseDiagramDefaultLayout>
+            <DiagramViewPortLeft>0</DiagramViewPortLeft>
+            <DiagramViewPortTop>0</DiagramViewPortTop>
+            <DiagramBoundingLeft>0</DiagramBoundingLeft>
+            <DiagramBoundingTop>0</DiagramBoundingTop>
+            <DiagramZoom>100</DiagramZoom>
+          </Diagram>
+        </Layouts>
+      </Value>
+    </Annotation>
+  </Annotations>
+  <DataSourceID>DDS</DataSourceID>
+  <Schema>
+    <xs:schema id="Cau_x0020_3" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+      <xs:element name="Cau_x0020_3" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:design-time-name="3ae46e64-e056-44d8-9e8c-ebe64a37c22e">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="dbo_AgeGroup1" msprop:design-time-name="5ab4ef14-1529-43e8-9d33-9422f031c899" msprop:DbTableName="AgeGroup1" msprop:FriendlyName="AgeGroup1" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="AgeGroupID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="789ed5ba-596d-4006-8b60-65b7eb0ad4cc" msprop:DbColumnName="AgeGroupID" msprop:FriendlyName="AgeGroupID" type="xs:int" />
+                  <xs:element name="NameAgeGroup" msprop:design-time-name="68458acf-2c2c-4798-98f2-90d005d1e0af" msprop:DbColumnName="NameAgeGroup" msprop:FriendlyName="NameAgeGroup" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="100" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="FromAge" msprop:design-time-name="c21b6cc2-fcd9-443e-959e-46e129a71cbc" msprop:DbColumnName="FromAge" msprop:FriendlyName="FromAge" type="xs:int" minOccurs="0" />
+                  <xs:element name="ToAge" msprop:design-time-name="f6d9f449-d70c-46db-bed3-d78161795ee2" msprop:DbColumnName="ToAge" msprop:FriendlyName="ToAge" type="xs:int" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_CasualtyType" msprop:design-time-name="ba1fab57-098b-411d-9f84-f468aee3f5af" msprop:DbTableName="CasualtyType" msprop:FriendlyName="CasualtyType" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="CasualtyTypeID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="581adae2-0ace-45e5-affd-c74147de315e" msprop:DbColumnName="CasualtyTypeID" msprop:FriendlyName="CasualtyTypeID" type="xs:int" />
+                  <xs:element name="NameCasualtyType" msprop:design-time-name="61d17a2e-0073-41d3-9c56-ef9703bbae8e" msprop:DbColumnName="NameCasualtyType" msprop:FriendlyName="NameCasualtyType" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="100" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Age" msprop:design-time-name="3225a6ff-c768-4426-89ba-d6dbeeef9bb4" msprop:DbColumnName="Age" msprop:FriendlyName="Age" type="xs:int" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_Gender" msprop:design-time-name="46b4e6fa-d85c-4542-b954-9d674c53c4e6" msprop:DbTableName="Gender" msprop:FriendlyName="Gender" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="GenderID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="dbbc5676-d0ea-49cc-b917-4c550b0df9d9" msprop:DbColumnName="GenderID" msprop:FriendlyName="GenderID" type="xs:int" />
+                  <xs:element name="NameGender" msprop:design-time-name="f503feb3-966f-4a2f-8a0e-195934f00d7c" msprop:DbColumnName="NameGender" msprop:FriendlyName="NameGender" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_Date" msprop:design-time-name="ba07a5a1-37af-403c-9006-d6118b6f257c" msprop:DbTableName="Date" msprop:FriendlyName="Date" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="DateID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="d7d3aef2-5cf6-4956-b15b-0e3e1d8468a0" msprop:DbColumnName="DateID" msprop:FriendlyName="DateID" type="xs:int" />
+                  <xs:element name="FullDate" msprop:design-time-name="c5f74b49-3545-425d-aeac-3c92a19454a8" msprop:DbColumnName="FullDate" msprop:FriendlyName="FullDate" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="20" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="DayID" msprop:design-time-name="df22bf8a-e343-4141-bf82-1d39be87e052" msprop:DbColumnName="DayID" msprop:FriendlyName="DayID" type="xs:int" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_Day" msprop:design-time-name="e5bd08cb-05b1-4f98-b598-1b53e5aa0148" msprop:DbTableName="Day" msprop:FriendlyName="Day" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="DayID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="dbd1d4eb-e4ed-41d3-bbcf-1f20469536ed" msprop:DbColumnName="DayID" msprop:FriendlyName="DayID" type="xs:int" />
+                  <xs:element name="DayName" msprop:design-time-name="520c9c92-e4d9-443b-8abd-a97b4d9a55d9" msprop:DbColumnName="DayName" msprop:FriendlyName="DayName" type="xs:int" minOccurs="0" />
+                  <xs:element name="MonthID" msprop:design-time-name="6a607151-7015-47a6-8115-da9b39e4760b" msprop:DbColumnName="MonthID" msprop:FriendlyName="MonthID" type="xs:int" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_Month" msprop:design-time-name="39a24325-910c-4113-807f-3f8ec996beeb" msprop:DbTableName="Month" msprop:FriendlyName="Month" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="MonthID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="0d7f24b3-bbd4-4a1d-a641-171c79103e59" msprop:DbColumnName="MonthID" msprop:FriendlyName="MonthID" type="xs:int" />
+                  <xs:element name="MonthName" msprop:design-time-name="58a6c0e6-446e-4d9c-a3af-adb1f960e04d" msprop:DbColumnName="MonthName" msprop:FriendlyName="MonthName" type="xs:int" minOccurs="0" />
+                  <xs:element name="QuarterID" msprop:design-time-name="313b32fc-4c72-4dad-960f-29fbd80ddd99" msprop:DbColumnName="QuarterID" msprop:FriendlyName="QuarterID" type="xs:int" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_Quarter" msprop:design-time-name="79ba7048-0e62-45c6-9f2f-f1b90528c675" msprop:DbTableName="Quarter" msprop:FriendlyName="Quarter" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="QuarterID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="1669cdb8-ce6d-472c-a073-7d5c61821343" msprop:DbColumnName="QuarterID" msprop:FriendlyName="QuarterID" type="xs:int" />
+                  <xs:element name="QuarterName" msprop:design-time-name="5ec9aefb-ed67-47f8-b159-415a35124f4b" msprop:DbColumnName="QuarterName" msprop:FriendlyName="QuarterName" type="xs:int" minOccurs="0" />
+                  <xs:element name="YearID" msprop:design-time-name="7d93e6b6-2706-4857-98b4-3dd038e2a4a9" msprop:DbColumnName="YearID" msprop:FriendlyName="YearID" type="xs:int" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_Year" msprop:design-time-name="1ae6d53a-270f-4f90-95f6-32ecc5a7889f" msprop:DbTableName="Year" msprop:FriendlyName="Year" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="YearID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="65d857d5-4b26-45a1-8ce8-8acaea70232d" msprop:DbColumnName="YearID" msprop:FriendlyName="YearID" type="xs:int" />
+                  <xs:element name="YearName" msprop:design-time-name="0f1111fd-564b-46de-975d-cbbc7fd1bcaf" msprop:DbColumnName="YearName" msprop:FriendlyName="YearName" type="xs:int" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_Fact2" msprop:design-time-name="8239836d-e9f6-4500-88cd-700a964fa379" msprop:DbTableName="Fact2" msprop:FriendlyName="Fact2" msprop:DbSchemaName="dbo" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="DateID" msprop:design-time-name="37392cbe-3907-4c27-91df-d1481aba5e3f" msprop:DbColumnName="DateID" msprop:FriendlyName="DateID" type="xs:int" minOccurs="0" />
+                  <xs:element name="CasualtyTypeID" msprop:design-time-name="dc6d92d8-cecd-4a34-8a36-3f0cb45ea6db" msprop:DbColumnName="CasualtyTypeID" msprop:FriendlyName="CasualtyTypeID" type="xs:int" minOccurs="0" />
+                  <xs:element name="AgeGroupID" msprop:design-time-name="e914e92c-2a2c-4be4-b21a-f62ce713d600" msprop:DbColumnName="AgeGroupID" msprop:FriendlyName="AgeGroupID" type="xs:int" minOccurs="0" />
+                  <xs:element name="GenderID" msprop:design-time-name="bc91f155-6464-4235-b9e8-416c1eceb4c6" msprop:DbColumnName="GenderID" msprop:FriendlyName="GenderID" type="xs:int" minOccurs="0" />
+                  <xs:element name="SoNguoiChet" msprop:design-time-name="05899a11-ab98-4a89-ae86-b5ba3dd8c3be" msprop:DbColumnName="SoNguoiChet" msprop:FriendlyName="SoNguoiChet" type="xs:int" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+        <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_AgeGroup1" />
+          <xs:field xpath="AgeGroupID" />
+        </xs:unique>
+        <xs:unique name="dbo_CasualtyType_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_CasualtyType" />
+          <xs:field xpath="CasualtyTypeID" />
+        </xs:unique>
+        <xs:unique name="dbo_Gender_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_Gender" />
+          <xs:field xpath="GenderID" />
+        </xs:unique>
+        <xs:unique name="dbo_Date_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_Date" />
+          <xs:field xpath="DateID" />
+        </xs:unique>
+        <xs:unique name="dbo_Day_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_Day" />
+          <xs:field xpath="DayID" />
+        </xs:unique>
+        <xs:unique name="dbo_Month_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_Month" />
+          <xs:field xpath="MonthID" />
+        </xs:unique>
+        <xs:unique name="dbo_Quarter_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_Quarter" />
+          <xs:field xpath="QuarterID" />
+        </xs:unique>
+        <xs:unique name="dbo_Year_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_Year" />
+          <xs:field xpath="YearID" />
+        </xs:unique>
+        <xs:keyref name="FK10" refer="dbo_CasualtyType_Constraint1">
+          <xs:selector xpath=".//dbo_Fact2" />
+          <xs:field xpath="CasualtyTypeID" />
+        </xs:keyref>
+        <xs:keyref name="FK9" refer="dbo_Date_Constraint1">
+          <xs:selector xpath=".//dbo_Fact2" />
+          <xs:field xpath="DateID" />
+        </xs:keyref>
+        <xs:keyref name="FK11" refer="Constraint1">
+          <xs:selector xpath=".//dbo_Fact2" />
+          <xs:field xpath="AgeGroupID" />
+        </xs:keyref>
+        <xs:keyref name="FK12" refer="dbo_Gender_Constraint1">
+          <xs:selector xpath=".//dbo_Fact2" />
+          <xs:field xpath="GenderID" />
+        </xs:keyref>
+        <xs:keyref name="FK8" refer="dbo_Year_Constraint1">
+          <xs:selector xpath=".//dbo_Quarter" />
+          <xs:field xpath="YearID" />
+        </xs:keyref>
+        <xs:keyref name="FK7" refer="dbo_Quarter_Constraint1">
+          <xs:selector xpath=".//dbo_Month" />
+          <xs:field xpath="QuarterID" />
+        </xs:keyref>
+        <xs:keyref name="FK6" refer="dbo_Month_Constraint1">
+          <xs:selector xpath=".//dbo_Day" />
+          <xs:field xpath="MonthID" />
+        </xs:keyref>
+        <xs:keyref name="FK5" refer="dbo_Day_Constraint1">
+          <xs:selector xpath=".//dbo_Date" />
+          <xs:field xpath="DayID" />
+        </xs:keyref>
+      </xs:element>
+    </xs:schema>
+    <Cau_x0020_3 xmlns="" />
+  </Schema>
+</DataSourceView>
